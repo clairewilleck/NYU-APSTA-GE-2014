@@ -62,7 +62,7 @@ The second data set used in this project comes from the MIT Election Data and Sc
 First, I load in the two datasets that will be required for the analyses.
 
 ```{r, echo=TRUE, warnings=FALSE}
-setwd("/Users/clairewilleck/Documents/PhD Courses/NYU APSTA GE 2014 /Final Project/")
+setwd("/Users/clairewilleck/Documents/PhD Courses/NYU APSTA GE 2014 /Final Project")
 set.seed("573")
 read_plus <- function(flnm) {
     read_csv(flnm) %>% 
@@ -329,7 +329,7 @@ mean_d1 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
 
 ###One more Republican candidate and same number of Democratic candidates as reality
 
-I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of candidates changes.
 
 ```{r}
 ##Create a variables
@@ -392,7 +392,7 @@ mean_d2 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
 
 ###One more Democratic candidate and same number of Republican candidates as reality
 
-I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of candidates changes.
 
 
 ```{r}
@@ -458,7 +458,7 @@ mean_d3 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
 
 ###One less Republican candidate and same number of Democratic candidates as reality
 
-I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of candidates changes.
 
 
 ```{r}
@@ -523,7 +523,7 @@ mean_d4 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
 ##Scenario 5
 
 ###One less Democratic candidate and same number of Republican candidates as reality
-I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of candidates changes.
 
 
 ```{r}
@@ -607,7 +607,7 @@ kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
 
-From the table above, it appears that the density is dependent on the number of candidates running in the election for some states. Scenarios 2 and 3 tend to have higher mean density than scenario 1 and scenarios 4 and 5 tend to have lower mean density than scenario 1. It seems like this trend is greater in states with fewer candidates running such as Alaska, North Dakota, Wyoming, Vermont, etc. In other states, the degree centrality is fairly constant across scenarios.
+From Table 2, it appears that the density is dependent on the number of candidates running in the election for some states. Scenarios 2 and 3 tend to have higher mean density than scenario 1 and scenarios 4 and 5 tend to have lower mean density than scenario 1. It seems like this trend is greater in states with fewer candidates running such as Alaska, North Dakota, Wyoming, Vermont, etc. In other states, the degree centrality is fairly constant across scenarios.
 
 Degree Centrality:
 
@@ -626,7 +626,7 @@ mutate_all(linebreak) %>%
 kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Degree Centrality for All Five Scenarios")%>%
 kable_styling(latex_options = c("striped", "hold_position"))
 ```
-There doesn't appear to be a pattern in mean degree centrality over the five scenarios. In some states, adding an additional candidate-either a Republican or a Democrat-increases degree centrality and in other states, adding an additional candidate decreases degree centrality. The same applies for decreasing a candidate. It also doesn't appear to make much of a difference whether the candidate added or removed was a Republican or Democrat. Most states have the same-if not very similar-degree centrality measures for scenarios 2 and 3 and similarly for scenarios 4 and 5.
+In Table 3, there doesn't appear to be a pattern in mean degree centrality over the five scenarios. In some states, adding an additional candidate-either a Republican or a Democrat-increases degree centrality and in other states, adding an additional candidate decreases degree centrality. The same applies for decreasing a candidate. It also doesn't appear to make much of a difference whether the candidate added or removed was a Republican or Democrat. Most states have the same-if not very similar-degree centrality measures for scenarios 2 and 3 and similarly for scenarios 4 and 5.
 
 
 Eigenvector Centrality: 
@@ -647,7 +647,7 @@ kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), ca
 kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-The same patterns found in degree centrality are found in eigenvector centrality.
+In Table 4, the same patterns found in degree centrality are found in eigenvector centrality.
 
 
 ##Second Set
@@ -936,7 +936,7 @@ kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), ca
 kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-There really does not appear to be a trend with network level density at the probability of donor groups to donate to Republican or Democratic candidates. In some states, the network level density does change based on the polarization of donor groups. For example, it Missouri, lower levels of polarization have higher mean densities and higher levels of polarization have lower mean densities. In contrast, Montana's mean density levels are fairly constant across donor group polarization. In some states, it depends on whether the polarization is based from Democrats or Republicans. For instance, in New York, density doesn't change much except when donor groups that were donating candidates from both parties start donating to only Republican candidates. A similar pattern exists in Illinois. 
+In Table 5, there really does not appear to be a trend with network level density at the probability of donor groups to donate to Republican or Democratic candidates. In some states, the network level density does change based on the polarization of donor groups. For example, it Missouri, lower levels of polarization have higher mean densities and higher levels of polarization have lower mean densities. In contrast, Montana's mean density levels are fairly constant across donor group polarization. In some states, it depends on whether the polarization is based from Democrats or Republicans. For instance, in New York, density doesn't change much except when donor groups that were donating candidates from both parties start donating to only Republican candidates. A similar pattern exists in Illinois. 
 
 Degree Centrality:
 
@@ -956,7 +956,7 @@ kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), ca
 kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-Once again, there's not a systematic pattern with degree centrality across the four scenarios. However, it seems like it rarely matters whether the polarization is from donor groups donating to Republican or Democratic candidates. There are some states like South Carolina and Arizona where scenario 5 has higher degree centrality, but overall degree centrality is similar in scenarios 1 and 2 and similar in scenarios 3 and 4. 
+Once again in Table 6, there's not a systematic pattern with degree centrality across the four scenarios. However, it seems like it rarely matters whether the polarization is from donor groups donating to Republican or Democratic candidates. There are some states like South Carolina and Arizona where scenario 5 has higher degree centrality, but overall degree centrality is similar in scenarios 1 and 2 and similar in scenarios 3 and 4. 
 Eigenvector Centrality: 
 
 ```{r}
@@ -975,7 +975,7 @@ kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), ca
 kable_styling(latex_options = c("striped", "hold_position"))
 ```
 
-Eigenvector centrality measures are different for most states between scenarios 3 and 4. It seems that more liberal states have higher eigenvector centrality in scenario 3 and more conservative states have higher eigenvector centrality in scenario 4. Scenario 3 is when donor groups donating to candidates from both parties change to donating to only candidates from the Republican party and scenario 4 is the opposite. This might indicate that central donor groups are connected to other central donor groups because the donor groups are becoming more polarized so there are two clusters-one Republican and one Democratic. 
+In Table 7, Eigenvector centrality measures are different for most states between scenarios 3 and 4. It seems that more liberal states have higher eigenvector centrality in scenario 3 and more conservative states have higher eigenvector centrality in scenario 4. Scenario 3 is when donor groups donating to candidates from both parties change to donating to only candidates from the Republican party and scenario 4 is the opposite. This might indicate that central donor groups are connected to other central donor groups because the donor groups are becoming more polarized so there are two clusters-one Republican and one Democratic. 
 
 ##Conclusion
 
