@@ -1,0 +1,118 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"1","1-800 CONTACTS","Health Services","Health","Optical services (glasses & contact lenses)",47.3684210526316,52.6315789473684,"#0F0000AF","#0F0000AF",9500
+"1017","FIDELITY INVESTMENTS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",6500
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",10,90,"#CC0000AF","#D10000AF",3000
+"1260","HOLME ROBERTS & OWEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",26.530612244898,73.469387755102,"#7A0000AF","#7A0000AF",1225
+"131","AMERICAN EXPRESS","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1400
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",1450
+"16784","UTAH CONSUMER LENDING ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",2600
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",40,60,"#330000AF","#330000AF",1500
+"1724","MICRON TECHNOLOGY","Computer Equipment & Services","Communications & Electronics","Computers, components & accessories",32.6923076923077,67.3076923076923,"#5C0000AF","#5C0000AF",2600
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",100,0,"#0000FFAF","#0000FFAF",1100
+"18420","REPUBLICAN SENATE CAMPAIGN CMTE OF UTAH","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",42026.05
+"18618","ASSOCIATED GENERAL CONTRACTORS OF UTAH","General Contractors","Construction","Builders associations",22.5806451612903,77.4193548387097,"#8F0000AF","#8F0000AF",1550
+"19180","UTAH PUBLIC EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",40.5473897617841,59.4526102382159,"#330000AF","#330000AF",2466.25
+"19257","UTAH FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",700
+"19680","ELECTRICAL WORKERS LOCAL 57","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",5700
+"19699629","UTAH HOME BUILDERS","Home Builders","Construction","Residential construction",9.61538461538462,90.3846153846154,"#D10000AF","#D10000AF",2600
+"19768","TEAMSTERS LOCAL 222","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1500
+"19894","OPERATING ENGINEERS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1250
+"19900680","UTAH ASSOCIATION OF FINANCIAL SERVICES","Uncoded","Uncoded","Uncoded",46.4285714285714,53.5714285714286,"#140000AF","#140000AF",7000
+"20172","UTAH AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",4100
+"20268","UTAH EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",85.1584980112285,14.8415019887715,"#0000B3AF","#0000B3AF",23107.23
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",80,20,"#000099AF","#000099AF",5000
+"21121","SIERRA CLUB UTAH CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",1050
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",400
+"2147","QWEST COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",31.4285714285714,68.5714285714286,"#610000AF","#610000AF",5250
+"2151","R & R PARTNERS","Business Services","General Business","Advertising & public relations services",60,40,"#000033AF","#000033AF",1250
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",80,20,"#000099AF","#000099AF",1500
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",400
+"24800895","UPEA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",1100
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",5500
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",25,75,"#800000AF","#800000AF",5000
+"2713","US BANCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",40,60,"#330000AF","#330000AF",1000
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",20,80,"#990000AF","#9E0000AF",500
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",31.3725490196078,68.6274509803922,"#610000AF","#610000AF",5100
+"28742246","UTAH RESTAURANT ASSOCIATION","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",625
+"28742463","UTAH SOCIETY OF ANESTHESIOLOGISTS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"2927","ZION BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",40.4371584699454,59.5628415300546,"#330000AF","#330000AF",9150
+"4058","UTAH MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",12.2448979591837,87.7551020408163,"#C20000AF","#C20000AF",2450
+"40613966","WOMENS DEMOCRATIC CLUB","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"40638532","CENTRAL BANK","Uncoded","Uncoded","Uncoded",27.906976744186,72.0930232558139,"#750000AF","#750000AF",2150
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",68.9655172413793,31.0344827586207,"#00005CAF","#00005CAF",2900
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",34.4827586206897,65.5172413793103,"#520000AF","#520000AF",2900
+"4457","UTAH ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",19.3452380952381,80.6547619047619,"#9E0000AF","#9E0000AF",33600
+"470","CAMPAIGN FOR AMERICAS FUTURE","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",11500
+"4754","WASHINGTON INDEPENDENCE DAY ASSOCIATION","Chemical & Related Manufacturing","General Business","Explosives",36.8421052631579,63.1578947368421,"#470000AF","#470000AF",475
+"4940","UTAH REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",14462.21
+"4941","SENATE DEMOCRATS OF UTAH","Party Committees","Party","Democratic Party committees",95.9147400558834,4.0852599441166,"#0000E5AF","#0000E5AF",29661.76
+"4942","UTAH DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",17292.33
+"4986","AMERICA FIRST CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",0,100,"#FF0000AF","#FF0000AF",3700
+"5499","UTAH LEAGUE OF CREDIT UNIONS","Credit Unions","Finance, Insurance & Real Estate","Credit unions",76.8110206397376,23.1889793602624,"#000085AF","#000085AF",12937.18
+"5605","7-ELEVEN","Oil & Gas","Energy & Natural Resources","Gasoline service stations",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",900
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",31.0344827586207,68.9655172413793,"#610000AF","#610000AF",2900
+"582221","PROFESSIONAL FIRE FIGHTERS OF UTAH","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1600
+"6498","DAVIS COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4500
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",800
+"6697","ENVIROCARE OF UTAH","Waste Management","Energy & Natural Resources","Waste management",26.2135922330097,73.7864077669903,"#7A0000AF","#7A0000AF",5150
+"683","CONVERGYS","Business Services","General Business","Management consultants & services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",48.3333333333333,51.6666666666667,"#0A0000AF","#0A0000AF",3000
+"7396","KENNECOTT UTAH COPPER","Mining","Energy & Natural Resources","Coal mining",30,70,"#660000AF","#660000AF",3000
+"7890024","SINCLAIR OIL CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",20,80,"#990000AF","#9E0000AF",1000
+"7966","MOUNTAIN STAR HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",37.5,62.5,"#420000AF","#420000AF",8000
+"7989","UTAH ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",800
+"8254","NUTRACEUTICAL CORP","Pharmaceuticals & Health Products","Health","Nutritional & dietary supplements",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",1300
+"8368","PACIFICORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",62.5,37.5,"#00003DAF","#00003DAF",3200
+"8392","PARSONS BEHLE & LATIMER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",54.7169811320755,45.2830188679245,"#000014AF","#000014AF",2650
+"8621","QUESTAR","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",15,85,"#B30000AF","#B30000AF",4000
+"8738","ROBERT J DEBRY & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",37.9310344827586,62.0689655172414,"#420000AF","#420000AF",5800
+"8763","RRJ CONSULTING","Business Services","General Business","Political consultants & advisers",47.9820627802691,52.0179372197309,"#0F0000AF","#0F0000AF",1784
+"8807","SALT LAKE COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",5500
+"8898","SIEGFRIED & JENSEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",5750
+"91","ALLIANT TECHSYSTEMS","Defense Aerospace","Defense","Defense aerospace contractors",23.972602739726,76.027397260274,"#8A0000AF","#8A0000AF",7300
+"9181","TESORO CORP","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",31.8181818181818,68.1818181818182,"#610000AF","#610000AF",1100
+"9196","REGENCE GROUP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",14.6341463414634,85.3658536585366,"#B80000AF","#B80000AF",2050
+"9197","TETRIS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",28.2272121398544,71.7727878601456,"#700000AF","#700000AF",5364.15
+"9296","UTAH ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",4.34782608695652,95.6521739130435,"#EB0000AF","#EB0000AF",2300
+"9298","UTAH BANKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",68.75,31.25,"#00005CAF","#00005CAF",4000
+"9299","UTAH BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",73.6842105263158,26.3157894736842,"#000075AF","#000075AF",1900
+"9300","UTAH CABLE TELECOMMUNICATIONS ASSOCIATION","Cable TV","Communications & Electronics","Satellite TV operators",43.75,56.25,"#240000AF","#240000AF",3200
+"9303","UTAH COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2100
+"9306","UTAH DENTAL ASSOCIATION","Health Professionals","Health","Dentists",73.6842105263158,26.3157894736842,"#000075AF","#000075AF",1900
+"9308","UTAH FOOD INDUSTRY ASSOCIATION","Food Processing & Sales","Agriculture","Food & beverage products and services",17.0316301703163,82.9683698296837,"#A80000AF","#A80000AF",4110
+"9312","UTAH HOSPITALS & HEALTH SYSTEMS ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",29.8701298701299,70.1298701298701,"#6B0000AF","#6B0000AF",11550
+"9315","UTAH PETROLEUM MARKETERS & RETAILERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",29.6296296296296,70.3703703703704,"#6B0000AF","#6B0000AF",2700
+"9317","UTAH PUBLIC POWER","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",57.6923076923077,42.3076923076923,"#000024AF","#000024AF",2600
+"9318","UTAH RURAL ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",2200
+"9319","UTAH TRIAL LAWYERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",86.9565217391304,13.0434782608696,"#0000B8AF","#0000B8AF",4600
+"9320","UTAH TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",1200
+"9835433","REGENCE BLUECROSS BLUESHIELD OF UTAH","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",53.9473684210526,46.0526315789474,"#00000FAF","#00000FAF",11400
+"9835464","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF UTAH","Construction Services","Construction","Engineering, architecture & construction management services",20,80,"#990000AF","#9E0000AF",750
+"9835557","UTAH RURAL TELECOM ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2100
+"9837027","SKI UTAH","Recreation & Live Entertainment","General Business","Amusement & recreation centers",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",600
+"9837264","UTAH BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2367
+"9837437","UTAH SCHOOL EMPLOYEES ASSOCIATION","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",100,0,"#0000FFAF","#0000FFAF",700
+"9837612","GRANITE EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",2527.67
+"9837622","SALT LAKE TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",2600
+"9840314","UPA PAC","Health Professionals","Health","Psychiatrists & psychologists",75,25,"#00007FAF","#00007FAF",400
+"9843216","MERIDIAN TITLE CO","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",0,100,"#FF0000AF","#FF0000AF",3100
+"9843775","BEEHIVE BAIL BONDS","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",100,0,"#0000FFAF","#0000FFAF",400
+"9861981","STEELWORKERS SUB-DISTRICT 5","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2500
+"9863231","SOUTHERN UTAH HOME BUILDERS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1550
+"9864015","UTAH MANUFACTURED HOUSING ASSOCIATION","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",3250
+"9865949","UTAH ASSOCIATION OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",75,25,"#00007FAF","#00007FAF",800
+"9869125","BANK OF UTAH","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",22.5352112676056,77.4647887323944,"#8F0000AF","#8F0000AF",1775
+"9869460","TETRIS GROUP LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3850
+"9885004","HERITAGE MANAGEMENT INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"9885436","ASSOCIATED BUILDERS & CONTRACTORS OF UTAH","General Contractors","Construction","Builders associations",4.44444444444444,95.5555555555556,"#EB0000AF","#EB0000AF",2250
+"9886279","JULANDER FOR SENATE CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3206.3
+"9886482","HOME BUILDERS ASSOCIATION OF GREATER SALT LAKE","Home Builders","Construction","Residential construction",16.1290322580645,83.8709677419355,"#AD0000AF","#AD0000AF",1550
+"9887049","STATE BANK OF SOUTHERN UTAH","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",450
+"9897659","DAE/WESTBROOK LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"9899816","UTAH OPHTHALMOLOGICAL SOCIETY","Health Professionals","Health","Optometrists & ophthalmologists",100,0,"#0000FFAF","#0000FFAF",600
+"9899915","PLUMBERS & PIPEFITTERS LOCAL 19","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2200
+"9900240","PROGRESS UTAH PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",0,100,"#FF0000AF","#FF0000AF",2000
+"9913099","UTAH CORRECTIONS PEACE OFFICERS ASSOCIATION LODGE 14","Public Sector Unions","Labor","Police & fire fighters unions and associations",38.7096774193548,61.2903225806452,"#3D0000AF","#3D0000AF",3100
+"9918085","INTERNATIONAL URANIUM USA CORPORATION","Mining","Energy & Natural Resources","Metal mining & processing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"9919232","UTAH CHAPTER AMERICAN PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",12.5,87.5,"#C20000AF","#C20000AF",800

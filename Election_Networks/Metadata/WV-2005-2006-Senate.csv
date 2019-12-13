@@ -1,0 +1,117 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10289","BRANCH BANKING & TRUST CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",5600
+"1034","FOUNDATION COAL","Mining","Energy & Natural Resources","Coal mining",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",3250
+"10898316","PETROPLUS, PARRY","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",2000
+"1091","GENESIS HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",2750
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",100,0,"#0000FFAF","#0000FFAF",1500
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",63.3802816901408,36.6197183098592,"#000042AF","#000042AF",14200
+"13233","JACKSON & KELLY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",12000
+"1689","MEADWESTVACO CORP","Miscellaneous Manufacturing & Distributing","General Business","Paper, glass & packaging materials",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",3400
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",5100
+"17068","WEST VIRGINIA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",68.503937007874,31.496062992126,"#00005CAF","#00005CAF",6350
+"17320","WEST VIRGINIA CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",68.8259109311741,31.1740890688259,"#00005CAF","#00005CAF",12350
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",100,0,"#0000FFAF","#0000FFAF",13700
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",30.3030303030303,69.6969696969697,"#660000AF","#660000AF",4950
+"18811","WEST VIRGINIA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",69.811320754717,30.188679245283,"#000061AF","#000061AF",2650
+"18907","WEST VIRGINIA HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",46.4285714285714,53.5714285714286,"#140000AF","#140000AF",7000
+"1892","NISOURCE INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",94.8275862068966,5.17241379310345,"#0000E0AF","#0000E0AF",5800
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",48.4848484848485,51.5151515151515,"#0A0000AF","#0A0000AF",1650
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",9000
+"19259","WEST VIRGINIA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",13900
+"19297","COMMUNICATIONS WORKERS DISTRICT 2","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",1950
+"20116","WEST VIRGINIA APPALACHIAN LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",16000
+"20175","WEST VIRGINIA AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",6400
+"2021","PEPSICO","Food & Beverage","General Business","Beverages (non-alcoholic)",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",4500
+"20271","WEST VIRGINIA EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",13750
+"20295","PARKERSBURG-MARIETTA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",78.125,21.875,"#00008FAF","#00008FAF",8000
+"20567","PLUMBERS & PIPEFITTERS LOCAL 152","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"20732","WEST VIRGINIA STATE AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",1500
+"2077","PLUM CREEK","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",68.9655172413793,31.0344827586207,"#00005CAF","#00005CAF",725
+"20853","WEST VIRGINIA REGIONAL COUNCIL OF CARPENTERS & MILLWRIGHTS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",18250
+"2116","PROGRESS ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",80,20,"#000099AF","#000099AF",2500
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",54.3859649122807,45.6140350877193,"#000014AF","#000014AF",5700
+"226","ARCH COAL","Mining","Energy & Natural Resources","Coal mining",46.0869565217391,53.9130434782609,"#140000AF","#140000AF",5750
+"2471","UNITED STEEL PAPER & FORESTRY RUBBER MANUFACTURING ENERGY ALLIED INDUSTRIAL & SERVICE WORKERS INTERNATIONAL / USW","General Trade Unions","Labor","Manufacturing unions",100,0,"#0000FFAF","#0000FFAF",1750
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",39.3939393939394,60.6060606060606,"#380000AF","#380000AF",3300
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",800
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",6000
+"29329707","AEP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",2700
+"29330697","J&K LEGISLATIVE","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"29383107","WVOA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",450
+"29583697","WVOA-PAC","Uncoded","Uncoded","Uncoded",61.9047619047619,38.0952380952381,"#000038AF","#000038AF",1050
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",100,0,"#0000FFAF","#0000FFAF",1500
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",31.8801089918256,68.1198910081744,"#610000AF","#610000AF",18350
+"3479","DOMINION","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",74.0740740740741,25.9259259259259,"#00007AAF","#00007AAF",6750
+"3765756","MONTANA SMART TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",600
+"3803","GOLDEN RULE FINANCIAL CORP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",100,0,"#0000FFAF","#0000FFAF",250
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",100,0,"#0000FFAF","#0000FFAF",1500
+"40465972","HOS","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"40579208","J & K LEGISLATIVE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"40619720","WVRLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2400
+"42689502","WVBW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"43555505","FRIEND OF THE TRACK","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5000
+"5756352","KEEP NICK RAHALL IN CONGRESS CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6000
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",5500
+"6257","WEST VIRGINIA CHIROPRACTIC SOCIETY","Health Professionals","Health","Chiropractors",100,0,"#0000FFAF","#0000FFAF",4100
+"6432","CONTRACTORS ASSOCIATION OF WEST VIRGINIA","General Contractors","Construction","Builders associations",75.197889182058,24.802110817942,"#00007FAF","#00007FAF",18950
+"670","CONSOL ENERGY","Mining","Energy & Natural Resources","Coal mining",57.6923076923077,42.3076923076923,"#000024AF","#000024AF",5200
+"7113","HOME BUILDERS ASSOCIATION OF WEST VIRGINIA","Home Builders","Construction","Residential construction",86.6666666666667,13.3333333333333,"#0000B8AF","#0000B8AF",1500
+"7176","INDEPENDENT OIL & GAS ASSOCIATION OF WEST VIRGINIA","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",96.875,3.125,"#0000EBAF","#0000EBAF",3200
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",25,75,"#800000AF","#800000AF",2400
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",1950
+"7463437","FRIENDS OF THE TRACK","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",5500
+"7463525","WEST VIRGINIA HOSPITALITY & TRAVEL ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",100,0,"#0000FFAF","#0000FFAF",11000
+"7463615","WEST VIRGINIA PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",950
+"7464268","WEST VIRGINIA HOUSING INSTITUTE","Home Builders","Construction","Mobile home construction",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",3000
+"7465026","MOUNTAIN STATE BLUE CROSS BLUE SHIELD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",96.1538461538462,3.84615384615385,"#0000EBAF","#0000EBAF",6500
+"7483328","KANAWHA COUNTY EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1750
+"7503905","CMTE TO REELECT ED BOWMAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5800
+"7506169","KANAWHA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1000
+"7506235","FOSTER FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",400
+"7506368","EARL RAY TOMBLIN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8500
+"7506383","ROMAN PREZIOSO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",6850
+"7507554","WEST VIRGINIA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",100,0,"#0000FFAF","#0000FFAF",500
+"7508073","WEST VIRGINIA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",1000
+"7509060","INDEPENDENT INSURANCE AGENTS OF WEST VIRGINIA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"7511932","WEST VIRGINIA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"7512962","SHEET METAL WORKERS LOCAL 33 PARKERSBURG DISTRICT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1750
+"7514943","WALT HELMICK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",8285.39
+"7515020","CMTE TO ELECT ED BOWMAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"7525037","SIERRA CLUB WEST VIRGINIA CHAPTER","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",250
+"7531718","OPERATING ENGINEERS LOCAL 132","General Trade Unions","Labor","Construction unions",97.0588235294118,2.94117647058824,"#0000F0AF","#0000F0AF",8500
+"7539994","WEST VIRGINIA EMPAC","Health Professionals","Health","Other physician specialists",50,50,"#000000AF","#000000AF",1000
+"7571236","WEST VIRGINIA MOTOR CARRIERS PAC","Trucking","Transportation","Trucking",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",350
+"7571950","SHARPE FOR SENATE COMMITTEE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1250
+"7575805","GO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"7575807","CHIROPRACTORS INDEPENDENT PAC","Health Professionals","Health","Chiropractors",100,0,"#0000FFAF","#0000FFAF",1500
+"7576308","WV MOTOR CARRIERS","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",1600
+"7576325","J & K STATE LEGISLATIVE","Uncoded","Uncoded","Uncoded",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",6000
+"7576338","WV FUNERAL DIRECTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",80.9523809523809,19.047619047619,"#000099AF","#000099AF",1050
+"7576548","WV FOR COAL","Uncoded","Uncoded","Uncoded",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",4750
+"7576555","GAS & OIL","Uncoded","Uncoded","Uncoded",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",2750
+"7596429","WV RETAILER ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",150
+"7597802","JON HUNTER CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"7708","MASSEY ENERGY","Mining","Energy & Natural Resources","Coal mining",50,50,"#000000AF","#000000AF",1000
+"7728551","WV REPUBLICAN LEGISLATIVE COMMITTEE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1700
+"7738635","SERRA, LOUIS F","Hospitals & Nursing Homes","Health","Health care institutions",100,0,"#0000FFAF","#0000FFAF",4600
+"84","ALLEGHENY ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",93.5483870967742,6.45161290322581,"#0000DBAF","#0000DBAF",7750
+"860","E I DU PONT DE NEMOURS & CO","Chemical & Related Manufacturing","General Business","Chemicals",50,50,"#000000AF","#000000AF",7000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",4250
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",2250
+"9464","WEST VIRGINIA ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",100,0,"#0000FFAF","#0000FFAF",750
+"9465","WEST VIRGINIA AUTOMOBILE & TRUCK DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",58,42,"#000024AF","#000029AF",12500
+"9466","WEST VIRGINIA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",80.0884955752212,19.9115044247788,"#000099AF","#000099AF",22600
+"9467","WEST VIRGINIA BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",62.5,37.5,"#00003DAF","#00003DAF",8800
+"9468","WEST VIRGINIA BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",17250
+"9470","WEST VIRGINIA COAL ASSOCIATION","Mining","Energy & Natural Resources","Coal mining",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",12000
+"9471","WEST VIRGINIA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",81.875,18.125,"#00009EAF","#00009EAF",8000
+"9472","WEST VIRGINIA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",37.2340425531915,62.7659574468085,"#420000AF","#420000AF",4700
+"9473","WEST VIRGINIA FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",100,0,"#0000FFAF","#0000FFAF",600
+"9475","WEST VIRGINIA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",65.4654654654655,34.5345345345345,"#00004DAF","#00004DAF",16650
+"9476","WEST VIRGINIA STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",56.3636363636364,43.6363636363636,"#00001FAF","#00001FAF",13750
+"9477","WEST VIRGINIA OIL MARKETERS & GROCERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",60.3174603174603,39.6825396825397,"#000033AF","#000033AF",6300
+"9480","WEST VIRGINIA STATE FARM AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",17500
+"9481","WEST VIRGINIA ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",95.6521739130435,4.34782608695652,"#0000E5AF","#0000E5AF",11500
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",100,0,"#0000FFAF","#0000FFAF",2750
+"9613","OHIO FARMERS INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",56.6371681415929,43.3628318584071,"#00001FAF","#00001FAF",2825

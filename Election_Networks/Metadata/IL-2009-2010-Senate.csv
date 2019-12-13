@@ -1,0 +1,628 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10133","ASSOCIATION OF ILLINOIS ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",39.21143847487,60.78856152513,"#380000AF","#380000AF",11540
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"1025","FORD MOTOR CO","Automotive","Transportation","Auto manufacturers",44,56,"#1F0000AF","#240000AF",6250
+"10255","BARTON MANAGEMENT","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",5500
+"10351","BERNARDIN LOCHMUELLER & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",3000
+"10408","BJC HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Health care institutions",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"1043","FREEBORN & PETERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",51.6666666666667,48.3333333333333,"#000005AF","#000005AF",3000
+"10458","BLUESTAR ENERGY SERVICES","Electric Utilities","Energy & Natural Resources","Electric power utilities",65.4708520179372,34.5291479820628,"#00004DAF","#00004DAF",22300
+"10746294","PLUMBERS & STEAMFITTERS LOCAL 137","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6450
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",11.4649681528662,88.5350318471338,"#C70000AF","#C70000AF",7850
+"10908","CARMAX","Automotive","Transportation","Auto dealers, new & used",91.2280701754386,8.7719298245614,"#0000D1AF","#0000D1AF",2850
+"11022","CHEMICAL INDUSTRY COUNCIL OF ILLINOIS","Chemical & Related Manufacturing","General Business","Chemicals",32.7586206896552,67.2413793103448,"#5C0000AF","#5C0000AF",11600
+"11031032","PLUMBERS & STEAMFITTERS LOCAL 157","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3525
+"11031259","PLUMBERS & PIPEFITTERS LOCAL 501","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12650
+"11039","CHICAGOLAND SPEEDWAY","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",76.3636363636364,23.6363636363636,"#000085AF","#000085AF",27500
+"11126","CLAYTON RESIDENTIAL HOME","Hospitals & Nursing Homes","Health","Nursing homes",100,0,"#0000FFAF","#0000FFAF",833
+"11155","COOK COUNTY TOWNSHIP SCHOOL TREASURERS","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",7500
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",72.2222222222222,27.7777777777778,"#000070AF","#000070AF",4500
+"11258","COMMONWEALTH EDISON","Electric Utilities","Energy & Natural Resources","Electric power utilities",74.0723940850948,25.9276059149052,"#00007AAF","#00007AAF",110230
+"1131331","KANE CONSULTING","Business Services","General Business","Management consultants & services",100,0,"#0000FFAF","#0000FFAF",1500
+"11316","CONLON PUBLIC STRATEGIES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",2702.54
+"1147","GREENBERG TRAURIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2000
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",4250
+"11592","DEEP BLUE ILLINOIS","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",7000
+"1194","HARRAHS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",36.2275449101796,63.7724550898204,"#470000AF","#470000AF",16700
+"12053","ILLINOIS FAMILY INSTITUTE","Christian Conservative","Ideology/Single Issue","Christian Coalition, religious right",0,100,"#FF0000AF","#FF0000AF",5338.9
+"12093591","ILLINOIS LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1950
+"12104","FILSON GORDON ASSOCIATES","Business Services","General Business","Advertising & public relations services",69.7674418604651,30.2325581395349,"#000061AF","#000061AF",4300
+"1213","HEALY LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2150
+"12424466","TOWNSHIP OFFICIALS OF ILLINOIS","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"12424997","FLETCHER OBRIEN KASPER & NOTTAGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",81.6666666666667,18.3333333333333,"#00009EAF","#00009EAF",15000
+"12557","GRAND TRUNK WESTERN RAILROAD","Railroads","Energy & Natural Resources","Railroads",38.1443298969072,61.8556701030928,"#3D0000AF","#3D0000AF",4850
+"12572","GREAT LAKES CEMENT PROMOTION ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",33.210332103321,66.789667896679,"#570000AF","#570000AF",13550
+"12637","GUARANTEE TRUST LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12250
+"12767","HEALTH ALLIANCE MEDICAL PLANS","Health Services","Health","HMOs",37.8787878787879,62.1212121212121,"#420000AF","#420000AF",6600
+"12769","HEALTH CARE SERVICE CORPORATION","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",48,52,"#0A0000AF","#0A0000AF",12500
+"1277","HUMANA","Health Services","Health","HMOs",57.1630204657728,42.8369795342272,"#000024AF","#000024AF",70850
+"12911","HOME TELEPHONE CO","Telephone Utilities","Communications & Electronics","Telephone utilities",6.06060606060606,93.9393939393939,"#E00000AF","#E00000AF",8250
+"13","A BROTHERHOOD AIMED TOWARD EDUCATION","Miscellaneous Transport","Transportation","Motorcycles, snowmobiles & other motorized vehicles",33.713163064833,66.286836935167,"#570000AF","#570000AF",12725
+"13057","ILLINOIS AFFORDABLE HOUSING INSTITUTE","Home Builders","Construction","Residential construction",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"13058","ILLINOIS ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",64.5161290322581,35.4838709677419,"#000047AF","#000047AF",6200
+"13059","ILLINOIS ASSOCIATION OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",1650
+"13066","ILLINOIS CHIROPRACTIC SOCIETY","Health Professionals","Health","Chiropractors",68.6567164179104,31.3432835820896,"#00005CAF","#00005CAF",3350
+"13068","ILLINOIS COAL ASSOCIATION","Mining","Energy & Natural Resources","Coal mining",100,0,"#0000FFAF","#0000FFAF",1650
+"13070","AMERICAN COUNCIL OF ENGINEERING COMPANIES OF ILLINOIS","Construction Services","Construction","Engineering, architecture & construction management services",51.7943321063958,48.2056678936042,"#000005AF","#000005AF",17569.49
+"13071","ILLINOIS CORN GROWERS ASSOCIATION","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"13073","ILLINOIS ENERGY ASSOCIATION","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",49.2647058823529,50.7352941176471,"#050000AF","#050000AF",6800
+"13074","ILLINOIS FINANCIAL SERVICES ASSOCIATION","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",21.4765100671141,78.5234899328859,"#940000AF","#940000AF",7450
+"13075","ILLINOIS FIRE SPRINKLER CONTRACTORS","Special Trade Contractors","Construction","Special trade contractors",92.7536231884058,7.2463768115942,"#0000D6AF","#0000D6AF",3450
+"13076","ILLINOIS FOOD RETAILERS","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",20,80,"#990000AF","#9E0000AF",7500
+"13078","ILLINOIS GOVERNMENTAL CONSULTING GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",1500
+"13079","ILLINOIS HARNESS HORSEMENS ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",45.1612903225806,54.8387096774194,"#1A0000AF","#1A0000AF",1550
+"13083","ILLINOIS LIFE INSURANCE COUNCIL","Insurance","Finance, Insurance & Real Estate","Life insurance",10.4166666666667,89.5833333333333,"#CC0000AF","#CC0000AF",12000
+"13084","ILLINOIS MECHANICAL & SPECIALTY CONTRACTORS ASSOCIATION","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",1700
+"13086","ILLINOIS PETROLEUM MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",29.8507462686567,70.1492537313433,"#6B0000AF","#6B0000AF",10050
+"13088","ILLINOIS PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",11.070110701107,88.929889298893,"#C70000AF","#C70000AF",2710
+"13093","ILLINOIS SOCIETY OF PROFESSIONAL ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",6500
+"13094","ILLINOIS STATE BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",84.3137254901961,15.6862745098039,"#0000ADAF","#0000ADAF",38250
+"13096","ILLINOIS STRATEGIES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",700
+"13097","ILLINOIS THOROUGHBRED HORSEMENS ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",57.516339869281,42.483660130719,"#000024AF","#000024AF",7650
+"13098","ILLINOIS VENTURE CAPITAL ASSOCIATION","Securities & Investment","Finance, Insurance & Real Estate","Venture capital",68.4210526315789,31.5789473684211,"#00005CAF","#00005CAF",19000
+"13148","INFRASTRUCTURE ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",5200
+"13154","INLAND REAL ESTATE GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate",0,100,"#FF0000AF","#FF0000AF",6500
+"132","AMERICAN FAMILY LIFE ASSURANCE CO / AFLAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",37.5,62.5,"#420000AF","#420000AF",8000
+"13206","ISOSCELES CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",500
+"13297","JOHN C CORRIGAN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",3600
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",1000
+"13430","KEYSTONE AUTOMOTIVE INDUSTRIES","Automotive","Transportation","Truck & automotive parts and accessories",60,40,"#000033AF","#000033AF",2500
+"13473","KNIGHT PARTNERS LLC","Construction Services","Construction","Engineering, architecture & construction management services",100,0,"#0000FFAF","#0000FFAF",8500
+"13544","LAKE COUNTY CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",44.1176470588235,55.8823529411765,"#1F0000AF","#1F0000AF",3400
+"13564","NEW YORK STATE ASSOCIATION OF LAND SURVEYORS","Construction Services","Construction","Surveying",26.7228610258525,73.2771389741475,"#7A0000AF","#7A0000AF",2619.48
+"13652","LEINENWEBER & BARONI CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",52.6785714285714,47.3214285714286,"#00000AAF","#00000AAF",5600
+"13819026","TRK-PAC MID-WEST TRUCKERS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2200
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",16.4383561643836,83.5616438356164,"#AD0000AF","#AD0000AF",36500
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",33.0827067669173,66.9172932330827,"#570000AF","#570000AF",33250
+"14043","MCGUIREWOODS LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",64.4983411933714,35.5016588066286,"#000047AF","#000047AF",19393.46
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",5250
+"14572","NICOLAY & DART","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",38.2716049382716,61.7283950617284,"#3D0000AF","#3D0000AF",4050
+"14635","NORTHERN TRUST CORP","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",100,0,"#0000FFAF","#0000FFAF",10750
+"1464007","UNICARE","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",34.4086021505376,65.5913978494624,"#520000AF","#520000AF",4650
+"1466","KRAFT FOODS","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",86.6071428571429,13.3928571428571,"#0000B8AF","#0000B8AF",11200
+"14837","OSF SAINT FRANCIS INC","Hospitals & Nursing Homes","Health","Health care institutions",30.8641975308642,69.1358024691358,"#660000AF","#660000AF",24300
+"1497976","AZTEC MATERIAL SERVICE CORP","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",5900
+"15149","PLUMBING COUNCIL OF CHICAGOLAND","General Trade Unions","Labor","Construction unions",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",750
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",6500
+"15414","REDSPEED ILLINOIS LLC","Miscellaneous Services","General Business","Services",90.6976744186046,9.30232558139535,"#0000CCAF","#0000CCAF",10750
+"15610","ROOSEVELT GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",65.8914728682171,34.1085271317829,"#00004DAF","#00004DAF",6450
+"15796788","IL COAL ASSOCIATION COMMITTEE ON AFFIRMATIVE LEADERSHIP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",450
+"15935088","MILLERCOORS","Uncoded","Uncoded","Uncoded",57.7777777777778,42.2222222222222,"#000024AF","#000024AF",22500
+"1599","MACYS INC","Retail Sales","General Business","Department, variety & convenience stores",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"16144","STAND FOR CHILDREN","Public Education Policy","Ideology/Single Issue","School Choice Advocates",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",150000
+"16169","STATE UNIVERSITIES ANNUITANTS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",74.025974025974,25.974025974026,"#00007AAF","#00007AAF",38115
+"16246","STRICKLIN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",86.5711727842435,13.4288272157565,"#0000B8AF","#0000B8AF",5585
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",20.4081632653061,79.5918367346939,"#990000AF","#990000AF",7350
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",0,100,"#FF0000AF","#FF0000AF",2700
+"16339","TAKEDA PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",1500
+"16365","TAYLOR UHE LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",10500
+"16621534","MECHANICAL INDUSTRY","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"16621607","EMERGENCY MEDICINE OF ILLINOIS","Uncoded","Uncoded","Uncoded",46.0526315789474,53.9473684210526,"#140000AF","#140000AF",3800
+"1669","MCDONALDS LOCAL OWNERS OPERATORS OF ARKANSAS","Food & Beverage","General Business","Restaurants & drinking establishments",39.1511544075127,60.8488455924873,"#380000AF","#380000AF",11914.77
+"16868006","IAMP-PAC LTD","Uncoded","Uncoded","Uncoded",21.875,78.125,"#940000AF","#940000AF",1600
+"16868038","FIDELITY CONSULTING GROUP","Business Services","General Business","Management consultants & services",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",2400
+"16868124","STATE UNIVERSITIES ANNUITANTS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"16868445","I M S C A P A C","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",4000
+"16868478","ILLINOIS PHYSICAL THERAPY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"16868726","IFDA","Uncoded","Uncoded","Uncoded",58.4507042253521,41.5492957746479,"#000029AF","#000029AF",7100
+"16869080","ILLINOIS BEEF ASSOCIATION","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"16869087","ILLINOIS COAL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2100
+"16869958","IL BEVERAGE ASSOCIATION","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",1250
+"16869977","IMSCA","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",1250
+"16869984","ILLINOIS BEVERAGE ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2500
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",79.5454545454545,20.4545454545455,"#000094AF","#000094AF",11000
+"17007133","ISAPN","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"17220","WORKERS COMPENSATION LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",95.6521739130435,4.34782608695652,"#0000E5AF","#0000E5AF",5750
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"17288","ZUFFA LLC","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",72.7272727272727,27.2727272727273,"#000070AF","#000070AF",1100
+"17292","ILLINOIS CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",1.60221798239739,98.3977820176026,"#FA0000AF","#FA0000AF",156033.7
+"17300","CHICAGO CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",38.5964912280702,61.4035087719298,"#3D0000AF","#3D0000AF",14250
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",55.0561797752809,44.9438202247191,"#00001AAF","#00001AAF",17800
+"17608018","OPERATOR ACTION FUND","General Trade Unions","Labor","Construction unions",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"1764367","CHRISTOPHER B BURKE ENGINEERING","Construction Services","Construction","Engineering, architecture & construction management services",8.23529411764706,91.7647058823529,"#D60000AF","#D60000AF",21250
+"17704415","HEARTLAND SOLUTIONS GROUP INC","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"17704416","IL ASSOCIATION OF AGGREGATE PRODUCERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"17704467","GOVERNMENT CONSULTING SOLUTIONS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"1778","MOTOROLA","Telecom Services & Equipment","Communications & Electronics","Telephone & communications equipment",49.0566037735849,50.9433962264151,"#050000AF","#050000AF",26500
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1800
+"1858122","VANGUARD HEALTH SYSTEMS","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",1200
+"18605","ASSOCIATED GENERAL CONTRACTORS OF ILLINOIS","General Contractors","Construction","Builders associations",30,70,"#660000AF","#660000AF",30000
+"18646","HARRISONVILLE TELEPHONE CO","Telephone Utilities","Communications & Electronics","Telephone utilities",0,100,"#FF0000AF","#FF0000AF",9000
+"18709","PEABODY INVESTMENTS","Mining","Energy & Natural Resources","Coal mining",10.752688172043,89.247311827957,"#CC0000AF","#CC0000AF",4650
+"18744","ILLINOIS AUTOMATIC MERCHANDISING COUNCIL","Retail Sales","General Business","Vending machine sales & services",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",2600
+"18783","ILLINOIS OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",46.7810605083215,53.2189394916785,"#140000AF","#140000AF",38755
+"18836","PLANNED PARENTHOOD OF ILLINOIS","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",8644.71
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",1500
+"18983071","CONLON PUBLIC STRATEGIES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1200
+"18983109","COULTER COMPANIES INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",7500
+"18983308","FIDELITY CONSULTING GROUP LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"18983476","GRAND TRUNK WESTERN RAILROAD INC","Uncoded","Uncoded","Uncoded",71.7391304347826,28.2608695652174,"#00006BAF","#00006BAF",4600
+"18983500","GSG CONSULTANTS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3300
+"18983846","KNELL CONSULTING INC","Uncoded","Uncoded","Uncoded",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",8500
+"18984","ILLINOIS FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",59.4122808308731,40.5877191691269,"#00002EAF","#00002EAF",46876.47
+"18984404","PAUL L WILLIAMS ATTORNEY AT LAW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2100
+"18984459","PLOTE CONSTRUCTION INC","Uncoded","Uncoded","Uncoded",43.859649122807,56.140350877193,"#240000AF","#240000AF",8550
+"18984592","ROBERT S MOLARO & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",650
+"18984837","ST MARYS CEMENT INC","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"18984880","SUPERIOR AMBULANCE SVC INC","Uncoded","Uncoded","Uncoded",24.5614035087719,75.4385964912281,"#850000AF","#850000AF",5700
+"18985007","TRUSTMARK INSURANCE CO","Uncoded","Uncoded","Uncoded",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"18985943","ALFRED G RONAN LTD","Uncoded","Uncoded","Uncoded",88.3040935672515,11.6959064327485,"#0000C2AF","#0000C2AF",8550
+"18991294","ELECTRICAL WORKERS LOCAL 9","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",800
+"18992069","MIGUEL A SANTIAGO CONSULTING INC","Uncoded","Uncoded","Uncoded",89.1304347826087,10.8695652173913,"#0000C7AF","#0000C7AF",2300
+"18993349","PROACTIVE STRATEGIES INC","Uncoded","Uncoded","Uncoded",19.3548387096774,80.6451612903226,"#9E0000AF","#9E0000AF",1550
+"18993624","RETIRED TEACHERS ASSOCIATION OF CHICAGO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1550
+"18994256","SHATTUCK & ASSOCIATES CONSULTING INC","Uncoded","Uncoded","Uncoded",18.9189189189189,81.0810810810811,"#A30000AF","#A30000AF",1850
+"18996404","ALL-CIRCO INC","Uncoded","Uncoded","Uncoded",86.4171035831681,13.5828964168319,"#0000B8AF","#0000B8AF",7362.2
+"18998792","CULLINAN COMPANIES LLC","Uncoded","Uncoded","Uncoded",48.7264673311185,51.2735326688815,"#0A0000AF","#0A0000AF",22575
+"19000337","FRIENDS OF A J WILHELMI","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4700
+"19002592","PUBLIC SECTOR SOLUTIONS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"19002883","SKEFF DISTRIBUTING COMPANY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1570
+"19008","QUAKER OATS CO","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1750
+"19031","COMMUNITY BANKERS ASSOCIATION OF ILLINOIS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",66.0437410030221,33.9562589969779,"#000052AF","#000052AF",52420.38
+"19043","ILLINOIS ASSOCIATION OF MORTGAGE BANKERS","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",47.1428571428571,52.8571428571429,"#0F0000AF","#0F0000AF",1750
+"19201","CHICAGO FEDERATION OF TEACHERS LOCAL 1","Public Sector Unions","Labor","Teachers unions",94.7368421052632,5.26315789473684,"#0000E0AF","#0000E0AF",38000
+"19206","COOK COUNTY COLLEGE TEACHERS LOCAL 1600","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",16200
+"19214","FEDERATION OF TEACHERS LOCAL 604","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",12200
+"19219","ILLINOIS FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",98.5807482569578,1.4192517430422,"#0000F5AF","#0000F5AF",211378.99
+"19249","SOUTHWEST AREA COUNCIL FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",21100
+"19256","UNIVERSITY PROFESSIONALS OF ILLINOIS LOCAL 4100","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",6300
+"19342","CHICAGO FRATERNAL ORDER OF POLICE LODGE 7","Public Sector Unions","Labor","Police & fire fighters unions and associations",46.3636363636364,53.6363636363636,"#140000AF","#140000AF",5500
+"19354","ILLINOIS TROOPERS LODGE 41","Public Sector Unions","Labor","Police & fire fighters unions and associations",80.1587301587302,19.8412698412698,"#000099AF","#000099AF",6300
+"19365","MOTION PICTURE STUDIO MECHANICS LOCAL 476","General Trade Unions","Labor","Entertainment unions",100,0,"#0000FFAF","#0000FFAF",1700
+"19371","IRONWORKERS LOCAL 63","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6750
+"19384","IRONWORKERS LOCAL 1","General Trade Unions","Labor","Construction unions",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",1450
+"19401","IRONWORKERS LOCAL 392","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6000
+"19428","MACHINERY MOVERS RIGGERS & ERECTORS LOCAL 136","General Trade Unions","Labor","Construction unions",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"19448","CHICAGO FIRE FIGHTERS LOCAL 2","Public Sector Unions","Labor","Police & fire fighters unions and associations",78.6995515695067,21.3004484304933,"#00008FAF","#00008FAF",22300
+"19478","ILLINOIS PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",84.2154867368576,15.7845132631424,"#0000ADAF","#0000ADAF",102378.83
+"19543","HEAT & FROST INSULATORS LOCAL 1","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",700
+"19547","HEAT & FROST INSULATORS LOCAL 17","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1250
+"19559","ILLINOIS STATE COUNCIL OF MACHINIST & AEROSPACE WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"19587","BOILERMAKERS LOCAL 60","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"19588271","SUPERVALU","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"19611","ELECTRICAL WORKERS LOCAL 124","General Trade Unions","Labor","Electrical workers/IBEW",89.7959183673469,10.2040816326531,"#0000C7AF","#0000C7AF",9800
+"19620","ELECTRICAL WORKERS LOCAL 146","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4976.94
+"19621","ELECTRICAL WORKERS LOCAL 15","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1500
+"19648","ELECTRICAL WORKERS LOCAL 309","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",800
+"19654","ELECTRICAL WORKERS LOCAL 34","General Trade Unions","Labor","Electrical workers/IBEW",95.0226244343891,4.97737556561086,"#0000E5AF","#0000E5AF",11050
+"19660","ELECTRICAL WORKERS LOCAL 364","General Trade Unions","Labor","Electrical workers/IBEW",33.1564986737401,66.8435013262599,"#570000AF","#570000AF",3770
+"19676","ELECTRICAL WORKERS LOCAL 51","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3550
+"19694","ELECTRICAL WORKERS LOCAL 701","General Trade Unions","Labor","Electrical workers/IBEW",30.5194805194805,69.4805194805195,"#660000AF","#660000AF",7700
+"19703","ELECTRICAL WORKERS LOCAL 8","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3090
+"19794","TEAMSTERS LOCAL 705","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",16250
+"19844","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 21","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1250
+"19851","ADMINISTRATIVE DISTRICT COUNCIL 1 OF ILLINOIS BRICKLAYERS & ALLIED CRAFTWORKERS","General Trade Unions","Labor","Construction unions",94.1176470588235,5.88235294117647,"#0000E0AF","#0000E0AF",8500
+"19863","ILLINOIS STATE COUNCIL OF OPERATING ENGINEERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"19887","OPERATING ENGINEERS LOCAL 150","General Trade Unions","Labor","Construction unions",55.8035714285714,44.1964285714286,"#00001AAF","#00001AAF",33600
+"19905","OPERATING ENGINEERS LOCAL 399","General Trade Unions","Labor","Construction unions",89.8601398601399,10.1398601398601,"#0000C7AF","#0000C7AF",14300
+"19910710","CAMCRAFT INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"19911635","GABRIEL LOPEZ & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5500
+"19912107","ILLINOIS COAL ASSOCIATION COMMITTEE ON AFFIRMATIVE LEADERSHIP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"19912130","ILLINOIS INDEPENDENT TELEPHONE ASSOCIATION","Uncoded","Uncoded","Uncoded",20.5479452054795,79.4520547945205,"#990000AF","#990000AF",7300
+"19912452","KNIGHT E / A INC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"19913","OPERATING ENGINEERS LOCAL 520","General Trade Unions","Labor","Construction unions",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",3300
+"19926","OPERATING ENGINEERS LOCAL 841","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4500
+"19926403","RENAISSANCE HOSPITAL MANAGEMENT INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4700
+"19929660","TRUSTMARK INSURANCE CO PAC TRUST","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"19933","OPERATING ENGINEERS LOCAL 965","General Trade Unions","Labor","Construction unions",86.9017632241814,13.0982367758186,"#0000B8AF","#0000B8AF",19850
+"19937803","IL CHAPTER NECA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2700
+"19944684","ILLINOIS STATE FARM AGENTS & ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",62.6436781609195,37.3563218390805,"#00003DAF","#00003DAF",17400
+"19945486","TOWNSHIP OFFICIALS OF IL","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",1000
+"19949","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 30","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"19957","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 14","General Trade Unions","Labor","Construction unions",91.1242603550296,8.87573964497041,"#0000D1AF","#0000D1AF",16900
+"19975","CONSTRUCTION & GENERAL LABORERS DISTRICT COUNCIL OF CHICAGO & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",30725
+"2009","PENN NATIONAL GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",75,25,"#00007FAF","#00007FAF",40000
+"20102","NORTH CENTRAL ILLINOIS LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",98.5436893203884,1.45631067961165,"#0000F5AF","#0000F5AF",41200
+"20108","SOUTHERN & CENTRAL ILLINOIS LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",106500
+"20112","SOUTHWESTERN ILLINOIS LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",22240.78
+"20141","ILLINOIS AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",61985
+"20191","ILLINOIS LETTER CARRIERS","Public Sector Unions","Labor","US Postal Service unions & associations",100,0,"#0000FFAF","#0000FFAF",7725
+"2021","PEPSICO","Food & Beverage","General Business","Beverages (non-alcoholic)",56.3469166967184,43.6530833032816,"#00001FAF","#00001FAF",887.36
+"20224","ILLINOIS EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",68.4904184778276,31.5095815221724,"#00005CAF","#00005CAF",386987.05
+"20332","POLICEMENS BENEVOLENT & PROTECTIVE ASSOCIATION OF ILLINOIS","Public Sector Unions","Labor","Police & fire fighters unions and associations",54.90036600244,45.09963399756,"#000014AF","#000014AF",12295
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",79.2284866468843,20.7715133531157,"#000094AF","#000094AF",16850
+"20442","SERVICE EMPLOYEES LOCAL 73","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",31990.61
+"20446","SERVICE EMPLOYEES LOCAL 880","Public Sector Unions","Labor","State & local government employee unions",87.5,12.5,"#0000BDAF","#0000BDAF",4000
+"2046","PHILIP MORRIS","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"20482","SHEET METAL WORKERS LOCAL 265","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",10025
+"20494","SHEET METAL WORKERS LOCAL 73","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3500
+"20500","ILLINOIS STATE POLICE COMMAND OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",14.5379023883697,85.4620976116303,"#B80000AF","#B80000AF",9630
+"20529","ILLINOIS PIPE TRADES ASSOCIATION","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",51500
+"20542","PLUMBERS & PIPEFITTERS LOCAL 597","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3200
+"20561","PLUMBERS & PIPEFITTERS LOCAL 149","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9550
+"2057993","FRIENDS OF TERRY LINK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",14000
+"20629","CHICAGO JOURNEYMEN PLUMBERS LOCAL 130","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2890
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",71.9626168224299,28.0373831775701,"#00006BAF","#00006BAF",26750
+"20791","CHICAGO & NORTHEASTERN ILLINOIS DISTRICT COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2300
+"20814","MID-CENTRAL ILLINOIS DISTRICT COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",14200
+"20845","SOUTHERN ILLINOIS DISTRICT COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",93.8271604938272,6.17283950617284,"#0000DBAF","#0000DBAF",2835
+"20905","FOOD & COMMERCIAL WORKERS LOCAL 881","General Trade Unions","Labor","Retail trade unions",94.6038620717374,5.39613792826263,"#0000E0AF","#0000E0AF",26871.07
+"21068","BUILDING OWNERS & MANAGERS ASSOCIATION OF CHICAGO","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",61.5384615384615,38.4615384615385,"#000038AF","#000038AF",3250
+"218","AQUA AMERICA","Water Utilities","Energy & Natural Resources","Water utilities",73.4042553191489,26.5957446808511,"#000075AF","#000075AF",9400
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",47.5409836065574,52.4590163934426,"#0F0000AF","#0F0000AF",15250
+"2256","ROMANUCCI & BLANDIN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"229","ARCHER DANIELS MIDLAND","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",16250
+"232","ARIEL CAPITAL MANAGEMENT","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",100,0,"#0000FFAF","#0000FFAF",8050
+"2322","SCHERING-PLOUGH","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"2352","SERVICEMASTER CO","Miscellaneous Services","General Business","Services",54.5454545454545,45.4545454545455,"#000014AF","#000014AF",2750
+"2419","SONNENSCHEIN NATH & ROSENTHAL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1500
+"2433","SOUTHERN WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",62.5,37.5,"#00003DAF","#00003DAF",8000
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",60.9375,39.0625,"#000033AF","#000033AF",12800
+"24778465","ILLINOIS ASSOCIATION OF MORTGAGE BROKERS","Uncoded","Uncoded","Uncoded",43.859649122807,56.140350877193,"#240000AF","#240000AF",4275
+"24838143","ILLINOIS CITIZENS FOR ETHICS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2246.1
+"24838144","ILLINOIS CITIZENS FOR LIFE","Uncoded","Uncoded","Uncoded",17.1000508853405,82.8999491146595,"#A80000AF","#A80000AF",3105.02
+"24838518","MERVIS INDUSTRIES INC","Uncoded","Uncoded","Uncoded",37.037037037037,62.962962962963,"#420000AF","#420000AF",4050
+"24838734","PRIMERA ENGINEERS LTD","Uncoded","Uncoded","Uncoded",68.6274509803922,31.3725490196078,"#00005CAF","#00005CAF",2550
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",2300
+"25881121","ILLINOIS LUMBERMENS","Uncoded","Uncoded","Uncoded",47.1698113207547,52.8301886792453,"#0F0000AF","#0F0000AF",1060
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",59.2319838714482,40.7680161285518,"#00002EAF","#00002EAF",156760.51
+"2593282","JOHN MCCABE & ASSOCIATES","Business Services","General Business","Security services",70.7317073170732,29.2682926829268,"#000066AF","#000066AF",2050
+"2593285","ST LOUIS REGIONAL CHAMBER","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",1200
+"2593286","STAFFING SERVICES ASSOCIATION OF ILLINOIS","Business Services","General Business","Employment agencies",90,10,"#0000CCAF","#0000CCAF",2500
+"2593306","FRIENDS OF BILL HAINE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5500
+"2593331","CHICAGO APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",2000
+"2593332","GOLDBERG WEISMAN & CAIRO","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",650
+"2593339","PROFESSIONAL INDEPENDENT INSURANCE AGENTS OF ILLINOIS","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",29.7239642498809,70.2760357501191,"#6B0000AF","#6B0000AF",32870.38
+"2593341","ILLINOIS SOCIETY FOR ADVANCED PRACTICE NURSING","Health Professionals","Health","Nurses",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",4500
+"2593393","A LAVELLE CONSULTING SERVICES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",750
+"2593416","RAUCCI & SULLIVAN STRATEGIES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",60.6060606060606,39.3939393939394,"#000033AF","#000033AF",1650
+"2593495","SEIU HEALTHCARE ILLINOIS / INDIANA","General Trade Unions","Labor","Health worker unions",95.2170558903943,4.78294410960565,"#0000E5AF","#0000E5AF",135899.56
+"2593526","NORTHWESTERN ILLINOIS BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"2593537","MORREALE PUBLIC AFFAIRS GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",750
+"2593547","JOSEPH M LYONS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1200
+"2593594","FRIENDS FOR MOLARO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1600
+"2593748","DAN SHOMAN INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",7142.5
+"2593791","LABORERS LOCAL 231","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5000
+"2593799","BREWERS DISTRIBUTING","Beer, Wine & Liquor","General Business","Liquor wholesalers",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",1050
+"2593891","FRIENDS OF DAVE KOEHLER","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"2593960","JAY C HOFFMAN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",750
+"2594001","ILLINOIS COUNCIL OF HEALTH SYSTEM PHARMACISTS","Health Professionals","Health","Pharmacists",52.9411764705882,47.0588235294118,"#00000AAF","#00000AAF",4250
+"2594068","SIMMONS BROWDER GIANARIS ANGELIDES & BARNERD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5000
+"2594085","MOTHERWAY & NAPLETON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",400
+"2594177","SUGAR CAMP ENERGY LLC","Mining","Energy & Natural Resources","Coal mining",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"2594188","PHILLIPS LAW OFFICES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1100
+"2594315","CITIZENS FOR SARA FEIGENHOLTZ","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3500
+"2594359","AMCORE FINANCIAL","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",26.8817204301075,73.1182795698925,"#7A0000AF","#7A0000AF",930
+"2594531","LEVIN & PERCONTI","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",475
+"2594563","INTERGOVERNMENTAL CONSULTING & MANAGEMENT GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"2594682","ILLINOIS RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",92.5925925925926,7.40740740740741,"#0000D6AF","#0000D6AF",4050
+"2594766","BOILERMAKERS LOCAL 363","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6100
+"2594864","HILLSBORO ENERGY LLC","Mining","Energy & Natural Resources","Coal mining",59.4594594594595,40.5405405405405,"#00002EAF","#00002EAF",3700
+"2594891","WILLIAM FILAN LTD","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",78.7234042553192,21.2765957446809,"#00008FAF","#00008FAF",2350
+"2594924","LISA MADIGAN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",11500
+"2594941","12TH CONGRESSIONAL DISTRICT OF ILLINOIS AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1200
+"2594976","MORICI FIGLIOLI & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1450
+"2595250","WILLIAMSON ENERGY LLC","Mining","Energy & Natural Resources","Coal mining",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"2595339","DEMOULIN BROTHERS & CO","Miscellaneous Manufacturing & Distributing","General Business","Clothing & accessories",0,100,"#FF0000AF","#FF0000AF",450
+"2595409","WILLIAM E BRADY JR CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3700
+"2595642","RYAN ENTERPRISES GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",30000
+"2595913","FOR THE GOOD OF ILLINOIS","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",61504.01
+"2597021","WILL-GRUNDY COUNTIES CENTRAL TRADES & LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1100
+"2597238","FRIENDS OF JOHN SULLIVAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"2598137","EQUALITY ILLINOIS","Gay/Lesbian Rights & Issues","Ideology/Single Issue","Gay & lesbian rights and issues",100,0,"#0000FFAF","#0000FFAF",3000
+"2598761","FRIENDS OF CLAYBORNE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",62450
+"2598854","TWO PARTY SYSTEM INC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",93333.54
+"2599141","ILLINOIS ASSOCIATION OF SCHOOL SOCIAL WORKERS","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",100,0,"#0000FFAF","#0000FFAF",400
+"2599160","SIERRA CLUB ILLINOIS CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",5441.77
+"2599530","JOHN J CULLERTON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",60200
+"2599765","CLARKIN INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",700
+"2599836","RACEWAY ASSOCIATES","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",11000
+"2599855","LIFE SERVICES NETWORK","Hospitals & Nursing Homes","Health","Nursing homes",19.2307692307692,80.7692307692308,"#9E0000AF","#9E0000AF",1300
+"2600233","WEST SUBURBAN TEACHERS LOCAL 571","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",12600
+"2601244","AMERICAN INSTITUTE OF ARCHITECTS ILLINOIS","Construction Services","Construction","Architectural services",100,0,"#0000FFAF","#0000FFAF",1950
+"2601265","METROPOLITAN CHICAGO HEALTHCARE COUNCIL","Hospitals & Nursing Homes","Health","Hospitals",27.5862068965517,72.4137931034483,"#750000AF","#750000AF",1450
+"2601484","SHEA PAIGE & ROGAL INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",80,20,"#000099AF","#000099AF",1250
+"2601642","J & J VENTURES GAMING","Gambling & Casinos","General Business","Casinos, racetracks & gambling",0,100,"#FF0000AF","#FF0000AF",2099.7
+"2601738","CMTE TO ELECT RICKEY HENDON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",700
+"2601835","GOVERNMENT NAVIGATION GROUP INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",6950
+"2601954","CMTE TO ELECT JAMES A DELEO","Candidate Committees","Candidate Contributions","Candidate committees",97.9591836734694,2.04081632653061,"#0000F0AF","#0000F0AF",9800
+"2602078","CHRISTINE RADOGNO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",237370.57
+"2602306","AUTOMOTIVE PARTS & SERVICE ASSOCIATION OF ILLINOIS","Automotive","Transportation","Truck & automotive parts and accessories",17.8571428571429,82.1428571428571,"#A80000AF","#A80000AF",2800
+"2602488","BUILDERS ASSOCIATION OF GREATER CHICAGO","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",3000
+"2602556","CITIZENS FOR SUSAN GARRETT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"2602924","VOLUNTEERS FOR DELGADO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1000
+"2603096","DAN KOTOWKSI FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",12000
+"2603776","NORTHWEST SUBURBAN TEACHERS LOCAL 1211","Public Sector Unions","Labor","Teachers unions",86.8421052631579,13.1578947368421,"#0000B8AF","#0000B8AF",5700
+"2604122","ELMHURST CHICAGO STONE CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",6000
+"2605050","FRIENDS OF DON HARMON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",20000
+"2605130","GOVERNMENTAL CONSULTING SOLUTIONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",879
+"2605257","ROYAL MANAGMENT CORP","Hospitals & Nursing Homes","Health","Nursing homes",52.6627218934911,47.3372781065089,"#00000AAF","#00000AAF",8450
+"2605410","CAPITOL AVENUE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",750
+"2605609","ILLINOIS CHAPTER OF THE AMERICAN COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",50,50,"#000000AF","#000000AF",2000
+"2605647","PICKERING & ASSOCIATES LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",4000
+"2605703","ILLINOIS ASSOCIATION OF MORTGAGE PROFESSIONALS","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",72.972972972973,27.027027027027,"#000070AF","#000070AF",1850
+"2605960","NEIL FRANCIS FLYNN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",31.0344827586207,68.9655172413793,"#610000AF","#610000AF",1450
+"2606056","MCDONOUGH ASSOCIATES","Construction Services","Construction","Architectural services",19.2307692307692,80.7692307692308,"#9E0000AF","#9E0000AF",2600
+"2606106","TENASKA","Miscellaneous Energy","Energy & Natural Resources","Power plant construction & equipment",100,0,"#0000FFAF","#0000FFAF",1500
+"2606668","CORYELL CONSULTING LLC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",600
+"2608154","ILLINOIS RETIRED TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",3850
+"2608699","KARLIN & FLEISHER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",850
+"2609575","ILLINOIS CORONERS & MEDICAL EXAMINERS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Municipal & county government organizations",90,10,"#0000CCAF","#0000CCAF",5000
+"2615","TITLEMAX","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",67.5438596491228,32.4561403508772,"#000057AF","#000057AF",28500
+"2617108","FRIENDS OF DEBBIE HALVORSON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",25000
+"2617141","TEAMSTERS LOCAL 26","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",950
+"2617216","COOK-WITTER INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50,50,"#000000AF","#000000AF",400
+"2619729","MACKIE CONSULTANTS LLC","Construction Services","Construction","Engineering, architecture & construction management services",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",6500
+"2620403","WIEDNER & MCAULIFFE LTD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"2620787","BENCHMARK CONSTRUCTION CO","General Contractors","Construction","Construction, unclassified",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",6600
+"2620906","WINSTON ENGINEERING LLC","Construction Services","Construction","Engineering, architecture & construction management services",26.4705882352941,73.5294117647059,"#7A0000AF","#7A0000AF",3400
+"2621165","ILLINOIS CEMENT CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",3300
+"2621446","VALLEY MEDICAL INN","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",2500
+"2622187","PLUMBERS & GASFITTERS LOCAL 360","General Trade Unions","Labor","Construction unions",69.2307692307692,30.7692307692308,"#000061AF","#000061AF",650
+"2622258","B-P CONSULTANTS INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"2622295","ELECTRICAL WORKERS LOCAL 117","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1600
+"2622889","PATTON MINING LLC","Mining","Energy & Natural Resources","Coal mining",68.75,31.25,"#00005CAF","#00005CAF",3200
+"2622897","ILLINOIS PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",75,25,"#00007FAF","#00007FAF",1200
+"2623051","TEAMSTERS LOCAL 179","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2650
+"2623086","ILLINOIS SHERIFFS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",62.962962962963,37.037037037037,"#00003DAF","#00003DAF",1350
+"2624569","MADISON TELEPHONE CO","Telecom Services & Equipment","Communications & Electronics","Telecommunications",31.25,68.75,"#610000AF","#610000AF",1600
+"2624580","GALLAGHER ASPHALT","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",51.219512195122,48.780487804878,"#000005AF","#000005AF",2050
+"2624909","SCHAUMBURG AREA DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2150
+"2624941","CMTE TO ELECT JAMES DELEO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3500
+"2625047","ILLINOIS RURAL ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",100,0,"#0000FFAF","#0000FFAF",525
+"2625250","LAKE COUNTY BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3000
+"2626079","ACME REFINING SCRAP IRON & METAL CO","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",95.2380952380952,4.76190476190476,"#0000E5AF","#0000E5AF",10500
+"2626220","NALCO","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",2500
+"2626275","CITIZENS FOR MATT MURPHY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",7500
+"2626328","J BRADLEY (BRAD) BURZYNSKI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",11300
+"2626365","PAMELA J ALTHOFF CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",11000
+"2626401","ILLINOIS PRAIRIE STATE CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",0,100,"#FF0000AF","#FF0000AF",2500
+"2626435","CITIZENS FOR DALE RISINGER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",10000
+"2626541","FRIENDS FOR LAUZEN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3600
+"2626579","ILLINOIS REPUBLICAN RENAISSANCE","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",111500
+"2626656","CITIZENS FOR VIVERITO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"2627401","SPRINKLER FITTERS LOCAL 281","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",700
+"2627749","CHICAGO & CENTRAL STATES UNITE HERE!","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",1500
+"2629065","HARRIS & HARRIS LTD","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",1250
+"2630694","PRO-LIFE VICTORY CMTE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",1353
+"2631272","ASSOCIATED BUILDERS & CONTRACTORS OF ILLINOIS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",9900
+"2631516","FRIENDS OF KWAME RAOUL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",7369.1
+"2632629","GRAND TRUNK WESTERN RAILROAD CO","Uncoded","Uncoded","Uncoded",72.972972972973,27.027027027027,"#000070AF","#000070AF",3700
+"2632874","K HOVING DISPOSAL INC","Miscellaneous Manufacturing & Distributing","General Business","Recycling of metal, paper, plastics, etc.",0,100,"#FF0000AF","#FF0000AF",26000
+"2632948","ABBOTT LAND & INVESTMENT CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",23.3333333333333,76.6666666666667,"#8A0000AF","#8A0000AF",9000
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",66.5271966527197,33.4728033472803,"#000052AF","#000052AF",11950
+"2633645","GLENBROOK EXCAVATING & CONCRETE INC","Special Trade Contractors","Construction","Landscaping & excavation services",80,20,"#000099AF","#000099AF",2500
+"2637213","AG-SOLVE","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",0,100,"#FF0000AF","#FF0000AF",500
+"2639682","ILLINOIS ASSOCIATION OF MUTUAL INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",1000
+"2639766","MARIYANA SPYROPOULOS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1300
+"2639853","IL RAILROAD ASSOCIATION","Railroads","Energy & Natural Resources","Railroads",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",1100
+"2642427","PARAMOUNT MEDIA GROUP","TV & Movie Production/Distribution","Communications & Electronics","Broadcasting & motion pictures",100,0,"#0000FFAF","#0000FFAF",1250
+"2646226","DALE A RIGHTER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",17000
+"2646864","LUKING & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",4500
+"2648712","FIRST RANGER PETROLEUM","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",70459.33
+"2648755","PLUMBERS & PIPEFITTERS LOCAL 23","General Trade Unions","Labor","Construction unions",44.6428571428571,55.3571428571429,"#1F0000AF","#1F0000AF",1120
+"2652730","COULTER COMPANIES / PEORIA DISPOSAL CO","Waste Management","Energy & Natural Resources","Waste management",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",7500
+"2652894","CREDITORS COLLECTION BUREAU","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",0,100,"#FF0000AF","#FF0000AF",2000
+"2652930","HOWELL PAVING INC","Special Trade Contractors","Construction","Landscaping & excavation services",0,100,"#FF0000AF","#FF0000AF",3400
+"2653266","PEORIA METRO NEW CAR DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",59.4594594594595,40.5405405405405,"#00002EAF","#00002EAF",1850
+"2655454","GARY DAHL FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6000
+"2656376","KASKASKIA ENGINEERING GROUP LLC","Construction Services","Construction","Engineering, architecture & construction management services",20,80,"#990000AF","#9E0000AF",1250
+"2664110","CHAMPAIGN COUNTY AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1500
+"2664685","EFFINGHAM COUNTY DEMOCRATIC CENTRAL CMTE OF ILLINOIS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1500
+"2674206","LABORERS LOCAL 703","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1950
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",57.9634464751958,42.0365535248042,"#000024AF","#000024AF",19150
+"2676148","SAUGET PROPERTIES INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"26810732","ILLINOIS HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"26842889","HEALTH CARE COUNCIL OF ILLINOIS","Hospitals & Nursing Homes","Health","Nursing homes",50.3238493161166,49.6761506838833,"#000000AF","#000000AF",215643.5
+"26842990","ILLINOIS FINANCIAL SERVICES ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1700
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",49.814126394052,50.1858736059479,"#050000AF","#050000AF",67250
+"2699433","GORI JULIAN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2820
+"2709311","RURAL KING DISTRIBUTING","Retail Sales","General Business","Miscellaneous retail stores",0,100,"#FF0000AF","#FF0000AF",4250
+"2710","UPS","Air Transport","Transportation","Express delivery services",74.3589743589744,25.6410256410256,"#00007AAF","#00007AAF",19500
+"2713680","MIDAMERICAN ENERGY HOLDINGS","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",45.945945945946,54.0540540540541,"#1A0000AF","#1A0000AF",9250
+"2719","US STEEL CORP","Steel","Energy & Natural Resources","Steel manufacturing",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"2721004","CEFCU","Credit Unions","Finance, Insurance & Real Estate","Credit unions",98.0392156862745,1.96078431372549,"#0000F5AF","#0000F5AF",10200
+"2721040","DEEP BLUE ILLINOIS C/O NKC","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",5000
+"2731462","FRANK WATSON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",31380
+"2731485","ACTION AMUSEMENT CO","Retail Sales","General Business","Vending machine sales & services",0,100,"#FF0000AF","#FF0000AF",2300
+"2731938","CLINTON COUNTY REPUBLICAN CENTRAL CMTE OF ILLINOIS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2000
+"2735535","FRIENDS OF HARPER","Candidate Committees","Candidate Contributions","Candidate committees",50,50,"#000000AF","#000000AF",5000
+"2738043","UNITED REPUBLICAN FUND","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",22000
+"2738761","C F & H INSURANCE AGENCY","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",2960
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",65.3791794458225,34.6208205541775,"#00004DAF","#00004DAF",9820.68
+"2752411","SPIRIT","Hospitals & Nursing Homes","Health","Health care institutions",35.5555555555556,64.4444444444444,"#4D0000AF","#4D0000AF",2250
+"27661941","ATTORNEYS TITLE GUARANTY FUND INC","Uncoded","Uncoded","Uncoded",16.1290322580645,83.8709677419355,"#AD0000AF","#AD0000AF",1550
+"27669983","MCDONOUGH ASSOCIATES INC","Uncoded","Uncoded","Uncoded",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"27670228","AMERICAS FINANCIAL CHOICE INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",6500
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",52.3302263648469,47.6697736351531,"#00000AAF","#00000AAF",75100
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",52.8301886792453,47.1698113207547,"#00000AAF","#00000AAF",2650
+"2825291","HDC ENGINEERING LLC","Construction Services","Construction","Engineering, architecture & construction management services",35.4838709677419,64.5161290322581,"#4D0000AF","#4D0000AF",775
+"2825478","OUTDOOR ADVERTISING ASSOCIATION OF ILLINOIS","Business Services","General Business","Outdoor advertising services",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"28463343","C & G CONSULTING PARTNERS LLC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",800
+"28466701","EAST CENTRAL ILLINOIS BUILDING & CONSTRUCTION TRADES COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3250
+"2850888","ILLINOIS ASSOCIATION OF AGGREGATE PRODUCERS","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",5400
+"2867370","ILLINOIS ATHLETIC TRAINERS ASSOCIATION","Miscellaneous Services","General Business","Physical fitness centers",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"2872414","CHICAGO TITLE STAFF","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"2892438","EDWARD T DUFFY & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4750
+"2904","WYETH PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",3250
+"2906647","ILLINOIS BROADCASTERS ASSOCIATION","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",41.0861021793498,58.9138978206502,"#2E0000AF","#2E0000AF",13995
+"2906654","ILLINOIS INSURANCE POLITICAL CMTE (PAC)","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",71.6981132075472,28.3018867924528,"#00006BAF","#00006BAF",2650
+"2910192","TOOLING & MANUFACTURING ASSOCIATES","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",14.0625,85.9375,"#B80000AF","#B80000AF",16000
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",50,50,"#000000AF","#000000AF",4000
+"2947","CHICAGO & COOK COUNTY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",10750
+"29480614","WIGHT & COMPANY","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"2949","DUPAGE COUNTY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",86.5384615384615,13.4615384615385,"#0000B8AF","#0000B8AF",2600
+"2958164","ILLINOIS FRATERNAL ORDER OF POLICE LABOR COUNCIL","Public Sector Unions","Labor","Police & fire fighters unions and associations",39.8148148148148,60.1851851851852,"#380000AF","#380000AF",5400
+"2964","SOUTHWEST ILLINOIS BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",600
+"2965890","TROOPERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"29677651","FOOTE MEYERS MIELKE & FLOWERS LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1750
+"2969","WEST CENTRAL ILLINOIS BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",4950
+"29710052","CHICAGO CLEAN ENERGY LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"2973","CHICAGO FEDERATION OF LABOR & INDUSTRIAL UNION","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",8950
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",2250
+"3069","MILLER BREWING CO","Beer, Wine & Liquor","General Business","Beer",80,20,"#000099AF","#000099AF",5000
+"3076","AMERICAN AIRLINES","Air Transport","Transportation","Airlines",100,0,"#0000FFAF","#0000FFAF",600
+"3112","ARLINGTON PARK RACE COURSE","Gambling & Casinos","General Business","Casinos, racetracks & gambling",63.3587786259542,36.6412213740458,"#000042AF","#000042AF",13100
+"3114729","ILLINOIS STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",4950
+"3115888","CONSTRUCTION TRADES CRAFT COMMITTEE POLITICAL ACCOUNT","General Contractors","Construction","Construction, unclassified",100,0,"#0000FFAF","#0000FFAF",2000
+"3119","ILLINOIS ASPHALT PAVEMENT ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",7800
+"3129","ASSOCIATED BEER DISTRIBUTORS OF ILLINOIS","Beer, Wine & Liquor","General Business","Liquor wholesalers",58.4965487623607,41.5034512376393,"#000029AF","#000029AF",203838.47
+"317295","RELIABLE ASPHALT CORPORATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",64.0625,35.9375,"#000047AF","#000047AF",6400
+"3181","ILLINOIS AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",56.1190738699008,43.8809261300992,"#00001FAF","#00001FAF",45350
+"31872618","IMHA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"31872620","I M H A","Uncoded","Uncoded","Uncoded",84,16,"#0000ADAF","#0000ADAF",1250
+"3195185","INFRASTRUCTURE ENGINEERING INC","Construction Services","Construction","Engineering, architecture & construction management services",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1750
+"32024610","CHICAGO PRINCIPALS & ADMINISTRATORS ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"32025592","FLETCHER TOPOL & OBRIEN","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"32028071","MORRILL & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"32028704","PICKERING & ASSOCIATES","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"32029556","SHEFSKY & FROELICH LTD","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"32030207","TOOLING & MANUFACTURING ASSOCIATION","Uncoded","Uncoded","Uncoded",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"32032744","MCDONALDS ILLINOIS OWNERS & OPERATORS","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"32036470","LEINENWEBER & BARONI CONSULTING LLC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",4500
+"3208","ILLINOIS BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",61.3173405025333,38.6826594974667,"#000038AF","#000038AF",48355
+"3220529","IMSCAPAC","Special Trade Contractors","Construction","Special trade contractors",0,100,"#FF0000AF","#FF0000AF",1550
+"3238763","ICMOA","Retail Sales","General Business","Vending machine sales & services",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",2400
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",2700
+"32520277","SIERRA CLUB ILLINOIS CHAPTER","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5019.61
+"3252466","ALLIANCE","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",57.2298325722983,42.7701674277017,"#000024AF","#000024AF",16425
+"3274","CABLE TELEVISION & COMMUNICAITONS ASSOCIATION OF ILLINOIS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",80.5430057942929,19.4569942057071,"#000099AF","#000099AF",25697.7
+"3275723","PAMCANI-PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"328","BAXTER HEALTHCARE","Pharmaceuticals & Health Products","Health","Medical supplies manufacturing & sales",0,100,"#FF0000AF","#FF0000AF",500
+"3289529","BEHNKEN, JOSEPH","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",12000
+"3376","CASINO QUEEN","Gambling & Casinos","General Business","Casinos, racetracks & gambling",8.01496126102057,91.9850387389794,"#D60000AF","#D60000AF",3743
+"3379","CENTRAL ILLINOIS PUBLIC SERVICE CO","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",51.7647058823529,48.2352941176471,"#000005AF","#000005AF",21250
+"3395","CHICAGO AUTO TRADE ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",43.2,56.8,"#240000AF","#240000AF",62500
+"3396","CHICAGO PRINCIPALS & ADMINISTRATORS ASSOCIATION","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",100,0,"#0000FFAF","#0000FFAF",2050
+"3405","CLIFFORD LAW OFFICES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3500
+"3406","CONTINENTAL CASUALTY DBA CNA INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",53.3333333333333,46.6666666666667,"#00000FAF","#00000FAF",7500
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",54.519613416714,45.480386583286,"#000014AF","#000014AF",2198.75
+"3448630","AUTO WORKERS REGION 4","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",40225
+"3467722","AMALGAMATED TRANSIT UNION / ATU","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",2550
+"3476","ILLINOIS STATE DENTAL SOCIETY","Health Professionals","Health","Dentists",53.2508984037206,46.7491015962794,"#00000FAF","#00000FAF",60919.16
+"3479","DOMINION","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",68.9655172413793,31.0344827586207,"#00005CAF","#00005CAF",7250
+"3486","DYNEGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",43.298969072165,56.701030927835,"#240000AF","#240000AF",38800
+"3578923","UNDERGROUND CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",4000
+"3615","EXELON","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",60.7843137254902,39.2156862745098,"#000033AF","#000033AF",25500
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"3628","FEDERATION OF INDEPENDENT ILLINOIS COLLEGES & UNIVERSITIES","Education","Government Agencies/Education/Other","Schools & colleges",100,0,"#0000FFAF","#0000FFAF",1650
+"37236461","TENASKA INC","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",84.6153846153846,15.3846153846154,"#0000ADAF","#0000ADAF",9750
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",2750
+"38008591","CHICAGO FEDERATION OF LABOR & IUC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",10000
+"38008606","CHICAGO REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9850
+"38021310","SPRINKLER FITTERS LOCAL 281","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",700
+"38023847","CROWE CHIZEK & COMPANY LLC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"38155602","MID-CENTRAL ILLINOIS DISTRICT COUNCIL OF CARPENTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4000
+"38167201","ILLINOIS COMMUNITY CURRENCY EXCHANGE","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1200
+"382420","FORESIGHT ENERGY","Mining","Energy & Natural Resources","Coal mining",59.4594594594595,40.5405405405405,"#00002EAF","#00002EAF",3700
+"384","BOEHRINGER INGELHEIM PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",68.4210526315789,31.5789473684211,"#00005CAF","#00005CAF",4750
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",36.8421052631579,63.1578947368421,"#470000AF","#470000AF",9500
+"3845","ILLINOIS CPA SOCIETY","Accountants","Finance, Insurance & Real Estate","Accountants",63.0841121495327,36.9158878504673,"#000042AF","#000042AF",21400
+"3848","ILLINOIS COMMUNITY CURRENCY EXCHANGE ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",34.9206349206349,65.0793650793651,"#520000AF","#520000AF",3150
+"3849","ILLINOIS CONSTRUCTION INDUSTRY COUNCIL","General Contractors","Construction","Builders associations",25.2324037184595,74.7675962815405,"#800000AF","#800000AF",18825
+"3852","ILLINOIS HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",69.0217391304348,30.9782608695652,"#000061AF","#000061AF",92000
+"3853","ILLINOIS LEAGUE OF FINANCIAL INSTITUTIONS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",64.8,35.2,"#000047AF","#000047AF",12500
+"3854","ILLINOIS MEDICAL ANESTHESIA","Health Professionals","Health","Other physician specialists",61.7021276595745,38.2978723404255,"#000038AF","#000038AF",11750
+"3855","ILLINOIS MERCHANTS ASSOCIATION","Retail Sales","General Business","Retail trade",36.6778149386845,63.3221850613155,"#470000AF","#470000AF",44850
+"3856","ILLINOIS PRO-CHOICE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",88759.39
+"3857","ILLINOIS SMALL LOAN ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",93.5483870967742,6.45161290322581,"#0000DBAF","#0000DBAF",15500
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",58.4932147870847,41.5067852129153,"#000029AF","#000029AF",26498.8
+"39510610","CITIZENS FOR LINDA HOLMES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5057.74
+"39511964","ILLINOIS AFSCME COUNCIL 31","Public Sector Unions","Labor","State & local government employee unions",92.3962435625568,7.6037564374432,"#0000D6AF","#0000D6AF",165050
+"39520491","ILLINOIS LICENSED BEVERAGE ASSOCIATION","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"3989","ILLINOIS LABORERS MIDWEST REGION","General Trade Unions","Labor","Construction unions",98.6245961814389,1.37540381856113,"#0000F5AF","#0000F5AF",218117.76
+"4052","ILLINOIS MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",33000
+"40613353","PRO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4750
+"40615780","IL ROOFING CONTRACTORS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"40615793","IHHA","Uncoded","Uncoded","Uncoded",78.3582089552239,21.6417910447761,"#00008FAF","#00008FAF",5360
+"40615838","ILLINOIS FILM","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"40617161","AUTO CLUB GROUP","Uncoded","Uncoded","Uncoded",65,35,"#00004DAF","#00004DAF",2000
+"4065","MAYER BROWN LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",65.2173913043478,34.7826086956522,"#00004DAF","#00004DAF",11500
+"4077","ILLINOIS STATE MEDICAL SOCIETY","Health Professionals","Health","Physicians",58.6548295580144,41.3451704419856,"#000029AF","#000029AF",122142.44
+"4092","MIDAMERICAN ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",53.8461538461538,46.1538461538462,"#00000FAF","#00000FAF",3250
+"4093","MIDWEST GENERATION","Electric Utilities","Energy & Natural Resources","Electric power utilities",72.1311475409836,27.8688524590164,"#000070AF","#000070AF",30500
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",16000
+"4138","NICOR GAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",64.3617021276596,35.6382978723404,"#000047AF","#000047AF",37600
+"4246","PEOPLES GAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",96.617050067659,3.382949932341,"#0000EBAF","#0000EBAF",7390
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",40,60,"#330000AF","#330000AF",15000
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",48.3870967741936,51.6129032258064,"#0A0000AF","#0A0000AF",9300
+"43555335","DENNY JACOBS & ASSOCIATES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2650
+"43555358","COOK-WITTER INC","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"43555365","GOVERNMENT NAVIGATION GROUP INC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"43555366","GRAIN & FEED LEGISLATIVE COUNCIL","Uncoded","Uncoded","Uncoded",56.7307692307692,43.2692307692308,"#00001FAF","#00001FAF",5200
+"43555368","HENDREN TAYLOR CONSULTING LLC","Uncoded","Uncoded","Uncoded",4.46428571428571,95.5357142857143,"#EB0000AF","#EB0000AF",5600
+"43555373","ILLINOIS HARNESS HORSEMEN","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1800
+"4410","POWER ROGERS & SMITH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",5500
+"4441","ILLINOIS REALTORS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Real estate",42.4022803351129,57.5977196648871,"#290000AF","#290000AF",133190.95
+"4475","ILLINOIS ROAD BUILDERS ASSOCIATION","General Contractors","Construction","Builders associations",68.9655172413793,31.0344827586207,"#00005CAF","#00005CAF",11600
+"4498","SEARS ROEBUCK & CO","Retail Sales","General Business","Department, variety & convenience stores",44.1176470588235,55.8823529411765,"#1F0000AF","#1F0000AF",8500
+"4627019","PLUMBERS & PIPEFITTERS LOCAL 93","Uncoded","Uncoded","Uncoded",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",4400
+"4709","ILLINOIS TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",143100
+"4719","MID-WEST TRUCKERS ASSOCIATION","Trucking","Transportation","Trucking",27.8787878787879,72.1212121212121,"#750000AF","#750000AF",8250
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",2500
+"4764","WINE & SPIRITS DISTRIBUTORS OF ILLINOIS","Beer, Wine & Liquor","General Business","Liquor wholesalers",57.7669902912621,42.2330097087379,"#000024AF","#000024AF",10300
+"4828","ILLINOIS REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1011220.77
+"4829","REPUBLICAN STATE SENATE CAMPAIGN CMTE OF ILLINOIS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1493464.72
+"4830","ILLINOIS DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1469351.47
+"4831","ILLINOIS SENATE DEMOCRATIC VICTORY FUND","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",3892401.19
+"489","CARDINAL HEALTH","Health Services","Health","Health care services",50,50,"#000000AF","#000000AF",1000
+"5093","ILLINOIS CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",66.1272011159979,33.8727988840021,"#000052AF","#000052AF",75089.75
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",100,0,"#0000FFAF","#0000FFAF",6250
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",13.6,86.4,"#BD0000AF","#BD0000AF",62500
+"530","CENTERPOINT PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",8500
+"548","CH2M HILL","Construction Services","Construction","Engineering, architecture & construction management services",80,20,"#000099AF","#000099AF",2500
+"553","CHAPMAN & CUTLER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",85.1063829787234,14.8936170212766,"#0000B3AF","#0000B3AF",7050
+"557","CHARTER COMMNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",6500
+"5745","AMEREN CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",67.1322160148976,32.8677839851024,"#000057AF","#000057AF",107400
+"5781","ANESI OZMON RODIN NOVAK & KOHEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6700
+"5918","ASSURANT","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",100,0,"#0000FFAF","#0000FFAF",2500
+"6084","BRUCE SIMON CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",40.5405405405405,59.4594594594595,"#330000AF","#330000AF",7400
+"6211","CASEYS GENERAL STORES","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",2000
+"63343","KEEP OUR MISSION PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",15000
+"6428","CONSUMER LENDING ALLIANCE","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",50.4926108374384,49.5073891625616,"#000000AF","#000000AF",20300
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",68.7074829931973,31.2925170068027,"#00005CAF","#00005CAF",73500
+"6441","COONEY & CONWAY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",7500
+"666844","MARSHALL & ILSLEY BANK","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2400
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",51.9230769230769,48.0769230769231,"#000005AF","#000005AF",5200
+"6795","FLETCHER TOPOL OBRIEN & KASPER","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",77.3584905660377,22.6415094339623,"#00008AAF","#00008AAF",15900
+"698","COTTONWOOD FINANCIAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",68.75,31.25,"#00005CAF","#00005CAF",16000
+"7147","ILLINOIS ASSOCIATION OF AGGREGATE PRODUCERS","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",700
+"7148","ILLINOIS ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",39.9082568807339,60.091743119266,"#380000AF","#380000AF",10900
+"7150","ILLINOIS HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",55.4726368159204,44.5273631840796,"#00001AAF","#00001AAF",20100
+"7151","ILLINOIS HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",67.2761368963901,32.7238631036099,"#000057AF","#000057AF",21330
+"7153","ILLINOIS INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",1200
+"7154","ILLINOIS LICENSED BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor stores",0,100,"#FF0000AF","#FF0000AF",600
+"7155","ILLINOIS NURSES ASSOCIATION","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",1100
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"735","CSX TRANSPORTATION","Railroads","Energy & Natural Resources","Railroads",41.025641025641,58.974358974359,"#2E0000AF","#2E0000AF",3900
+"7386","KATTEN MUCHIN ZAVIS ROSENMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2250
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",60,40,"#000033AF","#000033AF",2500
+"7487","LASALLE BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",2750
+"7521","LEXINGTON SQUARE INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",28.0821917808219,71.9178082191781,"#700000AF","#700000AF",7300
+"7733","MCLANE CO","Food Processing & Sales","Agriculture","Food wholesalers",71.1340206185567,28.8659793814433,"#00006BAF","#00006BAF",24250
+"7746","MEIJER INC","Retail Sales","General Business","Department, variety & convenience stores",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",11000
+"793","DIAGEO","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",11000
+"8162063","DENBURY RESOURCES","Oil & Gas","Energy & Natural Resources","Oil & gas",50,50,"#000000AF","#000000AF",1000
+"821462","ILLINOIS PORK PRODUCERS ASSOCIATION","Livestock","Agriculture","Livestock",48.1481481481481,51.8518518518518,"#0A0000AF","#0A0000AF",1350
+"8627","RACING ASSOCIATION OF ILLINOIS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",98.2783357245337,1.72166427546628,"#0000F5AF","#0000F5AF",17425
+"863","DYKEMA GOSSETT PLLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1000
+"864506","IAMBPAC","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",42.6666666666667,57.3333333333333,"#290000AF","#290000AF",1875
+"870","NATIONAL EAGLE FORUM","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",6000
+"8848","SECURITY FINANCE CORP OF SPARENBURG","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",2000
+"8849","SELECT MANAGEMENT RESOURCES","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",59.2592592592593,40.7407407407407,"#00002EAF","#00002EAF",6750
+"8909","SIMMONSCOOPER LLC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2750
+"8929","SARLING NORTHRUP HANNA CULLEN & COCHRAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",56.7066521264995,43.2933478735005,"#00001FAF","#00001FAF",22925
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",34000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",40.0763358778626,59.9236641221374,"#330000AF","#330000AF",26200
+"9099","TARGET CORP","Retail Sales","General Business","Department, variety & convenience stores",37.5,62.5,"#420000AF","#420000AF",4000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",50.597609561753,49.402390438247,"#000000AF","#000000AF",12550
+"9397","VULCAN MATERIALS","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",68.4210526315789,31.5789473684211,"#00005CAF","#00005CAF",4750
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",50,50,"#000000AF","#000000AF",1000
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",62.5,37.5,"#00003DAF","#00003DAF",20000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",20,80,"#990000AF","#9E0000AF",2500
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",36,64,"#470000AF","#470000AF",12500
+"9580","ZACK STAMP LTD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",59.6459722934838,40.3540277065162,"#00002EAF","#00002EAF",11694
+"9588","CHECK INTO CASH","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"9812","ADDUS HEALTH CARE","Health Services","Health","Home care services",100,0,"#0000FFAF","#0000FFAF",1250
+"9827","ADVANCED PRACTICAL SOLUTIONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",4750
+"9830","ADVANTAGE CAPITAL MANAGEMENT CORP","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",100,0,"#0000FFAF","#0000FFAF",750
+"9898","ALL-CIRCO INC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",2500
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",3000
+"99195","JAMES B DURKIN CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2500
+"9990","AMERICASH LOANS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",82.3529411764706,17.6470588235294,"#0000A3AF","#0000A3AF",8500

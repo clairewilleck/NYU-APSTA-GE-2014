@@ -1,0 +1,999 @@
+---
+title: "NYU APSTA GE 2014 Final Project"
+author: "Claire Willeck"
+date: "12/16/2019"
+
+output: 
+        pdf_document:
+            extra_dependencies: ["dcolumn", "rotating"]
+            fig_caption: yes
+            keep_tex: yes
+header-includes:
+  \usepackage{float}
+  \usepackage{lipsum}
+  \floatplacement{figure}{H}
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T, message = F, warning = F, fig.pos='H')
+#https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/1XORAL
+```
+```{r, echo=FALSE}
+library(bipartite)
+library(igraph)
+library(dplyr)
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+library(foreign)
+library(intergraph)
+library(stargazer)
+library(ggplot2)
+library(ggraph)
+```
+
+##Overview
+
+In this project, I am interested in the network of campaign donors within a state for House elections. First, I look at descriptive statistics and visuals of the networks. Then, I simulate different networks based on different scenarios of the number of Democratic and Republican candidates running in an election and scenarios of the probability of a donor donating to either a Republican or Democratic candidate. The network data that I have is a one-mode network (described more below) with donor groups as the nodes. The original network was a bipartite network with candidates and donor groups. I don't have the bipartite network, but I do have data on the candidates that ran for the House elections in each district, for each state, for each election. I also have data on the percentage of donations given to Republican and Democratic candidates by each donor group. I use these percentages as the probability of a donor group to donate to a Republican or a Democratic candidate. For example, if a donor group donated 100% of their donations to a Democratic candidate then this donor group has a 100% probability of donating to Democratic candidates and 0% probability of donating to Republican candidates. This is clearly a rough approximation of the probability of a donor group to donate to a candidate. Donor groups likely do not donate to a candidate simply based on party, but also based on other strategy measures such as probability of winning, ideology, historical behavior, etc. Further, a donor group in reality can donate 100% of it's donations to Democratic candidates, but that does not mean that the group donates evenly to all candidates or to some Democratic candidates at all; whereas, a donor group that donates 100% to Democratic candidates will donate to all Democratic candidates available in my simulations. In my first set of simulations, I vary the makeup of the candidates, and in my second set of simulations, I vary the probability of donor groups to donate to candidates.
+
+###First Set
+
+The first set of simulations includes five scenarios. In the first scenario, I use the realized number of Republican and Democratic candidates running in each state for each election. Each donor group has a probability of donating to each candidate based on the percentage of donations given to Democratic and Republican candidates, and this probability remains fixed across all scenarios. The donor group then has a tie with a candidate if the donor group donates to the candidate and does not have a tie with a candidate if the donor group does not donate to that candidate. This produces an incidence matrix for a bipartite network with candidates and donor groups as the two modes. I then project this matrix to get a one-mode network with donor groups as the nodes, similar to the original network, to calculate measures of centrality. I simulate this scenario 100 times and retrieve a distribution of centrality measures. From this distribution, I take the mean centrality measures for the means of easy comparison with the other scenarios.
+
+For the four remaining scenarios, I use the same methodology, except the number of candidates available to donate to changes. In the second scenario, there is one additional Republican candidate and the same number of Democratic candidates as there are in reality. In the third scenario, there is one additional Democratic candidate and the same number of Republican candidates as there are in reality. In the fourth scenario, there is one fewer Republican candidate and the same number of Democratic candidates as there are in reality. In the fifth scenario, there is one fewer Democratic candidate and the same number of Republican candidates as there are in reality. The mean centrality measures calculated in these scenarios will indicate whether the centrality of the donor network changes as the makeup of the candidates change. They will explore whether the donor group network centrality changes as an additional Republican or Democratic candidate either runs or drops out of the race.
+
+##Second Set
+
+In the second set of scenarios, I keep the number of Republican and Democratic candidates running in each election fixed. I vary the probability of donor groups donating to Democratic and Republican candidates. In the first scenario, I change the probability of any donor group that donated 100% of donations to Republican candidates to 90% probability to Republican candidates and 10% to Democratic candidates. In the second scenario, I change the probability of any donor group that donated 100% of donations to Democratic candidates to 90% probability to Democratic candidates and 10% to Republican candidates. In the third scenario, I change any donor group that donated to both Republican and Democratic candidates to donate 100% to Republican candidates. In the fourth scenario, I change any donor group that donated to both Republican and Democratic candidates to donate 100% to Democratic candidates. As before, each scenario will be simulated 100 times and centrality measures will be calculated for each simulation. For ease of comparison, the mean centrality measure will be shown for each scenario.
+
+The first two scenarios lessen the polarization in donor group donations to candidates. The latter two scenarios increase the polarization in the donor group donations to candidates. These scenarios explore how the centrality of the donor group network changes when donor groups become more or less polarized in their donations. 
+
+
+##Data
+
+For this project, I use two data sources. The first dataset that includes the network information is a dataset provided by Reuning (2019).The original data was in the form of a bipartite network where candidates and donating groups were the modes-CxG matrix. Reuning used a methodology proposed by Neal (2014) The backboning of a bipartite network creates edge weights to project the bipartite network CxG matrix to a GxG matrix network where the nodes are groups. The method involves finding a null distribution of edge weights by finding the propensity of a group to donate to a candidate, the propensity of a candidate to receive a donation, and the interaction of those two. Reuning had done this process and the resulting dataset includes the edgelist for the groups. Reuning used a 97.5% threshold for the observed edgeweight values in terms of the empirical null distribution of edgeweights. Reuning includes edges with a 90% threshold, but in the following analyses, I also exclude below the threshold of 97.5% to preserve computational capabilities. The data includes both House and Senate elections from 2000 to 2016. I only use data on House elections for this project. Further, for the sake of computational capacity, I only look at House elections for 2016 for each state. This dataset includes the percentage of a donor's donations given to a Democratic candidate and a Republican candidate. I will use these percentages as probabilities in the scenarios. 
+
+The second data set used in this project comes from the MIT Election Data and Science Lab. The dataset includes all of the candidates running for house districts from 1976 to 2018. Given the data availability of the donations, I only use data for house elections for 2016. To count the total number of Democratic and Republican candidates running in each state, I first have to classify candidates as either a Repubican, Democrat or Other. Some states, such as Minnesota which has the Democratic Farmer Labor Party, have different names for the Democrat or Republican party. To account for this, I label any candidate running for a party that includes "republican" as Republican and any candidate running for a party that includes "democrat" as Democrat. Since I only have data on the percentage of donations given to a Democratic or Republican candidate, I exclude candidates running in the election that are not associated with either of those parties. 
+
+
+
+##Importing Data and Cleaning Process
+
+First, I load in the two datasets that will be required for the analyses.
+
+```{r, echo=TRUE, warnings=FALSE}
+setwd("/Users/clairewilleck/Documents/PhD Courses/NYU APSTA GE 2014 /Final Project/")
+set.seed("573")
+read_plus <- function(flnm) {
+    read_csv(flnm) %>% 
+        mutate(filename = flnm)
+}
+
+read_plusdta <- function(flnm) {
+    read.dta(flnm) %>% 
+        mutate(filename = flnm)
+}
+
+##Load network data
+md <-
+    list.files(path = "./Election_Networks/Metadata/",
+               pattern = "*.csv", 
+               full.names = T) %>% 
+    map_df(~read_plus(.))
+
+el <-
+    list.files(path = "./Election_Networks/Edge_Lists/",
+               pattern = "*.csv", 
+               full.names = T) %>% 
+    map_df(~read_plus(.))
+
+##load vote data
+vote <- read_csv("./Election_Networks/1976-2018-house.csv")
+```
+
+
+Below I clean the edgelist data.
+
+```{r, echo=TRUE}
+##Remove edges with a values less than 3 based on the threshold calculations done by the creator of the dataset
+el <- el[el$edge>=3,]
+```
+
+Below I clean the metadata for the network.
+
+```{r}
+##Create year and state variables in metadata dataframe
+md_house <- md[str_detect(md$filename,"House",negate=FALSE)==TRUE,]
+md_house$year <- gsub('.{10}$', '', md_house$filename)
+md_house$year <- substr(md_house$year,39,42)
+md_house <- md_house[md_house$year=="2016",]
+md_house$state <- substr(md_house$filename,31,32)
+md_house$cat <- paste0(md_house$state, md_house$year)
+x <- sub(".*//", "", unique(md_house$filename))
+```
+
+Now, I clean the voting data.
+
+```{r, echo=TRUE}
+##Keep only observations from 2000 to 2016 elections. 
+vote_sub <- vote[vote$year>=2000,]
+
+##Remove candidate NA rows-these are write-ins
+vote_sub <- vote_sub[complete.cases(vote_sub$candidate),]
+
+##Create a variable for merging
+vote_sub$cat <- paste0(vote_sub$state_po,vote_sub$year)
+```
+
+```{r, comment=NA}
+uniquep <- length(unique(vote_sub$party))
+```
+The `r uniquep` unique parties that candidates ran under.
+
+
+Clearly, there's a lot of parties that people are running under and it's difficult to ascertain whether these parties fall on the ideological unidimensional liberal-conservative scale. For simplicity, I will code any party that includes "democrat" as Democrat and any party that includes "republican" as Republican and all other parties as Other. This simplification can also be justified by the fact that out of the candidates that won the election, only 4 were not Republican or Democrat and also that the US system is typically viewed as a two party system. 
+
+Below I recode the party to Democrat, Republican, and Other:
+
+```{r}
+##Re-label candidate party. If party includes "republican"-label as republican. If party includes "democrat"-label as democrat.
+vote_sub$party <- tolower(vote_sub$party)
+vote_sub$party_adj <- ifelse(str_detect(vote_sub$party,"democrat",negate=FALSE)==TRUE, "democrat",ifelse(str_detect(vote_sub$party,"republican",negate=FALSE)==TRUE,"republican","other"))
+
+##Find the number of candidates per party per district
+vote_sub$cat <- paste0(vote_sub$state_po,vote_sub$year)
+vote_sub <- vote_sub %>%
+  group_by(cat) %>%
+  mutate(num_rep=length(which(party_adj=="republican"))) %>%
+  mutate(num_dem=length(which(party_adj=="democrat"))) %>%
+  mutate(num_other=length(which(party_adj=="other")))
+
+vote_cand <- vote_sub %>%
+  group_by(cat) %>%
+  distinct(num_rep, .keep_all=TRUE)
+```
+
+Below is the code to see how many districts had a winner that was not a Republican or Democrat
+
+```{r, comment=NA}
+vote_sub$candidatevotes <- as.numeric(vote_sub$candidatevotes)
+vote_win <- vote_sub %>%
+  group_by(cat,district) %>%
+  filter(candidatevotes==max(candidatevotes))
+
+##See how many elections had a non republican or democrat winner
+other <- vote_win[vote_win$party_adj=="other",]
+other[complete.cases(other$year),c("year","state","party")]
+```
+
+The number of Democrat, Republican, and Other candidates running in each election in each state will serve as a baseline. I will now re-create the bipartite network using different numbers of candidates that deviate from the observed numbers. 
+
+For this analysis, I will have four scenarios. One with an additional Republican candidate-all other candidates equal, one with an additional Democratic candidate-all other candidates equal, one with one less Republican candidate-all other candidates equal, and one with one less Democratic candidate-all other candidates equal.
+
+For this analysis, I am ignoring the amount of money available to each donor to give. Instead, I am going to use the percentage of money donated to a Democratic candidate as the probability of donating to a Democratic candidate and the percentage of money donated to a Republican candidate as the probability of donating to a Republican candidate. The number of donors in each state and election will remain constant.
+
+##Descriptive Statistics and Visualization
+
+```{r, echo=TRUE, results='asis', comment=NA, warning=FALSE, message=FALSE}
+y <- x[str_detect(x,"House",negate=FALSE)==TRUE]
+p <- length(y)
+seq <- seq(1,by=1, len=p)
+density <- list()
+diameter <- list()
+mean_dist <- list()
+cd <- list()
+cb <- list()
+ce <- list()
+
+
+##subset data
+el_subdata <- lapply(seq, function(k) el[endsWith(el$filename,y[k]),] )
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+##create network graph
+g <- lapply(1:length(el_subdata), function(x) graph.data.frame(el_subdata[[x]],vertices=md_subdata[[x]], directed=FALSE))
+
+for(i in 1:length(el_subdata)){
+V(g[[i]])$color <- md_subdata[[i]]$DemCol
+V(g[[i]])$attr <- md_subdata[[i]]$PerDem
+}
+
+##calculate centrality measures
+density <- lapply(1:length(el_subdata), function(x) edge_density(g[[x]], loops = FALSE))
+diameter <- lapply(1:length(el_subdata), function(x) diameter(g[[x]]))
+mean_dist <- lapply(1:length(el_subdata), function(x) mean_distance(g[[x]]))
+cd <- lapply(1:length(el_subdata), function(x) centr_degree(g[[x]])$centralization)
+cb <- lapply(1:length(el_subdata), function(x) centr_betw(g[[x]])$centralization)
+ce <- lapply(1:length(el_subdata), function(x) centr_eigen(g[[x]])$centralization)
+##create plot
+colors = c("#0000FFAF","#140000AF","#FF0000AF")
+labels = c("100% Democrat","50% Republican; 50% Democrat","100% Repbulican")
+makeplots <- function(x){
+  plot(g[[x]], vertex.label=NA,main=gsub('.{4}$', '', y[x]))
+  legend("bottomleft",legend=labels, col=colors, pch=19,horiz=FALSE,cex=.6,yjust=0,x.intersp = .3,bty="n")
+}
+```
+
+```{r, echo=TRUE, results='asis', comment=NA, warning=FALSE, message=FALSE, echo=FALSE}
+sapply(1:length(el_subdata), function(x) makeplots(x))
+```
+
+```{r}
+label <- substr(y,1,2)
+table <- data.frame(label,density=round(unlist(density), 3), diameter=round(unlist(diameter),3), mean_dist=round(unlist(mean_dist),3), cd=round(unlist(cd),3),cb=round(unlist(cb),3),ce=round(unlist(ce),3))
+col_names <- c("State","Density","Diameter","Mean\nDistance","Degree\nCentrality","Betweeness\nCentrality","Eigenvector\nCentrality")
+```
+
+
+Below is a table showing the values for different centrality measures for each state for the 2016 election:
+
+```{r, echo=TRUE}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Summary Statistics \n Election Year 2016")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+
+```{r, echo=TRUE, results='asis'}
+tablesub <- table[table$label=="MN" | table$label=="IA" | table$label=="WI" |table$label =="OH" | table$label=="ND" | table$label=="SD" | table$label=="MI" | table$label=="ID" |table$label=="IL",]
+ggplot(tablesub)+
+  geom_point(aes(label, as.numeric(density), color="purple"))+
+  geom_point(aes(label, as.numeric(cd), color="red"))+
+  geom_point(aes(label, as.numeric(cb), color="blue"))+
+  geom_point(aes(label, as.numeric(ce), color="green"))+
+  labs(title="Network Centrality Measures\nElectoral Years for Upper Midwest", x="Electoral Year", y="Centrality Measure", color="Legend")+
+  scale_color_manual(labels =c("Density","Degree Centrality","Degree Betweeness","Degree Eigenvector"), values=c("purple","red","blue","green"))
+```
+
+Degree centrality is consistently higher than the other centrality measures in each state. Interestingly, there is no clear indication that a particular state has a higher network level centrality. For instance, North Dakota has the highest degree centrality but has the lowest degree betweeness. This means that there is one or a few donor groups that have many connections, but there aren't many donor groups that act as a bridge to other donor groups. Looking at the plot of North Dakota in 2016 on the previous page, this makes a lot of sense. There appears to be one or two donor groups that are connected to other donor groups and a lot of isolate donor groups. In contrast, South Dakota's centrality measures are closer together and this makes sense when looking at the plot for South Dakota. It is clear that there are two clusters of donor groups-one Republican and one Democrat-but there appear to be many donor groups that are connected to others and far fewer isolates than in North Dakota.
+
+##First Set 
+
+##Scenario 1
+
+###Same number of Republican and Democratic candidates as reality
+
+```{r}
+##I create a vector that captures the unique ID for state and year
+y <- x[str_detect(x,"House",negate=FALSE)==TRUE]
+seq <- seq(1,by=1, len=length(y))
+
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd1 <- vector()
+mean_cb1 <- vector()
+mean_ce1 <- vector()
+mean_d1 <- vector()
+l <- 10
+```
+I first create a list with all of the datasets broken up by state and election year.
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+Then I create vectors for the candidates that each donor had donated to for each election in each state using the number of Democratic and Republican candidates and the probability of a donor group donating to a Democratic or Republican candidate. 
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$PerDem[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$PerRep[i]/100)))))
+```
+
+I create a function that will create a bipartite matrix and then an incident matrix of donor groups.
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+Now I have the function to create the donor group networks and all of the simulated data, which is stored in s. I next create a list that includes all of the one-mode graphs for all states and all simulations. 
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+Now I use those graphs to calculate network level centrality measures
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd1 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb1 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce1 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d1 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+
+##Scenario 2
+
+###One more Republican candidate and same number of Democratic candidates as reality
+
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd2 <- vector()
+mean_cb2 <- vector()
+mean_ce2 <- vector()
+mean_d2 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$PerDem[i]/100),rbinom(full[[x]]$num_rep[1]+1,1,full[[x]]$PerRep[i]/100)))))
+```
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1]+1, ncol=n[[k]])
+  
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd2 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb2 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce2 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d2 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+##Scenario 3
+
+###One more Democratic candidate and same number of Republican candidates as reality
+
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd3 <- vector()
+mean_cb3 <- vector()
+mean_ce3 <- vector()
+mean_d3 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1]+1, 1,full[[x]]$PerDem[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$PerRep[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+1+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+ # cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd3 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb3 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce3 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d3 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+##Scenario 4
+
+###One less Republican candidate and same number of Democratic candidates as reality
+
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd4 <- vector()
+mean_cb4 <- vector()
+mean_ce4 <- vector()
+mean_d4 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$PerDem[i]/100),rbinom(ifelse(full[[x]]$num_rep[1]-1<0,0,full[[x]]$num_rep[1]),1,full[[x]]$PerRep[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1]-1, ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd4 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb4 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce4 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d4 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+##Scenario 5
+
+###One less Democratic candidate and same number of Republican candidates as reality
+I do not include the comments between each step to save space. The methodology is exactly the same as in scenario one except for the number of cnadiates changes.
+
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd5 <- vector()
+mean_cb5 <- vector()
+mean_ce5 <- vector()
+mean_d5 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(ifelse(full[[x]]$num_dem[1]-1<0,0,full[[x]]$num_dem[1]), 1,full[[x]]$PerDem[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$PerRep[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]-1+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd5 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb5 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce5 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d5 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+I can now compare the centrality measures across all five scenarios. 
+
+Mean Density:
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_d1)),3),round(as.numeric(unlist(mean_d2)),3),round(as.numeric(unlist(mean_d3)),3),round(as.numeric(unlist(mean_d4)),3),round(as.numeric(unlist(mean_d5)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4","Scenario 5")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+
+```{r, echo=TRUE, results='asis'}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Density for All Five Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+
+From the table above, it appears that the density is dependent on the number of candidates running in the election for some states. Scenarios 2 and 3 tend to have higher mean density than scenario 1 and scenarios 4 and 5 tend to have lower mean density than scenario 1. It seems like this trend is greater in states with fewer candidates running such as Alaska, North Dakota, Wyoming, Vermont, etc. In other states, the degree centrality is fairly constant across scenarios.
+
+Degree Centrality:
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_cd1)),3),round(as.numeric(unlist(mean_cd2)),3),round(as.numeric(unlist(mean_cd3)),3),round(as.numeric(unlist(mean_cd4)),3),round(as.numeric(unlist(mean_cd5)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4","Scenario 5")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+```{r, echo=TRUE, results='asis'}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Degree Centrality for All Five Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+There doesn't appear to be a pattern in mean degree centrality over the five scenarios. In some states, adding an additional candidate-either a Republican or a Democrat-increases degree centrality and in other states, adding an additional candidate decreases degree centrality. The same applies for decreasing a candidate. It also doesn't appear to make much of a difference whether the candidate added or removed was a Republican or Democrat. Most states have the same-if not very similar-degree centrality measures for scenarios 2 and 3 and similarly for scenarios 4 and 5.
+
+
+Eigenvector Centrality: 
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_ce1)),3),round(as.numeric(unlist(mean_ce2)),3),round(as.numeric(unlist(mean_ce3)),3),round(as.numeric(unlist(mean_ce4)),3),round(as.numeric(unlist(mean_ce5)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4","Scenario 5")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+```{r, echo=TRUE, results='asis'}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Eigenvector Centrality for All Five Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+The same patterns found in degree centrality are found in eigenvector centrality.
+
+
+##Second Set
+
+
+First, I need to create the probabilities for the scenarios. 
+
+```{r}
+md_house$scen1r <- ifelse(md_house$PerRep==100, 90, md_house$PerRep)
+md_house$scen1d <- ifelse(md_house$PerRep==100,10,md_house$PerDem)
+
+md_house$scen2r <- ifelse(md_house$PerDem==100, 10, md_house$PerRep)
+md_house$scen2d <- ifelse(md_house$PerDem==100, 90, md_house$PerDem)
+
+md_house$scen3r <- ifelse(md_house$PerRep < 100 & md_house$PerRep > 0, 100, md_house$PerRep)
+md_house$scen3d <- ifelse(md_house$PerRep < 100 & md_house$PerRep > 0, 0,  md_house$PerDem)
+
+md_house$scen4r <- ifelse(md_house$PerDem < 100 & md_house$PerDem > 0,0, md_house$PerRep)
+md_house$scen4d <- ifelse(md_house$PerDem < 100 & md_house$PerDem > 0,100, md_house$PerDem)
+```
+
+##Scenario 1
+
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd1 <- vector()
+mean_cb1 <- vector()
+mean_ce1 <- vector()
+mean_d1 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$scen1d[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$scen1r[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd1 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb1 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce1 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d1 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+
+
+##Scenario 2
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd2 <- vector()
+mean_cb2 <- vector()
+mean_ce2 <- vector()
+mean_d2 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$scen2d[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$scen2r[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd2 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb2 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce2 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d2 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+##Scenario 3
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd3 <- vector()
+mean_cb3 <- vector()
+mean_ce3 <- vector()
+mean_d3 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$scen3d[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$scen3r[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd3 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb3 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce3 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d3 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+##Scenario 4
+
+```{r}
+##Create a variables
+s <- list()
+m <- list()
+cd <- vector()
+cb <- vector()
+ce <- vector()
+d <- vector()
+n <- list()
+mean_cd4 <- vector()
+mean_cb4 <- vector()
+mean_ce4 <- vector()
+mean_d4 <- vector()
+l <- 10
+```
+
+```{r}
+md_subdata <- lapply(seq, function(k) md_house[endsWith(md_house$filename,y[k]),] )
+full <- lapply(1:length(md_subdata), function(x) merge(md_subdata[[x]], vote_cand, by="cat"))
+n <- lapply(1:length(full), function(x) nrow(full[[x]]))
+```
+
+```{r}
+s <- replicate(l,lapply(1:length(n), function(x) lapply(1:n[[x]], function(i) c(rbinom(full[[x]]$num_dem[1], 1,full[[x]]$scen4d[i]/100),rbinom(full[[x]]$num_rep[1],1,full[[x]]$scen4r[i]/100)))))
+```
+
+
+```{r}
+matrix_graph_function <- function(j,k,p){
+  ##Below, I combine these vectors to create a bipartite network incidence matrix with the candidates as columns and the groups of donors as rows making it a GxC matrix.
+
+  vec <- unlist(j[k,p])
+  m <- matrix(vec,nrow=full[[k]]$num_dem[1]+full[[k]]$num_rep[1], ncol=n[[k]])
+  
+##Now that I have the incidence matrix, I can convert the incidence matrix into a graph object and then project the bipartite graph to two one-mode networks. The second projection gives the GxG matrix, which is the one-mode network for groups of donors.
+
+  g <- graph_from_incidence_matrix(m)
+  b <- bipartite.projection(g)$proj2
+  return(b)
+}
+```
+
+```{r}
+all_graphs <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) matrix_graph_function(s,t,x)))
+```
+
+```{r}
+##I now can calculate the centrality of the network.
+  d <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) edge_density(all_graphs[[t]][[x]], loops=FALSE)))
+  cd <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_degree(all_graphs[[t]][[x]])$centralization))
+  #cb <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_betw(all_graphs[[t]][[x]])$centralization))
+  ce <- lapply(1:nrow(s), function(t) lapply(1:ncol(s), function(x) centr_eigen(all_graphs[[t]][[x]])$centralization))
+
+mean_cd4 <- lapply(1:nrow(s), function(x) mean(unlist(cd[[x]])))
+#mean_cb4 <- lapply(1:nrow(s), function(x) mean(unlist(cb[[x]])))
+mean_ce4 <- lapply(1:nrow(s), function(x) mean(unlist(ce[[x]])))
+mean_d4 <- lapply(1:nrow(s), function(x) mean(unlist(d[[x]])))
+```
+
+I can now compare the centrality measures across all four scenarios. 
+
+Mean Density:
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_d1)),3),round(as.numeric(unlist(mean_d2)),3),round(as.numeric(unlist(mean_d3)),3),round(as.numeric(unlist(mean_d4)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+```{r, echo=TRUE}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Density for All Four Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+There really does not appear to be a trend with network level density at the probability of donor groups to donate to Republican or Democratic candidates. In some states, the network level density does change based on the polarization of donor groups. For example, it Missouri, lower levels of polarization have higher mean densities and higher levels of polarization have lower mean densities. In contrast, Montana's mean density levels are fairly constant across donor group polarization. In some states, it depends on whether the polarization is based from Democrats or Republicans. For instance, in New York, density doesn't change much except when donor groups that were donating candidates from both parties start donating to only Republican candidates. A similar pattern exists in Illinois. 
+
+Degree Centrality:
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_cd1)),3),round(as.numeric(unlist(mean_cd2)),3),round(as.numeric(unlist(mean_cd3)),3),round(as.numeric(unlist(mean_cd4)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+```{r, echo=TRUE}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Degree Centrality for All Four Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+Once again, there's not a systematic pattern with degree centrality across the four scenarios. However, it seems like it rarely matters whether the polarization is from donor groups donating to Republican or Democratic candidates. There are some states like South Carolina and Arizona where scenario 5 has higher degree centrality, but overall degree centrality is similar in scenarios 1 and 2 and similar in scenarios 3 and 4. 
+Eigenvector Centrality: 
+
+```{r}
+##Combine centrality measures
+label <- paste0(substr(y,1,2))
+table <- data.frame(label,round(as.numeric(unlist(mean_ce1)),3),round(as.numeric(unlist(mean_ce2)),3),round(as.numeric(unlist(mean_ce3)),3),round(as.numeric(unlist(mean_ce4)),3))
+col_names <- c("State","Scenario 1","Scenario 2","Scenario 3","Scenario 4")
+```
+
+Below is a table showing the values for different centrality measures by state for election year 2016:
+
+```{r, echo=TRUE}
+table %>%
+mutate_all(linebreak) %>%
+kable(format="latex",escape=F,row.names=FALSE,col.names=linebreak(col_names), caption="Network Level Eigenvector Centrality for All Four Scenarios")%>%
+kable_styling(latex_options = c("striped", "hold_position"))
+```
+
+Eigenvector centrality measures are different for most states between scenarios 3 and 4. It seems that more liberal states have higher eigenvector centrality in scenario 3 and more conservative states have higher eigenvector centrality in scenario 4. Scenario 3 is when donor groups donating to candidates from both parties change to donating to only candidates from the Republican party and scenario 4 is the opposite. This might indicate that central donor groups are connected to other central donor groups because the donor groups are becoming more polarized so there are two clusters-one Republican and one Democratic. 
+
+##Conclusion
+
+Overall, there are some patterns that arise with the centrality measures across the different scenarios where the number of candidates by party varies and the probability of donor groups donating to candidates from each party varies. However, these patterns are not systematic, which indicates that there are other varying aspects of the networks that would change the density of the network systematically. While varying the number of candidates and the probability of donor groups donating to certain candidates does change centrality measures, the direction of change in centrality and the heterogeneity of the change across scenarios indicates that there are aspects of the network that are interacting with the scenarios and centrality measures that are not measured in this project. For example, it could be the number of donor groups, the overall number of candidates, the sparsity of the network, the partisanship of the candidates, triads in the network, etc. 
+
+This project used campaign donor group networks to run scenarios varying both the composition of the candidates running for House election and the probability of a donor group donating to a Republican or Democratic candidate. The probability measures came from the percentage of donations a donor group gave to Republican and Democratic candidates. This is a rough approximation for the probability of a donor group donating to specific candidates. Currently, the composition of candidates running for election are of equal quality except for the difference between party affiliation. If this project were to be extended, it would benefit from having a better measure for the probability of donating to candidates that better approximate the actual decision making processes of donor groups. Further, this project does not account for the amount of donations given to candidates. This would likely impact the network structure of donor groups and would give greater weights to donor groups that donate more meaning that changing the probability of donating to candidates would matter differently by donor group depending on the amount of the potential donation. This is a shortcoming of the analysis conducted above. 
+
+
+Citations:
+
+HANSFORD, T., & GOMEZ, B. (2010). Estimating the Electoral Effects of Voter Turnout. The American Political Science Review, 104(2), 268-288. Retrieved from www.jstor.org/stable/40863720
+
+MIT Election Data and Science Lab, 2017, "codebook-us-house-1976–2018.md", U.S. House 1976–2018, https://doi.org/10.7910/DVN/IG0UN2/XEGE3X, Harvard Dataverse, V5
+
+Neal, Zachary. 2014. “The Backbone of Bipartite Projections: Inferring Relationships from Co-Authorship, Co-Sponsorship, Co-Attendance and other Co-Behaviors.” Social Networks 39:84–97.
+
+Reuning, Kevin, 2019, "Election Donation Networks", https://doi.org/10.7910/DVN/YMDFPW, Harvard Dataverse, V1. The original data was in the form of a bipartite network where candidates and donating groups were the modes-CxG matrix. 
+
+
+
+

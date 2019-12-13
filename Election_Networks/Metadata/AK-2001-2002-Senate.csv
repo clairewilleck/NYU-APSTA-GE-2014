@@ -1,0 +1,58 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"1076","GENERAL COMMUNICATION INC / GCI","Telecom Services & Equipment","Communications & Electronics","Telecommunications",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",9500
+"15869","ALASKA SENATE DEMOCRATIC CAMPAIGN CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",15650
+"18599","ASSOCIATED GENERAL CONTRACTORS OF ALASKA","General Contractors","Construction","Builders associations",8.10810810810811,91.8918918918919,"#D60000AF","#D60000AF",18500
+"18864","ALASKA STATE HOSPITAL & NURSING HOME ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",37.5,62.5,"#420000AF","#420000AF",5600
+"19149","ALASKA STATE EMPLOYEES ASSOCIATION LOCAL 52","Public Sector Unions","Labor","State & local government employee unions",97.8142076502732,2.18579234972678,"#0000F0AF","#0000F0AF",9150
+"19187","ALASKA PUBLIC EMPLOYEES ASSOCATION","Public Sector Unions","Labor","State & local government employee unions",67.8571428571429,32.1428571428571,"#000057AF","#000057AF",14000
+"19624","ELECTRICAL WORKERS LOCAL 1547","General Trade Unions","Labor","Electrical workers/IBEW",75,25,"#00007FAF","#00007FAF",16000
+"19732","TEAMSTERS LOCAL 959","Transportation Unions","Labor","Teamsters unions",56.25,43.75,"#00001FAF","#00001FAF",16000
+"19900","OPERATING ENGINEERS LOCAL 302","General Trade Unions","Labor","Construction unions",84.6153846153846,15.3846153846154,"#0000ADAF","#0000ADAF",6500
+"19968","LABORERS LOCAL 341","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"19969","ALASKA PUBLIC EMPLOYEES LOCAL 71","Public Sector Unions","Labor","State & local government employee unions",81.25,18.75,"#00009EAF","#00009EAF",16000
+"20084","ALASKA LABORERS LOCAL 942","General Trade Unions","Labor","Construction unions",87.5,12.5,"#0000BDAF","#0000BDAF",4000
+"20587","PLUMBERS & STEAMFITTERS LOCAL 367","General Trade Unions","Labor","Construction unions",50,50,"#000000AF","#000000AF",1000
+"20589","PLUMBERS & PIPEFITTERS LOCAL 375","General Trade Unions","Labor","Construction unions",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",2750
+"20746","CARPENTERS & JOINERS LOCAL 1281","General Trade Unions","Labor","Construction unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",6000
+"26855536","AK MINERS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"3099","SOUTHEAST ALASKA PILOTS ASSOCIATION","Sea Transport","Transportation","Sea freight & passenger services",40,60,"#330000AF","#330000AF",1250
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",17.8571428571429,82.1428571428571,"#A80000AF","#A80000AF",7000
+"40613279","UNITED ACADEMICS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2800
+"40613291","LANTERMAN, AK","Uncoded","Uncoded","Uncoded",5.00600720865038,94.9939927913496,"#E60000AF","#E60000AF",4994
+"4796","ALASKA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",73832.75
+"4797","ALASKA DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",4591.72
+"5694","ALASKA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",1800
+"5695","ALASKA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",42.1052631578947,57.8947368421053,"#290000AF","#290000AF",9500
+"5697","ALASKA STATE HOME BUILDING ASSOCIATION","General Contractors","Construction","Builders associations",70,30,"#000066AF","#000066AF",2500
+"5698","ALASKA CABARET HOTEL RESTAURANT & RETAILERS ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",0,100,"#FF0000AF","#FF0000AF",650
+"5699","ALASKA COMMUNICATIONS SYSTEMS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",46.6666666666667,53.3333333333333,"#140000AF","#140000AF",7500
+"5700","ALASKA CONSERVATION VOTERS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",3094
+"5703","ALASKA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",10,90,"#CC0000AF","#D10000AF",5000
+"5704","ALASKA HOTEL & LODGING ASSOCIATION","Lodging & Tourism","General Business","Hotels & motels",0,100,"#FF0000AF","#FF0000AF",1250
+"5706","ALASKA PHYSICIANS & SURGEONS","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",8500
+"5710","ALASKA TELEPHONE ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"5779","ANCHORAGE REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",6500
+"6360","TECK COMINCO AMERICAN","Mining","Energy & Natural Resources","Mining",0,100,"#FF0000AF","#FF0000AF",750
+"6724","FAIRBANKS REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4000
+"6967","GREATER JUNEAU DEMOCRATIC DISTRICT","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",9311
+"8557","POTLATCH CORP","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",100,0,"#0000FFAF","#0000FFAF",500
+"8602","ALASKA STATE TROOPERS CHAPTER","Public Sector Unions","Labor","Police & fire fighters unions and associations",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",2250
+"9265","UNITED FISHERMEN OF ALASKA","Commercial Fishing","Energy & Natural Resources","Fishing",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",3000
+"9398910","IRONWORKERS LOCAL 751","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",500
+"9398917","INTERIOR DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1137
+"9412771","ALASKA MINERS ASSOCIATION","Mining","Energy & Natural Resources","Mining",0,100,"#FF0000AF","#FF0000AF",1000
+"9415188","MARY MCKINNON FUND","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",750
+"9415873","NANA REGIONAL CORP","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"9416120","ALASKA WOMEN FOR POLITICAL ACTION","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",2850
+"9422198","IFAPAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",1000
+"9422287","ALASKA INDEPENDENT INSURANCE AGENTS & BROKERS","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",500
+"9438843","ICE BLOC PAC","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",6000
+"9438855","ALASKA TRAVEL INDUSTRY ASSOCIATION","Lodging & Tourism","General Business","Lodging & tourism",18.0672268907563,81.9327731092437,"#A30000AF","#A30000AF",11900
+"9458856","ALASKA RAILROAD WORKERS","Transportation Unions","Labor","Railroad unions",40,60,"#330000AF","#330000AF",625
+"9464906","FAIRBANKS MEMORIAL HOSPITAL & DENALI CENTER","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",3500
+"9483072","SNO PAC","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",2000
+"9512712","ALASKA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",1050
+"9558030","ARCTIC","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"9581464","CARR, LAWRENCE J (LARRY)","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",50,50,"#000000AF","#000000AF",1000
+"9592050","PUBLIC SAFETY EMPLOYEE ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",2250
+"9873","ALASKA FEDERATION OF REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3500

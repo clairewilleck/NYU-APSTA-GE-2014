@@ -1,0 +1,73 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10041","ANTHEM INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",50,50,"#000000AF","#000000AF",3500
+"10457","BLUEGRASS CMTE","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",7000
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",2000
+"11998703","SUMMIT-HINKLE PAC","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",1000
+"12525","GOPAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",3000
+"1277","HUMANA","Health Services","Health","HMOs",55,45,"#00001AAF","#00001AAF",10000
+"12904","HOME BUILDERS ASSOCIATION OF KENTUCKY","Home Builders","Construction","Residential construction",50,50,"#000000AF","#000000AF",2400
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"13410","KENTUCKY ASSOCIATION OF ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",30,70,"#660000AF","#660000AF",5000
+"13418","KENTUCKY SENATE DEMOCRATIC CAUCUS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",70500
+"13419","KENTUCKY SENATE REPUBLICAN CAUCUS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",55695.15
+"1470","KROGER CO","Food Processing & Sales","Agriculture","Food stores",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",5250
+"15925530","REINVENTING A NEW DIRECTION","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",2000
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",2000
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"1739","UNITED MINE WORKERS OF AMERICA / UMWA","General Trade Unions","Labor","Mining unions",100,0,"#0000FFAF","#0000FFAF",3500
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",0,100,"#FF0000AF","#FF0000AF",1000
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",50,50,"#000000AF","#000000AF",2000
+"18878","KENTUCKY ASSOCIATION OF HEALTH CARE FACILITIES","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",6000
+"1892","NISOURCE INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",36.8421052631579,63.1578947368421,"#470000AF","#470000AF",1900
+"18929072","PROTECT SENIORS NOW","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"19738","GENERAL DRIVERS WAREHOUSEMEN & HELPERS LOCAL 89","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",3000
+"19992","KENTUCKY LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2500
+"20229","JEFFERSON COUNTY TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",3000
+"20231","KENTUCKY EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",12000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",20,80,"#990000AF","#9E0000AF",5000
+"20537234","KENTUCKY HORSEMEN'S BENEVOLENT & PROTECTIVE ASSOCIATION PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"20598","PLUMBERS & PIPEFITTERS LOCAL 502","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3000
+"20945","STEELWORKERS DISTRICT 8","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1500
+"21178","LEXINGTON FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",0,100,"#FF0000AF","#FF0000AF",1500
+"21499","KENTUCKY CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",2000
+"24815415","KENTUCKY DISTILLERS ASSOCIATION","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",50,50,"#000000AF","#000000AF",5000
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"2612","TIME WARNER CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",4000
+"26359747","KENTON COUNTY REPUBLICAN WOMEN'S CLUB","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",700
+"266","ATMOS ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2250
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",3000
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",20,80,"#990000AF","#9E0000AF",2500
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",3250
+"3184","KENTUCKY AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",39.4736842105263,60.5263157894737,"#380000AF","#380000AF",7600
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2250
+"37961871","KENTUCKY PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"37999108","AMGEN","Pharmaceuticals & Health Products","Health","Biotech products & research",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"40619977","LG&E-KU POLITICAL AWARENESS & CIVIC EDUCATION COMMITTEE","Uncoded","Uncoded","Uncoded",38.8888888888889,61.1111111111111,"#3D0000AF","#3D0000AF",9000
+"4841","KENTUCKY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",149410.76
+"585385","INTERNATIONAL ASSOCIATION OF BRIDGE STRUCTURAL ORNAMENTAL & REINFORCING IRON WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3100
+"7121434","TEAMSTERS LOCAL 783","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2000
+"7400","INDEPENDENT INSURANCE AGENTS OF KENTUCKY","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",41.1764705882353,58.8235294117647,"#2E0000AF","#2E0000AF",4250
+"7402","KENTUCKY ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",41.3489736070381,58.6510263929619,"#2E0000AF","#2E0000AF",17050
+"7403","KENTUCKY JUSTICE ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",9000
+"7405","KENTUCKY BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1800
+"7409","KENTUCKY DENTAL ASSOCIATION","Health Professionals","Health","Dentists",40,60,"#330000AF","#330000AF",2500
+"7410","KENTUCKY MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",9000
+"7412","KENTUCKY HIGHWAY INDUSTRIES","General Contractors","Construction","Public works, industrial & commercial construction",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",6500
+"7414","KENTUCKY HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",24.7787610619469,75.2212389380531,"#850000AF","#850000AF",11300
+"7419","KENTUCKY SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",30.0448430493274,69.9551569506726,"#660000AF","#660000AF",11150
+"856","DUKE ENERGY","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",0,100,"#FF0000AF","#FF0000AF",2300
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",5250
+"9157953","KENTUCKY PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",2250
+"9161793","KENTUCKY ASSOCIATION OF REAL ESTATE APPRAISERS","Real Estate","Finance, Insurance & Real Estate","Other real estate services, appraisals",0,100,"#FF0000AF","#FF0000AF",2000
+"9164390","KENTUCKY WATER","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"9177511","KENTUCKY WHOLESALE LIQUOR DEALERS","Beer, Wine & Liquor","General Business","Liquor wholesalers",100,0,"#0000FFAF","#0000FFAF",1300
+"9182631","BRETTPAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",5000
+"9203895","LOUISVILLE APARTMENT INDUSTRY PAC","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"9204313","KENTUCKY FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",25.8064516129032,74.1935483870968,"#800000AF","#800000AF",775
+"9204332","KENTUCKY CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",500
+"9214414","ASSOCIATED GENERAL CONTRACTORS OF KENTUCKY","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",5000
+"9247604","KENTUCKY MANUFACTURED HOUSING INSTITUTE","Home Builders","Construction","Mobile home construction",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3750
+"9254380","PLUMBERS & PIPEFITTERS LOCAL 107","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",6000
+"927","EQT CORP","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",5850
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1000

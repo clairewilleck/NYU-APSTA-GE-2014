@@ -1,0 +1,70 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"12017","EXCELLENCE IN VOTING","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",960
+"12474","GLACIER PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",2400
+"1307","GREATER MONTANA INDEPENDENT ELECTRICAL CONTRACTORS","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",580
+"1687","MONTANA DAKOTA UTILITIES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",31.3253012048193,68.6746987951807,"#610000AF","#610000AF",830
+"18889","MONTANA ASSOCIATION OF HEALTH CARE PROVIDERS","Hospitals & Nursing Homes","Health","Nursing homes",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",1920
+"19383","IRONWORKERS DISTRICT COUNCIL OF THE PACIFIC NORTHWEST","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",320
+"20152","MONTANA STATE AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",620
+"20244","MEA - MFT","Public Sector Unions","Labor","Teachers unions",92.3076923076923,7.69230769230769,"#0000D6AF","#0000D6AF",1300
+"2077","PLUM CREEK","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",28.3687943262411,71.6312056737589,"#700000AF","#700000AF",2820
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",800
+"21333","MONTANA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",0,100,"#FF0000AF","#FF0000AF",260
+"2147","QWEST COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",1600
+"226","ARCH COAL","Mining","Energy & Natural Resources","Coal mining",25,75,"#800000AF","#800000AF",640
+"26185725","MONTANA PETROLEUM MARKETERS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",480
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",800
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",420
+"29422700","MONTANA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",480
+"31804739","CASCADE COUNTY TAVERN ASSOCIATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",320
+"32014737","MONTANA WOOD PRODUCTS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",640
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",200
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1120
+"4411","PPL CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",480
+"5300","MONTANA CREDIT UNION NETWORK","Credit Unions","Finance, Insurance & Real Estate","Credit unions",81.5789473684211,18.4210526315789,"#00009EAF","#00009EAF",760
+"6207","CASCADE COUNTY DEMOCRATIC CENTRAL CMTE OF MONTANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",310.5
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",225
+"6790","FLATHEAD COUNTY REPUBLICAN CENTRAL CMTE OF MONTANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",900
+"6791","FLATHEAD COUNTY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1200
+"6871","GALLATIN COUNTY REPUBLICAN CENTRAL CMTE OF MONTANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2550
+"7515","LEWIS & CLARK COUNTY DEMOCRATIC CENTRAL CMTE OF MONTANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",600
+"7517","LEWIS & CLARK COUNTY REPUBLICAN CENTRAL CMTE OF MONTANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1200
+"7538","LINCOLN COUNTY REPUBLICAN CENTRAL CMTE OF MONTANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",410
+"7651927","MONTANA COAL COUNCIL","Mining","Energy & Natural Resources","Coal mining",0,100,"#FF0000AF","#FF0000AF",1060
+"7660104","DEMOCRATIC LEGISLATORS ALUMNI ASSOCIATION","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",500
+"7660744","STEVE BULLOCK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",100
+"7660881","ASSOCIATION OF MONTANA TROOPERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",1300
+"7667296","MOTOR TRANSPORTATION","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",560
+"7674647","MONTANA AGRICULTURAL PAC","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",0,100,"#FF0000AF","#FF0000AF",460
+"7674656","MONTANA ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"7676894","TREASURE STATE PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",1920
+"7677857","MONTANA GAME WARDENS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",640
+"7681875","MONTANA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",320
+"7684416","FORWARD MONTANA","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",318.41
+"7689261","LEWIS & CLARK COUNTY DEMOCRATIC ACTION CLUB","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",600
+"7692218","MONTANA CONSERVATIVE COALITION","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",200
+"7694162","TRI COUNTY BEVERAGE ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",0,100,"#FF0000AF","#FF0000AF",385
+"7716944","MONTANA HUNTERS & ANGLERS","Hunting","Energy & Natural Resources","Hunting & wildlife",100,0,"#0000FFAF","#0000FFAF",320
+"7872","MISSOULA UNIFIED PAC FOR EDUCATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",320
+"7913","MONTANA ELECTRIC COOPERATIVES ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1440
+"7914","MONTANA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",20,80,"#990000AF","#9E0000AF",1200
+"7915","MONTANA BEER & WINE DISTRIBUTORS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",1160
+"7917","MONTANA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",31.0924369747899,68.9075630252101,"#610000AF","#610000AF",2380
+"7918","MONTANA AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",830
+"7919","MONTANA CONSERVATION VOTERS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",1284.1
+"7920","MONTANA CONTRACTORS ASSOCIATION","General Contractors","Construction","Builders associations",12.7272727272727,87.2727272727273,"#C20000AF","#C20000AF",1650
+"7927","MONTANA INDEPENDENT BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",1440
+"7930","MONTANA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1920
+"7933","MONTANA PETROLEUM MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",2720
+"7935","MONTANA PUBLIC EMPLOYEES ASSOCIATION / MPEA","Public Sector Unions","Labor","State & local government employee unions",87.5,12.5,"#0000BDAF","#0000BDAF",1280
+"7937","MONTANA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",0,100,"#FF0000AF","#FF0000AF",880
+"7939","MONTANA TAVERN ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",30.188679245283,69.811320754717,"#660000AF","#660000AF",2120
+"7942","MONTANA WOOD PRODUCTS ASSOCIATION","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",0,100,"#FF0000AF","#FF0000AF",640
+"7944","MONTANA BUILDING INDUSTRY ASSOCIATION","Home Builders","Construction","Residential construction",0,100,"#FF0000AF","#FF0000AF",640
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",25,75,"#800000AF","#800000AF",1920
+"8162063","DENBURY RESOURCES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",320
+"8248","NORTHWESTERN ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",18.3908045977011,81.6091954022989,"#A30000AF","#A30000AF",1740
+"8385","PARK COUNTY DEMOCRATIC CENTRAL CMTE OF MONTANA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1600
+"8545","PONDERA COUNTY REPUBLICAN CENTRAL CMTE OF MONTANA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",320
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",960
+"9576","YELLOWSTONE COUNTY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1750

@@ -1,0 +1,191 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10484","BOK FINANCIAL CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",2000
+"10936540","BLANK","Uncoded","Uncoded","Uncoded",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",220
+"10947198","RADIOLOGY","Uncoded","Uncoded","Uncoded",13.5135135135135,86.4864864864865,"#BD0000AF","#BD0000AF",3700
+"10971","CENTER FOR LEGISLATIVE EXCELLENCE","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",60.2272727272727,39.7727272727273,"#000033AF","#000033AF",44000
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",68.1818181818182,31.8181818181818,"#00005CAF","#00005CAF",4400
+"12577","GREAT STATE PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",20500
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",40,60,"#330000AF","#330000AF",3750
+"13118","INDEPENDENT MEDICAL PROVIDERS","Hospitals & Nursing Homes","Health","Hospitals",100,0,"#0000FFAF","#0000FFAF",4700
+"14482","NEW LEADERSHIP FUND","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",500
+"1457","KOCH INDUSTRIES","Chemical & Related Manufacturing","General Business","Chemicals",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",3500
+"14720","OKLAHOMA ACADEMY OF PHYSICIAN ASSISTANTS","Health Professionals","Health","Other non-physician health practitioners",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"14726","OKLAHOMA CONSERVATIVE PAC","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",4750
+"14727","OKLAHOMA CONSUMER FINANCE ASSOCIATION","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",56.3913872989915,43.6086127010084,"#00001FAF","#00001FAF",7338
+"14734","OKLAHOMA PETROLEUM MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"14737","OKLAHOMA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",44.8275862068966,55.1724137931034,"#1F0000AF","#1F0000AF",2900
+"14739","OKLAHOMA STATE HOME BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",38.1578947368421,61.8421052631579,"#3D0000AF","#3D0000AF",3800
+"15667670","ASSOCIATED BUILDERS & CONTRACTORS OF OKLAHOMA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",59.0909090909091,40.9090909090909,"#00002EAF","#00002EAF",2200
+"16673319","IMPAC","Hospitals & Nursing Homes","Health","Hospitals",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"18377","OKLAHOMA CITY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",300
+"18380","OKLAHOMA FEDERATION OF REPUBLICAN WOMEN","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",1640
+"18423","REPUBLICAN STATE HOUSE CMTE OF OKLAHOMA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",10000
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",72.2222222222222,27.7777777777778,"#000070AF","#000070AF",1800
+"18615","ASSOCIATED GENERAL CONTRACTORS OKLAHOMA CHAPTER","General Contractors","Construction","Builders associations",65.5172413793103,34.4827586206897,"#00004DAF","#00004DAF",10150
+"18927397","OKLAHOMA GROCERS ASSOCIATION","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",1300
+"19001","OKLAHOMA GROCERS ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",1300
+"19002","OKLAHOMA VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",1800
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",6000
+"1932","OKLAHOMA GAS & ELECTRIC CO","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",44.6153846153846,55.3846153846154,"#1F0000AF","#1F0000AF",6500
+"19502","OKLAHOMA CITY FIRE FIGHTERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",50,50,"#000000AF","#000000AF",2000
+"1956","ORTHOPEDIC HOSPITAL OF OKLAHOMA","Hospitals & Nursing Homes","Health","Hospitals",50,50,"#000000AF","#000000AF",4000
+"198","ANADARKO PETROLEUM","Oil & Gas","Energy & Natural Resources","Oil & gas",7.35294117647059,92.6470588235294,"#DB0000AF","#DB0000AF",6800
+"20162","OKLAHOMA AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",10500
+"20257","OKLAHOMA EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",86.2068965517241,13.7931034482759,"#0000B8AF","#0000B8AF",14500
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",80.5194805194805,19.4805194805195,"#000099AF","#000099AF",3850
+"2046","PHILIP MORRIS","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",50,50,"#000000AF","#000000AF",1000
+"20465","OKLAHOMA SHEET METAL WORKERS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",750
+"20505","TRANSPORT WORKERS LOCAL 100","Transportation Unions","Labor","Other transportation unions",100,0,"#0000FFAF","#0000FFAF",6000
+"20585","PLUMBERS & PIPEFITTERS LOCAL 344","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4300
+"20726","OKLAHOMA AUTO WORKERS COUNCIL","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",6200
+"20942","STEELWORKERS DISTRICT 12","General Trade Unions","Labor","Manufacturing unions",100,0,"#0000FFAF","#0000FFAF",300
+"21091","INDEPENDENT INSURANCE AGENTS OF OKLAHOMA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",6650
+"21110","SBC COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",51.6728624535316,48.3271375464684,"#000005AF","#000005AF",13450
+"21158","OKLAHOMA ASSOCIATION OF HEALTH CARE PROVIDERS","Hospitals & Nursing Homes","Health","Nursing homes",54.7619047619048,45.2380952380952,"#000014AF","#000014AF",21000
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"22184912","BOK FINANCIAL CORPORATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"22198909","REALTORS","Uncoded","Uncoded","Uncoded",35.3448275862069,64.6551724137931,"#4D0000AF","#4D0000AF",5800
+"244","ARVEST BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",3750
+"24769040","OKLAHOMA TRUCKING ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"2513","SUNOCO INC","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",6500
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",23.3766233766234,76.6233766233766,"#8A0000AF","#8A0000AF",3850
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",25,75,"#800000AF","#800000AF",4000
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",28.7671232876712,71.2328767123288,"#700000AF","#700000AF",3650
+"28114451","GOP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",3250
+"2931","ABSENTEE SHAWNEE TRIBE OF OKLAHOMA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",22250
+"2961","OKLAHOMA STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7150
+"29731586","BANCFIRST CORPORATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"3121","OKLAHOMA ASSOCIATION OF CAREER & TECHNOLOGY EDUCATION","Education","Government Agencies/Education/Other","Technical, business & vocational schools and services",80.9898762654668,19.0101237345332,"#000099AF","#000099AF",8890
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",52.9411764705882,47.0588235294118,"#00000AAF","#00000AAF",5100
+"3280822","KERR MCGEE CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",1750
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",36.5853658536585,63.4146341463415,"#470000AF","#470000AF",61500
+"3479","DOMINION","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",0,100,"#FF0000AF","#FF0000AF",1250
+"35953","AMERICAN FIDELITY CORPORATION","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",4250
+"37471415","OKLAHOMA COMMUNITY ACTION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"3765756","MONTANA SMART TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",500
+"3840","HOSPITAL CORP OF AMERICA","Hospitals & Nursing Homes","Health","Hospitals",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",2750
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",2750
+"40613087","KERR MCGEE CORPORATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"40613752","GOLDEN RULE FINANCIAL CORPORATION","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",1000
+"40615974","CAPITOL CLUB","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"40618667","HOUND","Uncoded","Uncoded","Uncoded",77.0833333333333,22.9166666666667,"#00008AAF","#00008AAF",2400
+"40618668","OKLAHOMA FARM","Uncoded","Uncoded","Uncoded",81.25,18.75,"#00009EAF","#00009EAF",3200
+"40618678","LEGISLATIVE INTERACTION FOR EDUCATION","Uncoded","Uncoded","Uncoded",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",1150
+"4160","OKLAHOMA INDEPENDENT PETROLEUM ASSOCIATION","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",45.1871657754011,54.8128342245989,"#1A0000AF","#1A0000AF",37400
+"42689499","FEA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",24.6575342465753,75.3424657534247,"#850000AF","#850000AF",3650
+"4606","OKLAHOMA PUBLIC EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",96.35435654393,3.64564345607,"#0000EBAF","#0000EBAF",13715
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",3900
+"4772","WORKING OKLAHOMANS ALLIANCE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",51000
+"4911","OKLAHOMA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",19800
+"4912","OKLAHOMA REPUBLICAN SENATORIAL CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",22500
+"4913","DEMOCRATS OF THE OKLAHOMA STATE SENATE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",22000
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"529","CENTERPOINT ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",69.4444444444444,30.5555555555556,"#000061AF","#000061AF",3600
+"5345","OKLAHOMA CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",12250
+"5349325","HOUSE","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"535781","AFL-CIO UNIDENTIFIED","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"5646","AES SHADY POINT","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",500
+"574","CHICKASAW NATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",81.7374136229023,18.2625863770977,"#00009EAF","#00009EAF",50650
+"576","CHOCTAW NATION OF OKLAHOMA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",98.6800754242615,1.31992457573853,"#0000F5AF","#0000F5AF",79550
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",750
+"6232","CENTRAL OKLAHOMA BUSINESS ALLIANCE","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",15500
+"6233","CENTRAL OKLAHOMA DOCTORS COMMITTED TO TORT REFORM","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",13000
+"6249","CHEROKEE","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",70,30,"#000066AF","#000066AF",5000
+"6444","COOPERATIVE COUNCIL FOR OKLAHOMA SCHOOL ADMINISTRATION","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",80,20,"#000099AF","#000099AF",9250
+"6458","COX COMMUNICATIONS","Miscellaneous Communications & Electronics","Communications & Electronics","Communications & electronics",58.3756345177665,41.6243654822335,"#000029AF","#000029AF",9850
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",85.2941176470588,0,"#0000B3AF","#0000FFAF",1700
+"6970","GREATER OKLAHOMA CITY LEGISLATIVE CMTE","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",15000
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",1750
+"7730","MCI COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",90.9090909090909,9.09090909090909,"#0000CCAF","#0000CCAF",5500
+"7772","MIAMI TRIBE OF OKLAHOMA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",100,0,"#0000FFAF","#0000FFAF",6500
+"788","DEVON ENERGY","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",25,75,"#800000AF","#800000AF",2000
+"823","DOLLAR THRIFTY AUTOMOTIVE GROUP","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",2000
+"8281","OKLAHOMA ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",55.4347826086957,44.5652173913043,"#00001AAF","#00001AAF",23000
+"8282","OKLAHOMA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",40.2697495183044,59.7302504816956,"#330000AF","#330000AF",25950
+"8283","OKLAHOMA ASSOCIATION OF OPTOMETRIC PHYSICIANS","Health Professionals","Health","Optometrists & ophthalmologists",49.3827160493827,50.6172839506173,"#050000AF","#050000AF",8100
+"8284","OKLAHOMA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",45.6582633053221,54.3417366946779,"#1A0000AF","#1A0000AF",17850
+"8285","OKLAHOMA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",41.0658307210031,58.9341692789969,"#2E0000AF","#2E0000AF",15950
+"8286","OKLAHOMA CITY BUSINESS COUNCIL","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",20000
+"8288","OKLAHOMA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",43.8066465256798,56.1933534743202,"#240000AF","#240000AF",16550
+"8289","OKLAHOMA HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",96.1538461538462,3.84615384615385,"#0000EBAF","#0000EBAF",9100
+"8290","OKLAHOMA LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",60.7142857142857,39.2857142857143,"#000033AF","#000033AF",7000
+"8291","OKLAHOMA MALT BEVERAGE ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",55.6962025316456,44.3037974683544,"#00001AAF","#00001AAF",7900
+"8292","OKLAHOMA MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",34.9132947976879,65.0867052023121,"#520000AF","#520000AF",43250
+"8293","OKLAHOMA OSTEOPATHIC ASSOCIATION","Health Professionals","Health","Physicians",41.2371134020619,58.7628865979381,"#2E0000AF","#2E0000AF",4850
+"8294","OKLAHOMA PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",44.8275862068966,55.1724137931034,"#1F0000AF","#1F0000AF",7250
+"8295","OKLAHOMA QUARTER HORSE RACING ASSOCIATION","Gambling & Casinos","General Business","Casinos, racetracks & gambling",100,0,"#0000FFAF","#0000FFAF",4500
+"8296","OKLAHOMA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",49.0272373540856,50.9727626459144,"#050000AF","#050000AF",12850
+"8297","OKLAHOMA SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",19.1489361702128,80.8510638297872,"#9E0000AF","#9E0000AF",2350
+"8299","OKLAHOMA TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",98.2857142857143,1.71428571428571,"#0000F5AF","#0000F5AF",87500
+"8300","OKLAHOMA WHOLESALE MARKETERS ASSOCIATION","Miscellaneous Business","General Business","Wholesale trade",31.25,68.75,"#610000AF","#610000AF",2400
+"8313","ONEOK INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",28.0898876404494,71.9101123595506,"#700000AF","#700000AF",13350
+"856","DUKE ENERGY","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",4800
+"8604254","OKLAHOMA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",29.7297297297297,70.2702702702703,"#6B0000AF","#6B0000AF",3700
+"8604286","AMERICAN INSTITUTE OF ARCHITECTS OKLAHOMA","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"8604296","OKLAHOMA AGRIBUSINESS","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",44.8275862068966,55.1724137931034,"#1F0000AF","#1F0000AF",1450
+"8606220","STATE CHAMBER OF OKLAHOMA","Business Associations","General Business","Chambers of commerce",25,75,"#800000AF","#800000AF",2000
+"8606387","OKLAHOMA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",100,0,"#0000FFAF","#0000FFAF",2000
+"8606396","CLEVELAND COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1000
+"8606778","OKLAHOMA COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",300
+"8608142","OKLAHOMA RURAL WATER ASSOCIATION","Water Utilities","Energy & Natural Resources","Water utilities",100,0,"#0000FFAF","#0000FFAF",200
+"8608766","OKLAHOMA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",92.5925925925926,7.40740740740741,"#0000D6AF","#0000D6AF",1350
+"8608922","EDMOND REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",250
+"8608943","BLUE CROSS BLUE SHIELD OF OKLAHOMA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",5850
+"8608975","TECH PAC","Business Associations","General Business","Pro-business organizations",100,0,"#0000FFAF","#0000FFAF",15000
+"8609327","MANUFACTURED HOUSING ASSOCIATION OF OKLAHOMA","Home Builders","Construction","Mobile home construction",22.5806451612903,77.4193548387097,"#8F0000AF","#8F0000AF",6200
+"8612003","LAWTON FIRE FIGHTERS LOCAL 1882","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",9000
+"8614763","OKLAHOMA COURT REPORTERS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",68.1818181818182,31.8181818181818,"#00005CAF","#00005CAF",1100
+"8620885","PROFESSIONAL FIRE FIGHTERS OF OKLAHOMA","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",2250
+"8621083","OKLAHOMA RETIRED EDUCATORS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",95.4545454545455,4.54545454545455,"#0000E5AF","#0000E5AF",2200
+"8635374","OAYS CHILDRENS PAC","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",400
+"8644744","TEAMSTERS LOCAL 523","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1000
+"8646196","JUST PROGRESS PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"8657926","OKLAHOMA REPUBLICAN SENATE VICTORY PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",15628.99
+"8662953","TRI-CITY REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",550
+"8663053","OKLAHOMA COUNTY REPUBLICAN CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1350
+"8663150","HELEN COLE REPUBLICAN WOMENS CLUB","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",200
+"8663685","COMANCHE COUNTY REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",3500
+"8666907","OKLAHOMA BUSINESS PAC","Business Associations","General Business","General business associations",0,100,"#FF0000AF","#FF0000AF",17000
+"8680806","ORWA-PAC","Water Utilities","Energy & Natural Resources","Water utilities",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",600
+"8694885","BACK PAC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",9000
+"8698357","NORTHEASTERN OK DOCTORS COMMITTED TO TORT REFORM","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",2000
+"8701436","OKLAHOMA CMTE OF AUTOMOBILE RETAILERS","Automotive","Transportation","Auto dealers, new & used",82.1428571428571,17.8571428571429,"#0000A3AF","#0000A3AF",2800
+"8701930","SOUTHERN OKLAHOMA DOCTORS COMMITTED TO TORT REFORM","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",4000
+"8703800","OKLAHOMA CITY FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",500
+"8711414","OKLAHOMA OPTOMETRIC","Health Professionals","Health","Optometrists & ophthalmologists",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",8400
+"8713598","MCSPADDEN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"8721349","TULSA COUNTY DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",700
+"8724946","OKLAHOMA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",100,0,"#0000FFAF","#0000FFAF",200
+"8725691","CPA","Accountants","Finance, Insurance & Real Estate","Accountants",78.7234042553192,21.2765957446809,"#00008FAF","#00008FAF",4700
+"8735428","OKLAHOMA ASSOCIATION OF DEFENSE COUNSEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",650
+"8735439","HUNTERS OF OKLAHOMA UNITED FOR NIGHTTIME DEMOCRACY","Hunting","Energy & Natural Resources","Hunting & wildlife",73.9130434782609,26.0869565217391,"#000075AF","#000075AF",1150
+"8736823","WESTERN OKLAHOMA DOCTORS COMMITTED TO TORT REFORM","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",3600
+"8740745","EASTERN OKLAHOMA DOCTORS COMMITTED TO TORT REFORM","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",5000
+"8745820","OKLAHOMA CITY RETIRED FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"8757894","CHIROPRACTIC","Health Professionals","Health","Chiropractors",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",2100
+"8760309","EDMOND DEMOCRATS","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1300
+"8792888","OWMA","Miscellaneous Business","General Business","Wholesale trade",87.5,12.5,"#0000BDAF","#0000BDAF",2000
+"8792893","OKLAHOMA VETERINARY PAC","Agricultural Services & Products","Agriculture","Veterinarians",50,50,"#000000AF","#000000AF",400
+"8792914","ORA-PAC","Food & Beverage","General Business","Restaurants & drinking establishments",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",1750
+"8799523","FRIED & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",86.8686868686869,13.1313131313131,"#0000B8AF","#0000B8AF",4950
+"8802451","PRO PAC","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",13750
+"8802517","CMTE FOR EXCELLENCE IN EDUCATION","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1500
+"8802808","FUND FOR A CONSERVATIVE FUTURE","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",12000
+"8807820","PROMOTERS OF PRIVATE ENTERPRISE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",50,50,"#000000AF","#000000AF",400
+"8809324","OKLAHOMA PSYCHOLOGICAL ASSOCIATION","Health Professionals","Health","Psychiatrists & psychologists",70.3703703703704,29.6296296296296,"#000066AF","#000066AF",1350
+"8828660","JIM BARKER CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",88.2352941176471,11.7647058823529,"#0000C2AF","#0000C2AF",1700
+"8885618","UNREADABLE","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",3.2258064516129,96.7741935483871,"#F00000AF","#F00000AF",1550
+"8886401","ASSOCIATION OF OKLAHOMA GENERAL CONTRACTORS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",1250
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",3500
+"8989","OKLAHOMA ASSOCIATION OF ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",60,40,"#000033AF","#000033AF",14250
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",500
+"9134251","ORWA","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",400
+"9260","UNITED COMMUNITY BANKERS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",60.9929078014184,39.0070921985816,"#000033AF","#000033AF",7050
+"9329","VALOR COMMUNICATIONS GROUP","Telecom Services & Equipment","Communications & Electronics","Telecommunications",34.0909090909091,65.9090909090909,"#520000AF","#520000AF",4400
+"9549","WORLD ACCEPTANCE CORP","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",75,25,"#00007FAF","#00007FAF",1000
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",40.8450704225352,59.1549295774648,"#330000AF","#330000AF",10650
+"9829","ADVANCING OKLAHOMA PAC","Business Associations","General Business","Pro-business organizations",100,0,"#0000FFAF","#0000FFAF",27100

@@ -1,0 +1,438 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"1","1-800 CONTACTS","Health Services","Health","Optical services (glasses & contact lenses)",25,75,"#800000AF","#800000AF",3800
+"101","AMALGAMATED TRANSIT UNION UNIDENTIFIED","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",1500
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",10,90,"#CC0000AF","#D10000AF",5000
+"10752029","WASHINGTON LOW INCOME HOUSING ALLIANCE","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",63.6363636363636,22.7272727272727,"#000042AF","#00008AAF",5500
+"10794686","PONDERS PAWNBROKERS INC","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",250
+"10797125","HOD CARRIERS & GENERAL LABORERS 242","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3000
+"10908","CARMAX","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",1500
+"10961","CELGENE CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25,75,"#800000AF","#800000AF",2000
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",29.3233082706767,70.6766917293233,"#6B0000AF","#6B0000AF",6650
+"11252","BAR PILOTS OF THE COLUMBIA RIVER","Transportation Unions","Labor","Transportation unions",33.6134453781513,66.3865546218487,"#570000AF","#570000AF",5950
+"1146","GREEN DIAMOND RESOURCE CO","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",16.2393162393162,83.7606837606838,"#AD0000AF","#AD0000AF",5850
+"116","AMERICAN CHEMISTRY COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",7.48560460652591,92.5143953934741,"#DB0000AF","#DB0000AF",26050
+"11649","DEMOCRATS FOR EDUCATION REFORM","Public Education Policy","Ideology/Single Issue","Public School Advocates",75,0,"#00007FAF","#0000FFAF",8000
+"11878","EDUCATION MANAGEMENT CORP","Education","Government Agencies/Education/Other","Education",0,100,"#FF0000AF","#FF0000AF",1950
+"11932","EMS MANAGEMENT","Health Services","Health","Health care services",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"11941743","OUR PATIENTS COME FIRST","Health Professionals","Health","Health professionals",12.5,87.5,"#C20000AF","#C20000AF",8000
+"11982504","TOWER LIMITED","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"11982802","VIGOR INDUSTRIAL","Sea Transport","Transportation","Sea transport",3.3112582781457,96.6887417218543,"#F00000AF","#F00000AF",7550
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",20,80,"#990000AF","#9E0000AF",4750
+"1252","HNTB CORP","Construction Services","Construction","Engineering, architecture & construction management services",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",4200
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",82.9059829059829,0,"#0000A3AF","#0000FFAF",5850
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",13.6690647482014,86.3309352517986,"#BD0000AF","#BD0000AF",6950
+"1276657","PACIFIC DENTAL SERVICES","Health Professionals","Health","Dentists",24.0174672489083,75.9825327510917,"#850000AF","#850000AF",11450
+"12952","HOUSE DEMOCRATIC CAMPAIGN CMTE OF WASHINGTON","Party Committees","Party","Democratic Party committees",52.6787847156617,0,"#00000AAF","#0000FFAF",65681.09
+"1338","INTERNATIONAL PAPER","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",3000
+"13400","KEMPER HOLDINGS","Investment Holding Companies","Finance, Insurance & Real Estate","Investment Holding Companies",0,100,"#FF0000AF","#FF0000AF",7000
+"13607267","CAMBIA HEALTH SOLUTIONS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",31.5298507462687,68.4701492537313,"#610000AF","#610000AF",26800
+"13631","LEAGUE OF EDUCATION VOTERS","Public Education Policy","Ideology/Single Issue","Public School Advocates",62.9032258064516,37.0967741935484,"#00003DAF","#00003DAF",3100
+"1381700","SPRINKLER FITTERS & APPRENTICES LOCAL 699","General Trade Unions","Labor","Construction unions",66.6666666666667,0,"#000052AF","#0000FFAF",2400
+"13910","WASHINGTON MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",0,100,"#FF0000AF","#FF0000AF",4500
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",31.2883435582822,68.7116564417178,"#610000AF","#610000AF",8150
+"1440","KINDRED HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",50,50,"#000000AF","#000000AF",500
+"144791","FOOD & COMMERCIAL WORKERS LOCAL 367","General Trade Unions","Labor","Retail trade unions",94.1176470588235,0,"#0000E0AF","#0000FFAF",1700
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",14000
+"14638","NORTHWEST DAIRY ASSOCIATION","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",0,100,"#FF0000AF","#FF0000AF",11350
+"14640","NORTHWEST FOOD PROCESSORS ASSOCIATION","Food Processing & Sales","Agriculture","Food wholesalers",0,100,"#FF0000AF","#FF0000AF",6000
+"14641","NORTHWEST GROCERY ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",12000
+"1470","KROGER CO","Food Processing & Sales","Agriculture","Food stores",20.3661327231121,79.6338672768879,"#990000AF","#990000AF",21850
+"14758","OLYMPIC RESOURCE MANAGEMENT","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",950
+"14872","PACIFIC MERCHANT SHIPPING ASSOCIATION","Sea Transport","Transportation","Sea transport",27.8215223097113,72.1784776902887,"#750000AF","#750000AF",19050
+"15200","PREMERA BLUE CROSS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",24.8903791591437,75.1096208408563,"#850000AF","#850000AF",38770
+"15255","PROLIANCE SURGEONS","Health Professionals","Health","Other physician specialists",12.5,87.5,"#C20000AF","#C20000AF",8000
+"15289","PUGET SOUND PILOTS","Sea Transport","Transportation","Sea freight & passenger services",41.5322580645161,58.4677419354839,"#2E0000AF","#2E0000AF",12400
+"15378","RAYONIER INC","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",9000
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",14850
+"15450","RENTAL HOUSING ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",0,100,"#FF0000AF","#FF0000AF",9000
+"15479","RESCARE INC","Health Services","Health","Health care services",36.1702127659575,63.8297872340426,"#470000AF","#470000AF",2350
+"15625830","WASHINGTON ANGLERS FOR CONSERVATION","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",15.3374233128834,84.6625766871166,"#B30000AF","#B30000AF",16300
+"15630540","WASHINGTON STATE FRATERNAL ORDER OF POLICE","Public Sector Unions","Labor","Police & fire fighters unions and associations",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",9000
+"15634613","EMPRES HEALTHCARE MANAGEMENT","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",500
+"15639453","PROGRESS FOR PUBLIC SAFETY","Uncoded","Uncoded","Uncoded",80,0,"#000099AF","#0000FFAF",2500
+"15846","SEATTLE MARINERS","Recreation & Live Entertainment","General Business","Professional sports, arenas & related equipment and services",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",8500
+"15871","SENATE DEMOCRATIC CAMPAIGN CMTE OF WASHINGTON","Party Committees","Party","Democratic Party committees",82.850745177763,0,"#0000A3AF","#0000FFAF",402654.93
+"15887250","DOTY & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",18.75,81.25,"#A30000AF","#A30000AF",800
+"15887269","PROFESSIONAL & TECHNICAL EMPLOYEES LOCAL 17","Public Sector Unions","Labor","State & local government employee unions",80.7692307692308,19.2307692307692,"#000099AF","#000099AF",5200
+"15888152","WASHINGTON ASSOCIATION OF NURSE ANESTHETISTS","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",4500
+"15935088","MILLERCOORS","Beer, Wine & Liquor","General Business","Beer",3.80228136882129,96.1977186311787,"#F00000AF","#F00000AF",13150
+"15964","SIMPSON INVESTMENT CO","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",1900
+"16144","STAND FOR CHILDREN","Public Education Policy","Ideology/Single Issue","School Choice Advocates",25.7294429708223,74.2705570291777,"#800000AF","#800000AF",18850
+"16243883","WASHINGTON ELECTRIC COOPERATIVE","Uncoded","Uncoded","Uncoded",38.2352941176471,61.7647058823529,"#3D0000AF","#3D0000AF",6800
+"16244130","STRATEGIES 360 INC OPERATING ACCOUNT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1400
+"16244201","SUSTAINABLE FUTURE","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",72.7272727272727,0,"#000070AF","#0000FFAF",5500
+"16244204","LINDA MITCHELL PAC","Candidate Committees","Candidate Contributions","Candidate committees",76.5625,0,"#000085AF","#0000FFAF",6400
+"16334","T-MOBILE","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",12.3839009287926,87.6160990712074,"#C20000AF","#C20000AF",16150
+"16339","TAKEDA PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",7.07940860856087,92.9205913914391,"#DB0000AF","#DB0000AF",13419.2
+"16518637","NORTHWEST SPORTFISHING INDUSTRY WA","Uncoded","Uncoded","Uncoded",28.9855072463768,71.0144927536232,"#700000AF","#700000AF",6900
+"16698470","PLAUCHE & CARR LLP","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"16700089","COORDINATED CARE","Hospitals & Nursing Homes","Health","Health care institutions",0,100,"#FF0000AF","#FF0000AF",3000
+"16703098","FAR WEST AGRIBUSINESS ASSOCIATION","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",3000
+"1675","MCKESSON CORP","Health Services","Health","Health care services",6.2015503875969,93.7984496124031,"#E00000AF","#E00000AF",6450
+"16752709","ACTIVE IN DEMOCRACY","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",2000
+"16761","UNIVERSITY OF WASHINGTON","Education","Government Agencies/Education/Other","Schools & colleges",39.4088669950739,60.5911330049261,"#380000AF","#380000AF",10150
+"16792849","WASHINGTON STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",75,25,"#00007FAF","#00007FAF",2800
+"16870221","WA FINE WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor stores",50,50,"#000000AF","#000000AF",1000
+"16970","WASHINGTON ACADEMY OF EYE PHYSICIANS & SURGEONS","Health Professionals","Health","Optometrists & ophthalmologists",11.2359550561798,88.7640449438202,"#C70000AF","#C70000AF",8900
+"16972","WASHINGTON ASSOCIATION OF VEHICLE SUBAGENTS","Miscellaneous Transport","Transportation","Transportation",17.5438596491228,82.4561403508772,"#A80000AF","#A80000AF",14250
+"16977","WASHINGTON BEVERAGE ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",42.2118380062305,57.7881619937695,"#290000AF","#290000AF",32100
+"16978","WASHINGTON BIOTECHNOLOGY & BIOMEDICAL ASSOCIATION","Pharmaceuticals & Health Products","Health","Biotech products & research",43.859649122807,56.140350877193,"#240000AF","#240000AF",11400
+"16979","WASHINGTON COLLECTORS ASSOCIATION","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",18.2926829268293,81.7073170731707,"#A30000AF","#A30000AF",8200
+"16982","WASHINGTON ENGINEERS / WEPAC","Construction Services","Construction","Engineering, architecture & construction management services",50,50,"#000000AF","#000000AF",2000
+"16984","WASHINGTON FOOD INDUSTRY ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",13.215859030837,86.784140969163,"#BD0000AF","#BD0000AF",22700
+"16986","WASHINGTON INDIAN GAMING ASSOCIATION","Gambling & Casinos","General Business","Indian gaming",55.3977272727273,33.2386363636364,"#00001AAF","#000052AF",17600
+"16989","WASHINGTON MULTI-FAMILY HOUSING ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Real estate",7.72200772200772,92.2779922779923,"#DB0000AF","#DB0000AF",12950
+"16990","WASHINTON OIL MARKETERS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",6000
+"16991","WASHINGTON RETAIL ASSOCIATION","Retail Sales","General Business","Retail trade",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",7500
+"1699293","WASHINGTON CONSERVATION VOTERS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",85.3479853479853,0,"#0000B3AF","#0000FFAF",13650
+"16993","WASHINGTON SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",36.2397820163488,63.7602179836512,"#470000AF","#470000AF",18350
+"16995","WASHINGTON STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",78.9473684210526,0,"#00008FAF","#0000FFAF",4750
+"17001","WASHINGTON STATE VETERINARY MEDICAL ASSOCIATION / WSVMA","Agricultural Services & Products","Agriculture","Veterinarians",2.57731958762887,97.4226804123711,"#F50000AF","#F50000AF",9700
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"17136","WILLAMETTE DENTAL GROUP CORP","Health Professionals","Health","Dentists",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3675
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",28.4722222222222,71.5277777777778,"#700000AF","#700000AF",28800
+"1753","MOLINA HEALTHCARE","Health Services","Health","HMOs",39.6984924623116,60.3015075376884,"#380000AF","#380000AF",9950
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",5.79710144927536,94.2028985507246,"#E60000AF","#E60000AF",17250
+"1811","NATIONAL ASSOCIATION OF MUTUAL INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1600
+"1817","NATIONAL ASSOCIATION OF CHAIN DRUG STORES","Retail Sales","General Business","Drug stores",4.51977401129944,95.4802259887006,"#EB0000AF","#EB0000AF",8850
+"1835","NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION / NECA","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",1000
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",6.41025641025641,93.5897435897436,"#E00000AF","#E00000AF",15600
+"18543","HARRY TRUMAN FUND","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",2392
+"18679","WASHINGTON INDEPENDENT TELEPHONE ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"18717","WASHINGTON RURAL ELECTRIC COOPERATIVE ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",10.6382978723404,89.3617021276596,"#CC0000AF","#CC0000AF",4700
+"18810","WASHINGTON STATE PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",400
+"18851","PLANNED PARENTHOOD AFFILIATES OF WA","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",5500
+"18905","WASHINGTON HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",39.0008138660403,60.9991861339597,"#380000AF","#380000AF",40768.38
+"18906","WASHINGTON STATE HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",34.1515474919957,65.8484525080043,"#520000AF","#520000AF",46850
+"19016","WASHINGTON DAIRY PAC","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",3.67647058823529,96.3235294117647,"#F00000AF","#F00000AF",6800
+"19067","COMMUNITY BANKERS ASSOCIATION OF WASHINGTON","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",31.8302387267904,68.1697612732095,"#610000AF","#610000AF",7540
+"191","AMERIGROUP CORPORATION","Health Services","Health","HMOs",40.9326424870466,59.0673575129534,"#330000AF","#330000AF",9650
+"1917","NUCOR CORP","Steel","Energy & Natural Resources","Steel manufacturing",40,60,"#330000AF","#330000AF",5000
+"19181","WASHINGTON FEDERATION OF STATE EMPLOYEES COUNCIL 28","Public Sector Unions","Labor","State & local government employee unions",82.8,9.2,"#0000A3AF","#0000CCAF",25000
+"19183","WASHINGTON STATE COUNTY & CITY EMPLOYEES COUNCIL 2","Public Sector Unions","Labor","State & local government employee unions",78.9473684210526,0,"#00008FAF","#0000FFAF",9500
+"193","AMERISOURCEBERGEN CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",0,100,"#FF0000AF","#FF0000AF",5900
+"19383","IRONWORKERS DISTRICT COUNCIL OF THE PACIFIC NORTHWEST","General Trade Unions","Labor","Construction unions",71.4285714285714,14.2857142857143,"#00006BAF","#0000B3AF",14000
+"19540","WASHINGTON STATE COUNCIL OF FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",45.4545454545455,45.4545454545455,"#1A0000AF","#000014AF",11000
+"19563","WASHINGTON STATE MACHINISTS & AEROSPACE WORKERS COUNCIL","General Trade Unions","Labor","Construction unions",88.7640449438202,11.2359550561798,"#0000C2AF","#0000C2AF",8900
+"19672","ELECTRICAL WORKERS LOCAL 48","General Trade Unions","Labor","Electrical workers/IBEW",81.8181818181818,0,"#00009EAF","#0000FFAF",11000
+"19702","ELECTRICAL WORKERS LOCAL 77","General Trade Unions","Labor","Electrical workers/IBEW",63.3802816901408,9.85915492957746,"#000042AF","#0000CCAF",7100
+"1972","PACIFIC SEAFOOD","Food & Beverage","General Business","Fish processing",20,80,"#990000AF","#9E0000AF",2500
+"19813","WASHINGTON TEAMSTERS LEGISLATIVE LEAGUE","Transportation Unions","Labor","Teamsters unions",88.5714285714286,11.4285714285714,"#0000C2AF","#0000C2AF",17500
+"19900","OPERATING ENGINEERS LOCAL 302","General Trade Unions","Labor","Construction unions",33.3333333333333,55.5555555555556,"#570000AF","#1F0000AF",4500
+"19917","OPERATING ENGINEERS LOCAL 612","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2480
+"20034","LABORERS LOCAL 238","General Trade Unions","Labor","Construction unions",83.3333333333333,0,"#0000A8AF","#0000FFAF",2400
+"20174","WASHINGTON STATE LABOR COUNCIL AFL-CIO","General Trade Unions","Labor","Labor unions",96.8944099378882,0,"#0000EBAF","#0000FFAF",4830
+"20270","WASHINGTON EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",87.5,0,"#0000BDAF","#0000FFAF",16000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",52.5606469002695,47.4393530997305,"#00000AAF","#00000AAF",18550
+"20402","SEIU HEALTHCARE LOCAL 775 NW","General Trade Unions","Labor","Health worker unions",50.920245398773,36.8098159509202,"#000000AF","#000042AF",16300
+"20448","SERVICE EMPLOYEES LOCAL 925","Public Sector Unions","Labor","State & local government employee unions",62.6666666666667,13.3333333333333,"#00003DAF","#0000B8AF",7500
+"20492","SHEET METAL WORKERS LOCAL 66","General Trade Unions","Labor","Construction unions",71.4285714285714,0,"#00006BAF","#0000FFAF",7000
+"20698","AUTO WORKERS REGION 5","Transportation Unions","Labor","Automotive unions",66.6666666666667,0,"#000052AF","#0000FFAF",3000
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",12.3647604327666,87.6352395672334,"#C20000AF","#C20000AF",32350
+"20837","PACFIC NORTHWEST REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",86.6913123844732,5.91497227356747,"#0000B8AF","#0000E0AF",27050
+"20885","FOOD & COMMERCIAL WORKERS LOCAL 21","General Trade Unions","Labor","Retail trade unions",60,0,"#000033AF","#0000FFAF",5000
+"20896","FOOD & COMMERCIAL WORKERS LOCAL 555","General Trade Unions","Labor","Retail trade unions",55.5555555555556,0,"#00001AAF","#0000FFAF",4500
+"21061","ASSOCIATED BUILDERS & CONTRACTORS INLAND PACIFIC CHAPTER","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",3500
+"21070","BUILDING OWNERS & MANAGERS ASSOCIATION OF WASHINGTON STATE","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",5,95,"#E60000AF","#E60000AF",10000
+"21085","INDEPENDENT INSURANCE AGENTS & BROKERS OF WASHINGTON","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",28.1481481481481,71.8518518518519,"#700000AF","#700000AF",6750
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",2500
+"21159","SHEET METAL & AIR CONDITIONING ASSOCIATION","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",1500
+"21265962","KENNEDY FUND","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",93.5593220338983,0,"#0000DBAF","#0000FFAF",29500
+"21266242","WASHINGTON ALLIANCE FOR GUN RESPONSIBILITY","Gun Control","Ideology/Single Issue","Pro-gun control",80.9523809523809,0,"#000099AF","#0000FFAF",10500
+"21266619","ASSOCIATION OF WASHINGTON SPIRITS & WINE DISTRIBUTORS","Beer, Wine & Liquor","General Business","Liquor wholesalers",53.5135135135135,46.4864864864865,"#00000FAF","#00000FAF",27750
+"21277598","STRATEGIES 360 INC","Uncoded","Uncoded","Uncoded",49.1525423728814,50.8474576271186,"#050000AF","#050000AF",2950
+"2135","PUGET SOUND ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",33.6512261580381,66.3487738419618,"#570000AF","#570000AF",36700
+"21379366","NAIOP WA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"21390476","WA MORTGAGE LENDERS ASSOCIATION","Uncoded","Uncoded","Uncoded",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",1100
+"2141","PUYALLUP TRIBE OF INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",40.3726708074534,53.416149068323,"#330000AF","#140000AF",32200
+"21441503","BROADBAND COMMUNICATIONS ASSOCIATION OF WA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"21472885","OAKPOINTE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2850
+"21496056","MILLENNIUM BULK TERMINAL-LONGVIEW LLC","Uncoded","Uncoded","Uncoded",19.7916666666667,80.2083333333333,"#9E0000AF","#9E0000AF",4800
+"21503690","WA AGGREGATES & CONCRETE ASSOCIATES","Uncoded","Uncoded","Uncoded",3.03030303030303,96.969696969697,"#F00000AF","#F00000AF",8250
+"21515093","JIM JUSTIN GOVERNMENT RELATIONS CONSULTING INC","Uncoded","Uncoded","Uncoded",31.7460317460317,68.2539682539683,"#610000AF","#610000AF",945
+"21520922","WA STATE NURSES ASSOCIATION","Uncoded","Uncoded","Uncoded",50,0,"#000000AF","#0000FFAF",1000
+"21521570","GATEWAY USA LLC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1500
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",15000
+"2255766","PHILIPS ELECTRONICS","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",0,100,"#FF0000AF","#FF0000AF",1500
+"23642","DART CONTAINER","Miscellaneous Manufacturing & Distributing","General Business","Paper, glass & packaging materials",45.2380952380952,54.7619047619048,"#1A0000AF","#1A0000AF",8400
+"2383","SIERRA PACIFIC INDUSTRIES","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",0,100,"#FF0000AF","#FF0000AF",3400
+"2433","SOUTHERN WINE & SPIRITS","Beer, Wine & Liquor","General Business","Liquor wholesalers",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",13300
+"243907","TRUEBLUE INC","Business Services","General Business","Employment agencies",0,100,"#FF0000AF","#FF0000AF",3800
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25,75,"#800000AF","#800000AF",3200
+"246","ASH GROVE CEMENT","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",24,76,"#850000AF","#850000AF",12500
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",31.4814814814815,68.5185185185185,"#610000AF","#610000AF",10800
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",10500
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",17.5965665236052,82.4034334763949,"#A80000AF","#A80000AF",23300
+"2598171","VULCAN INC","Investment Holding Companies","Finance, Insurance & Real Estate","Investment Holding Companies",32.0441988950276,67.9558011049724,"#5C0000AF","#5C0000AF",18100
+"2598181","ELECTRICAL WORKERS LOCAL 46","General Trade Unions","Labor","Electrical workers/IBEW",50,0,"#000000AF","#0000FFAF",1892.92
+"2598285","ELECTRICAL WORKERS LOCAL 76","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1250
+"2598542","LABORERS LOCAL 440","General Trade Unions","Labor","Construction unions",75,0,"#00007FAF","#0000FFAF",5760
+"2598595","ASSOCIATED GENERAL CONTRACTORS OF WASHINGTON","General Contractors","Construction","Builders associations",16.0857908847185,78.5522788203753,"#AD0000AF","#940000AF",18650
+"2598992","TEAMSTERS LOCAL 117","Transportation Unions","Labor","Teamsters unions",12.5,37.5,"#C20000AF","#00003DAF",2000
+"2601970","HOMECARE ASSOCIATION OF WASHINGTON","Health Services","Health","Home care services",60,40,"#000033AF","#000033AF",500
+"2602223","COLUMBIA DISTRIBUTING","Beer, Wine & Liquor","General Business","Liquor wholesalers",0,100,"#FF0000AF","#FF0000AF",1000
+"2603097","ASSOCIATED GENERAL CONTRACTORS BUILD EAST PAC","General Contractors","Construction","Builders associations",25.6410256410256,74.3589743589744,"#800000AF","#800000AF",3900
+"2603287","WASHINGTON ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",15000
+"2603290","NORTHWEST CREDIT UNION ASSOCIATION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",51.4450867052023,48.5549132947977,"#000005AF","#000005AF",34600
+"2603624","SANITARY SERVICE CO","Waste Management","Energy & Natural Resources","Waste management",8.06451612903226,91.9354838709677,"#D60000AF","#D60000AF",3100
+"2603652","SPOKANE FIRE FIGHTERS LOCAL 29","Public Sector Unions","Labor","Police & fire fighters unions and associations",50.6493506493506,0,"#000000AF","#0000FFAF",3850
+"2603741","POTATO","Crop Production & Basic Processing","Agriculture","Other commodities (including rice, peanuts, honey)",14.3266475644699,85.6733524355301,"#B80000AF","#B80000AF",17450
+"2605036","GOMBOSKY PUBLIC AFFAIRS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",57.1428571428571,42.8571428571429,"#000024AF","#000024AF",1750
+"2605065","DEALERS AUTO AUCTION NORTHWEST","Automotive","Transportation","Auto dealers, new & used",25,75,"#800000AF","#800000AF",4000
+"2605269","CLARK COUNTY REPUBLICAN CENTRAL CMTE OF WASHINGTON","Party Committees","Party","Republican Party committees",0,46.5116279069767,"#FF0000AF","#00000FAF",3225
+"2605986","MENTAL HEALTH PAC (MH-PAC)","Health Services","Health","Mental health services",73.6842105263158,0,"#000075AF","#0000FFAF",1900
+"2606227","VANCOUVER FIRE FIGHTERS LOCAL 452","Public Sector Unions","Labor","Police & fire fighters unions and associations",51.2820512820513,0,"#000005AF","#0000FFAF",3900
+"2606293","PATRICK DUNN & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",1450
+"2607312","OUTCOMES BY LEVY","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",38.7096774193548,61.2903225806452,"#3D0000AF","#3D0000AF",1550
+"2607701","TAYLOR UNITED FARMS","Fisheries & Wildlife","Energy & Natural Resources","Fisheries & wildlife",19.7991342583879,80.2008657416121,"#9E0000AF","#9E0000AF",2337.88
+"2607906","PLUMBER & PIPEFITTERS LOCAL 32","General Trade Unions","Labor","Construction unions",78.9473684210526,0,"#00008FAF","#0000FFAF",4750
+"2607927","WASHINGTON FIRE COMMISSIONERS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Municipal & county government organizations",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",1950
+"2607976","KENT FIRE FIGHTERS LOCAL 1747","Public Sector Unions","Labor","Police & fire fighters unions and associations",66.6666666666667,0,"#000052AF","#0000FFAF",3000
+"2607979","BELLINGHAM / WHATCOM COUNTY FIRE FIGHTERS LOCAL 106","Public Sector Unions","Labor","Police & fire fighters unions and associations",33.3333333333333,0,"#570000AF","#0000FFAF",750
+"2610239","WASHINGTON STATE ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",68.1159420289855,26.0869565217391,"#00005CAF","#000075AF",34500
+"2610333","NARAL PRO-CHOICE WASHINGTON STATE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",84.7966398546964,0,"#0000ADAF","#0000FFAF",4933.12
+"2610561","PIERCE COUNTY FIRE FIGHTERS LOCAL 726","Public Sector Unions","Labor","Police & fire fighters unions and associations",50,50,"#000000AF","#000000AF",4000
+"2611640","AMERICAN INSTITUTE OF ARCHITECTS WASHINGTON","Construction Services","Construction","Architectural services",64.7482014388489,35.2517985611511,"#000047AF","#000047AF",6950
+"2614054","ASSOCIATED BUILDERS & CONTRACTORS OF WESTERN WASHINGTON","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",12900
+"2614600","SENATE REPUBLICAN CAMPAIGN CMTE OF WASHINGTON","Party Committees","Party","Republican Party committees",0,97.3374750388285,"#FF0000AF","#F50000AF",450700
+"2614769","PATRICK DUNN & ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",650
+"2615644","WASHINGTON SELF-INSURERS ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",5200
+"26191583","WIN WITH WOMEN","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",5900
+"26191933","PUGET SOUND LEADERSHIP PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",81.8181818181818,0,"#00009EAF","#0000FFAF",5500
+"2621199","WASHINGTON ASPHALT PAVEMENT ASSOCIATION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",500
+"26260744","WINZLER INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"26271473","CITIZENS ALLIANCE FOR A LEGISLATIVE MAJORITY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"2627367","HUNTERS HERITAGE COUNCIL","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",3900
+"2627484","TPM","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"26275096","PRESTIGE CARE INC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",1250
+"2627572","WASHINGTON DENTURISTS ASSOCIATION","Health Professionals","Health","Dentists",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",2100
+"26277726","WASHINGTON STATE PODIATRIC MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"26280229","GANO & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",18.8679245283019,81.1320754716981,"#A30000AF","#A30000AF",2650
+"2628126","WASHINGTON TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",3.07692307692308,93.8461538461538,"#F00000AF","#E00000AF",32500
+"2628857","BECU","Credit Unions","Finance, Insurance & Real Estate","Credit unions",31.8681318681319,68.1318681318681,"#610000AF","#610000AF",9100
+"2630185","PORT GAMBLE SKLALLAM TRIBE","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",73.75,26.25,"#000075AF","#000075AF",4000
+"2630517","LABORERS LOCAL 252","General Trade Unions","Labor","Construction unions",40,0,"#330000AF","#0000FFAF",2500
+"2630548","WASHINGTON STATE SCHOOL RETIREES","Public Sector Unions","Labor","State & local government employee unions",37.5,50,"#420000AF","#000000AF",8000
+"2630637","PLUMBERS & PIPEFITTERS LOCAL 26","General Trade Unions","Labor","Construction unions",70.3703703703704,0,"#000066AF","#0000FFAF",6750
+"2631228","WASHINGTON STATE FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",70.5882352941177,0,"#000066AF","#0000FFAF",6800
+"2632040","EMERALD SERVICES INC - ESI MANAGEMENT","Miscellaneous Services","General Business","Services",0,100,"#FF0000AF","#FF0000AF",1200
+"2632045","SNOWMOBILE WASHINGTON PAC","Miscellaneous Transport","Transportation","Motorcycles, snowmobiles & other motorized vehicles",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",850
+"2632068","AGRA BEEF CO","Livestock","Agriculture","Livestock",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"2632238","WASHINGTON ASSOCIATION OF WINE GRAPE GROWERS","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",20,80,"#990000AF","#9E0000AF",2500
+"2632267","THE ROWLAND CO","Retail Sales","General Business","Apparel & accessory stores",10,90,"#CC0000AF","#D10000AF",1500
+"2632808","WASHINGTON OSTEOPATHIC PHYSICIANS & SURGEONS","Health Professionals","Health","Other physician specialists",25,75,"#800000AF","#800000AF",1000
+"2633641","WASHINGTON ASSOCIATION OF NATUROPATHIC PHYSICIANS","Health Professionals","Health","Other non-physician health practitioners",27.027027027027,72.972972972973,"#750000AF","#750000AF",3700
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",5000
+"2639537","FISH","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",1000
+"2639547","PACIFIC INTERNATIONAL TERMINALS","Miscellaneous Business","General Business","Warehousing",11.3636363636364,88.6363636363636,"#C70000AF","#C70000AF",8800
+"2639581","SEATTLE SHELLFISH","Fisheries & Wildlife","Energy & Natural Resources","Fisheries & wildlife",40,60,"#330000AF","#330000AF",2500
+"2643598","DEREK C KILMER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",79.1961589862892,0,"#000094AF","#0000FFAF",5050.75
+"2644036","PACIFIC NORTHWEST PROJECT","Business Services","General Business","Management consultants & services",0,100,"#FF0000AF","#FF0000AF",900
+"2645010","WASHINGTON STATE BAIL AGENTS ASSOCIATION","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",37.5,62.5,"#420000AF","#420000AF",2000
+"2646331","WASHINGTON OCCUPATIONAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",80,20,"#000099AF","#000099AF",750
+"2646376","BELLEVUE FIRE FIGHTERS LOCAL 1604","Public Sector Unions","Labor","Police & fire fighters unions and associations",75,0,"#00007FAF","#0000FFAF",4000
+"2646498","CPM DEVELOPMENT CORP","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",500
+"2648464","WASHINGTON PHYSICAL THERAPY","Health Professionals","Health","Other non-physician health practitioners",30.6666666666667,69.3333333333333,"#660000AF","#660000AF",11250
+"26494423","LUMMI INDIAN BUSINESS COUNCIL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2050
+"2649484","ASSOCIATION OF WASHINGTON BUSINESS","Business Associations","General Business","Pro-business organizations",17.3913043478261,82.6086956521739,"#A80000AF","#A80000AF",11500
+"2650693","WASHINGTON CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",66.6666666666667,0,"#000052AF","#0000FFAF",1050
+"2652922","OPERATING ENGINEERS LOCAL 609","General Trade Unions","Labor","Construction unions",66.6666666666667,0,"#000052AF","#0000FFAF",600
+"2654061","R L WICKMAN INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"2660","TULALIP TRIBES OF WASHINGTON","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",56.6883516301869,35.3645569258107,"#00001FAF","#000047AF",12583.22
+"2666688","MELANIE STEWART & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",200
+"2667224","JACKSON LEGACY FUND","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",4900
+"2671379","WASHINGTON WINE INSTITUTE","Uncoded","Uncoded","Uncoded",49.2063492063492,50.7936507936508,"#050000AF","#050000AF",1575
+"2672250","RL WICKMAN INC","Employer Listed/Category Unknown","Uncoded","Employer listed but category unknown",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",450
+"2673774","SOUTHWEST WASHINGTON CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",35.7142857142857,0,"#4D0000AF","#0000FFAF",2100
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",31.5789473684211,68.4210526315789,"#610000AF","#610000AF",9500
+"2679618","FUSE WASHINGTON","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",86.5936766841694,0,"#0000B8AF","#0000FFAF",4475.5
+"2686532","GANO & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",395
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",44.1176470588235,55.8823529411765,"#1F0000AF","#1F0000AF",3400
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",9.67741935483871,90.3225806451613,"#D10000AF","#D10000AF",29450
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",8.58676207513417,91.4132379248658,"#D60000AF","#D60000AF",27950
+"2731348","KIRKLAND FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",33.3333333333333,0,"#570000AF","#0000FFAF",750
+"2731695","WASHINGTON TECHNOLOGY INDUSTRY ASSOCIATION","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",11.6279069767442,88.3720930232558,"#C70000AF","#C70000AF",6450
+"2741160","FYI","Uncoded","Uncoded","Uncoded",28.5714285714286,57.1428571428571,"#700000AF","#290000AF",3500
+"274898","UNITEDHEALTH GROUP","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",3400
+"2753423","EASTSIDE PROFESSIONAL FIRE FIGHTERS LOCAL 2878","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1200
+"2757451","WASHINGTON BEEF LLC","Food Processing & Sales","Agriculture","Meat processing & products",0,100,"#FF0000AF","#FF0000AF",750
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",6.36942675159236,93.6305732484076,"#E00000AF","#E00000AF",7850
+"2774","WALGREEN CO","Retail Sales","General Business","Drug stores",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",14000
+"27855252","LEADERSHIP COUNCIL","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,88.2352941176471,"#FF0000AF","#C70000AF",17000
+"27894965","INDEPENDENCE DAY LEADERSHIP PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",75,0,"#00007FAF","#0000FFAF",4000
+"27894973","ISLAND PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",80,0,"#000099AF","#0000FFAF",10000
+"27895049","WASHINGTON CANNABUSINESS ASSOCIATION","Business Associations","General Business","Small business organizations",49.8327759197324,50.1672240802676,"#050000AF","#050000AF",14950
+"279084","MEDNAX SERVICES","Health Professionals","Health","Physicians",37.5,62.5,"#420000AF","#420000AF",16000
+"27933416","RENTAL HOUSING ASSOCIATION","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",2800
+"27933715","MILLER MALONE & TELLEFSON PS INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",750
+"27936144","WASHINGTON SOCIETY OF CPA'S","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1900
+"27939777","MELANIE STEWART & ASSOCIATES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",350
+"27947929","JENNIFER ZIEGLER PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1300
+"27948002","TRANSALTA USA INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3800
+"27948085","MURRAY PACIFIC MANAGEMENT INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3150
+"27948228","WASHINGTON ASPHALT PAVEMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"27950960","CONSUMER FIREWORKS SAFETY ASSOCIATION","Uncoded","Uncoded","Uncoded",13.5135135135135,81.0810810810811,"#BD0000AF","#A30000AF",3700
+"27952811","NORTHWEST GROCERY ASSOC WASHINGTON PAC","Uncoded","Uncoded","Uncoded",20,80,"#990000AF","#9E0000AF",2500
+"281","AVISTA CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",25.5216693418941,74.4783306581059,"#800000AF","#800000AF",31150
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",6500
+"2824649","MARINE FLOATS CORP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"2825283","CONCRETE TECHNOLOGY CORPORATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",12.5,87.5,"#C20000AF","#C20000AF",800
+"2832577","ELECTRICAL WORKERS LOCAL 483","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",700
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",8700
+"29073528","BROADBAND COMMUNICATIONS ASSOCIATION OF WASHINGTON","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",3000
+"29075429","WAYPOINT CONSULTING GROUP LLC","Uncoded","Uncoded","Uncoded",68,32,"#00005CAF","#00005CAF",625
+"29077356","NATURAL GAS 000102","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"2912","YAHOO! INC","Computer Equipment & Services","Communications & Electronics","Online computer services",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",4400
+"2920404","BOSS PUBLIC AFFAIRS CONSULTING LLC","Business Services","General Business","Advertising & public relations services",0,100,"#FF0000AF","#FF0000AF",750
+"2922718","ARBAUGH & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",700
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",4250
+"2939564","WASHINGTON CONSUMER FINANCE & EDUCATION CMTE","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",0,100,"#FF0000AF","#FF0000AF",2950
+"2944490","MH","Uncoded","Uncoded","Uncoded",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",600
+"2944953","LONGSHOREMENS LOCAL 4","Transportation Unions","Labor","Merchant marine & longshoremen unions",50,0,"#000000AF","#0000FFAF",1000
+"2946753","WOODS ELECTRIC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"2966559","MCDONALDS WASHINGTON STATE","Food & Beverage","General Business","Restaurants & drinking establishments",35,65,"#4D0000AF","#4D0000AF",10000
+"2972805","CHELSEA FARMS","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",50,50,"#000000AF","#000000AF",1000
+"3100","AMERICAN PROMOTIONAL EVENTS","Chemical & Related Manufacturing","General Business","Explosives",0,100,"#FF0000AF","#FF0000AF",750
+"3102769","MARIA CANTWELL SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2000
+"3139605","NORTHWEST MARINE TRADE ASSOCIATION","Uncoded","Uncoded","Uncoded",8.41400533030489,91.5859946696951,"#D60000AF","#D60000AF",1091.87
+"3194","WASHINGTON STATE AUTO DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",39.5787139689579,60.4212860310421,"#380000AF","#380000AF",45100
+"3238624","IRON MOUNTAIN QUARRY LLC","Mining","Energy & Natural Resources","Non-metallic mining",0,100,"#FF0000AF","#FF0000AF",2000
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",4.53514739229025,95.4648526077097,"#EB0000AF","#EB0000AF",22050
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",15,85,"#B30000AF","#B30000AF",8000
+"3266","BUILDING INDUSTRY ASSOCIATION OF WASHINGTON","General Contractors","Construction","Builders associations",7.20720720720721,92.7927927927928,"#DB0000AF","#DB0000AF",27750
+"32867615","EBAY INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1950
+"3295132","ALPINE VISION CLINIC","Health Professionals","Health","Optometrists & ophthalmologists",0,100,"#FF0000AF","#FF0000AF",300
+"3332535","PHILLIPS 66","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",9800
+"3352165","CNS INC","Computer Equipment & Services","Communications & Electronics","Computer manufacture & services",0,100,"#FF0000AF","#FF0000AF",1500
+"3397","CHILDRENS CAMPAIGN FUND","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"3406","CONTINENTAL CASUALTY DBA CNA INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",5450
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",50,50,"#000000AF","#000000AF",1000
+"3435","CONFEDERATED TRIBES OF THE COLVILLE RESERVATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",49.3506493506493,24.6753246753247,"#050000AF","#00007FAF",3850
+"3474","WASHINGTON STATE DENTAL ASSOCIATION","Health Professionals","Health","Dentists",38.0382775119617,61.9617224880383,"#3D0000AF","#3D0000AF",41800
+"35967254","SAMISH TYEE","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"3603802","BASIN DISPOSAL INC","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",1100
+"3605768","PAWN 1","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",47.6868327402135,52.3131672597865,"#0F0000AF","#0F0000AF",7025
+"3616668","SPOKANE POLICE GUILD","Public Sector Unions","Labor","Police & fire fighters unions and associations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"3627","FEDERAL EXPRESS","Air Transport","Transportation","Express delivery services",13.9130434782609,86.0869565217391,"#BD0000AF","#BD0000AF",11500
+"3705455","ELECTRICAL WORKERS UNIDENTIFIED","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1946.46
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.8405797101449,81.1594202898551,"#A30000AF","#A30000AF",10350
+"3797","GEORGIA-PACIFIC","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",6500
+"37999108","AMGEN","Pharmaceuticals & Health Products","Health","Biotech products & research",26.0377358490566,73.9622641509434,"#7A0000AF","#7A0000AF",13250
+"38254636","SEIU HEALTHCARE 1199NW","General Trade Unions","Labor","Health worker unions",91.6142557651992,0,"#0000D1AF","#0000FFAF",23850
+"3838836","PARKLAND AUTO LICENSING INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"3841775","HAMPTON AFFILIATES","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",7000
+"385","BOEING CO","Air Transport","Transportation","Aircraft manufacturers",32.367758186398,67.632241813602,"#5C0000AF","#5C0000AF",39700
+"38559814","WAYPOINT CONSULTING GROUP","Uncoded","Uncoded","Uncoded",61.5384615384615,0,"#000038AF","#0000FFAF",650
+"3868","INTUIT INC","Computer Equipment & Services","Communications & Electronics","Computer software",50,50,"#000000AF","#000000AF",600
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2850
+"39497831","ALCOA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",750
+"40336679","RETIRED FIREFIGHTERS OF WASHINGTON","Uncoded","Uncoded","Uncoded",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",1700
+"40337955","LAKESIDE INDUSTRIES INC","Uncoded","Uncoded","Uncoded",51.2820512820513,48.7179487179487,"#000005AF","#000005AF",1950
+"40338962","TESORO COMPANIES INC","Uncoded","Uncoded","Uncoded",5.49450549450549,94.5054945054945,"#E60000AF","#E60000AF",4550
+"40339060","WASHINGTON MULTI FAM H ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4950
+"40614450","CALM","Uncoded","Uncoded","Uncoded",0,66.6666666666667,"#FF0000AF","#570000AF",6000
+"40619622","UNITED SUBCONTRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",7.04225352112676,92.9577464788732,"#DB0000AF","#DB0000AF",7100
+"40619624","HEALTH INSURANCE AGENTS","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",4000
+"40619686","SAVPAC-WA FINANCIAL LEAGUE","Uncoded","Uncoded","Uncoded",18.75,81.25,"#A30000AF","#A30000AF",3200
+"40619693","SAVPAC-WA FINANCIAL LEAGUE STATE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",800
+"4116","MUCKLESHOOT INDIAN TRIBE","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",41.9831223628692,58.0168776371308,"#2E0000AF","#2E0000AF",23700
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",2900
+"4139","NISQUALLY INDIAN TRIBE","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",59.4059405940594,40.5940594059406,"#00002EAF","#00002EAF",10100
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",14.0845070422535,85.9154929577465,"#B80000AF","#B80000AF",14200
+"424153","INVENERGY LLC","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",1300
+"4265","PHRMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",18.2235834609495,81.7764165390505,"#A30000AF","#A30000AF",32650
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",30.4709141274238,69.5290858725762,"#660000AF","#660000AF",36100
+"43666127","INLANDBOATMEN'S UNION PSR DEFENSE COMMITTEE","Uncoded","Uncoded","Uncoded",21.0526315789474,0,"#940000AF","#0000FFAF",950
+"4366703","NW MARINE TRADE ASSOCIATION","Sea Transport","Transportation","Sea transport",25.6756756756757,74.3243243243243,"#800000AF","#800000AF",7400
+"43687009","RETIRED PUBLIC EMPLOYEES COUNCIL","Uncoded","Uncoded","Uncoded",80,0,"#000099AF","#0000FFAF",5000
+"43687042","RETIRED FIREFIGHTERS WA","Uncoded","Uncoded","Uncoded",86.9565217391304,13.0434782608696,"#0000B8AF","#0000B8AF",1150
+"43687088","OUTCOMES BY LEVY LLC","Uncoded","Uncoded","Uncoded",59.1549295774648,40.8450704225352,"#00002EAF","#00002EAF",1775
+"43687091","WA SCHOOL PRINCIPALS LEGISLATIVE EFFECTIVENESS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"43687172","WERC SHOP","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"43687181","FRIENDS OF WSU","Uncoded","Uncoded","Uncoded",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",13650
+"43687209","NASH CASCADIA VERDE LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4700
+"4376772","PLUMBERS & STEAMFITTERS LOCAL 598","General Trade Unions","Labor","Construction unions",0,50,"#FF0000AF","#000000AF",4000
+"4467852","SABEY CORPORATION","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",12.8913443830571,87.1086556169429,"#C20000AF","#C20000AF",27150
+"4468","WASHINGTON RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",20.2270651181,79.7729348819,"#990000AF","#990000AF",38315
+"4480284","SUNOVION","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1300
+"4486","SAMISH INDIAN NATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",60,20,"#000033AF","#000099AF",5000
+"459","CALPORTLAND CO","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",5200
+"4593436","RETAIL SERVICES & SYSTEMS","Beer, Wine & Liquor","General Business","Liquor wholesalers",25,75,"#800000AF","#800000AF",4000
+"4604","SQUAXIN ISLAND TRIBE","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",52.3809523809524,35.7142857142857,"#00000AAF","#000047AF",2100
+"4628","SWINOMISH TRIBAL COMMUNITY","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",53.2934131736527,46.7065868263473,"#00000FAF","#00000FAF",16700
+"4755","WASHINGTON ORGANIZATION OF VOCATIONAL EDUCATORS","Education","Government Agencies/Education/Other","Technical, business & vocational schools and services",63.0434782608696,4.34782608695652,"#000042AF","#0000E5AF",4600
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",49.5726495726496,50.4273504273504,"#050000AF","#050000AF",11700
+"4761","WEYERHAEUSER CO","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",22.4919093851133,77.5080906148867,"#8F0000AF","#8F0000AF",30900
+"4777","YOUNGS MARKET CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",54.9060542797495,45.0939457202505,"#000014AF","#000014AF",23950
+"489","CARDINAL HEALTH","Health Services","Health","Health care services",9.34579439252336,90.6542056074766,"#D10000AF","#D10000AF",5350
+"4955","WASHINGTON STATE REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,92.1541445369733,"#FF0000AF","#DB0000AF",387704.95
+"4956","WASHINGTON STATE DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",83.4375707053442,0,"#0000A8AF","#0000FFAF",427389.9
+"49586","ART INSTITUTES INTERNATIONAL","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",1000
+"5022","BOEING EMPLOYEES CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",51.7241379310345,48.2758620689655,"#000005AF","#000005AF",1450
+"5031308","CASCADE NATURAL GAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",4.97512437810945,95.0248756218905,"#EB0000AF","#EB0000AF",10050
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",46.5671641791045,53.4328358208955,"#140000AF","#140000AF",8375
+"5222","IQ CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",2250
+"528","CENTENE CORP","Health Services","Health","HMOs",42.1052631578947,57.8947368421053,"#290000AF","#290000AF",19000
+"53210","EXPEDIA","Computer Equipment & Services","Communications & Electronics","Online computer services",12.9568106312292,87.0431893687708,"#C20000AF","#C20000AF",15050
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",56.6192249033999,43.3807750966001,"#00001FAF","#00001FAF",19428.03
+"5453","SPOKANE TEACHERS CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"5487108","NACDS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1250
+"5512","WASHINGTON CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",0,100,"#FF0000AF","#FF0000AF",3900
+"557","CHARTER COMMNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",12.6582278481013,87.3417721518987,"#C20000AF","#C20000AF",7900
+"5605","7-ELEVEN","Oil & Gas","Energy & Natural Resources","Gasoline service stations",3.18471337579618,96.8152866242038,"#F00000AF","#F00000AF",15700
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",7.66283524904215,92.3371647509579,"#DB0000AF","#DB0000AF",26100
+"5840","ARKANSAS STATE DENTAL ASSOCIATION","Health Professionals","Health","Dentists",42.2721268163804,57.7278731836196,"#290000AF","#290000AF",37850
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",8.69565217391304,91.304347826087,"#D60000AF","#D60000AF",5750
+"6075","BROADBAND COMMUNICATIONS ASSOCIATION OF WASHINGTON","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",4000
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",17.0212765957447,82.9787234042553,"#A80000AF","#A80000AF",11750
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",60.4166666666667,0,"#000033AF","#0000FFAF",2400
+"6898","GEICO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",6000
+"6994","GUN OWNERS ACTION LEAGUE OF WASHINGTON","Gun Control","Ideology/Single Issue","Anti-gun control",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",4400
+"7006","HAMPTON LUMBER SALES","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",50,50,"#000000AF","#000000AF",2000
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",11000
+"7334","K12 INC","Education","Government Agencies/Education/Other","Education",25.6410256410256,74.3589743589744,"#800000AF","#800000AF",3900
+"7340","KALISPEL TRIBE OF INDIANS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",44.3181818181818,55.6818181818182,"#1F0000AF","#1F0000AF",4400
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",18.018018018018,81.981981981982,"#A30000AF","#A30000AF",16650
+"7433","KING COUNTY REPUBLICAN CENTRAL CMTE OF WASHINGTON","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",90500
+"75","ALASKA AIRLINES","Air Transport","Transportation","Airlines",7.78210116731517,92.2178988326848,"#DB0000AF","#DB0000AF",12850
+"761","DAVITA INC","Hospitals & Nursing Homes","Health","Health care institutions",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2400
+"780","DEMOCRACY FOR AMERICA","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",83.7613832703275,0,"#0000A8AF","#0000FFAF",3079.08
+"7961910","PLUMBERS & STEAMFITTERS LOCAL 44","General Trade Unions","Labor","Construction unions",50,0,"#000000AF","#0000FFAF",2000
+"8255","NORTHWEST NATURAL GAS CO","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",35.5029585798817,64.4970414201183,"#4D0000AF","#4D0000AF",8450
+"8328","OPTOMETRIC PHYSICIANS OF WASHINGTON","Health Professionals","Health","Optometrists & ophthalmologists",38.2905982905983,61.7094017094017,"#3D0000AF","#3D0000AF",29250
+"8331868","SMART","General Trade Unions","Labor","Other unions",40.2777777777778,47.2222222222222,"#330000AF","#00000AAF",3600
+"8368","PACIFICORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",0,100,"#FF0000AF","#FF0000AF",11950
+"8407","PEMCO MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",43.7609841827768,56.2390158172232,"#240000AF","#240000AF",28450
+"8470","PHYSICIANS INSURANCE A MUTUAL CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",4000
+"8552","PORT BLAKELY TREE FARMS","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",9.25925925925926,90.7407407407407,"#D10000AF","#D10000AF",16200
+"8569","K&L GATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",35.7723577235772,60.1626016260163,"#4D0000AF","#380000AF",6150
+"8603","PUBLIC SCHOOL EMPLOYEES OF WASHINGTON LOCAL 1948","Public Sector Unions","Labor","State & local government employee unions",38.4615384615385,51.2820512820513,"#3D0000AF","#0A0000AF",19500
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",25,75,"#800000AF","#800000AF",2000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",32.5490196078431,67.4509803921569,"#5C0000AF","#5C0000AF",12750
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",3000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",28.7946428571429,71.2053571428571,"#700000AF","#700000AF",22400
+"915","ENTERTAINMENT SOFTWARE ASSOCIATION","Computer Equipment & Services","Communications & Electronics","Computer software",30.3030303030303,69.6969696969697,"#660000AF","#660000AF",11550
+"9181","TESORO CORP","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",10400
+"9414","WASHINGTON ASSOCIATON OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",22.2437137330754,77.7562862669246,"#8F0000AF","#8F0000AF",25850
+"9415","WASHINGTON BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",37.956204379562,62.043795620438,"#420000AF","#420000AF",27400
+"9416","WASHINGTON BEER & WINE DISTRIBUTORS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",39.4422310756972,60.5577689243028,"#380000AF","#380000AF",37650
+"9417","WASHINGTON CHIROPRACTIC TRUST","Health Professionals","Health","Chiropractors",44.3181818181818,55.6818181818182,"#1F0000AF","#1F0000AF",17600
+"9423","WASHINGTON FOREST PROTECTION ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",21.3963963963964,78.6036036036036,"#940000AF","#940000AF",22200
+"9426","WASHINGTON PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",24.5762711864407,58.4745762711864,"#850000AF","#2E0000AF",5900
+"9427","WASHINGTON REFUSE & RECYCLING ASSOCIATION","Waste Management","Energy & Natural Resources","Waste management",47.0899470899471,52.9100529100529,"#0F0000AF","#0F0000AF",28350
+"9428","WASHINGTON FINANCIAL LEAGUE","Savings & Loans","Finance, Insurance & Real Estate","Savings banks & savings and loans",0,100,"#FF0000AF","#FF0000AF",800
+"9429","ASSOCIATION OF WASHINGTON SCHOOL PRINCIPALS","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",17.0212765957447,82.9787234042553,"#A80000AF","#A80000AF",11750
+"9432","WASHINGTON COUNCIL OF POLICE & SHERIFFS","Public Sector Unions","Labor","Police & fire fighters unions and associations",52.5606469002695,47.4393530997305,"#00000AAF","#00000AAF",18550
+"9433","WASHINGTON STATE FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",0,100,"#FF0000AF","#FF0000AF",5600
+"9435","WASHINGTON STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",39.3996247654784,60.6003752345216,"#380000AF","#380000AF",26650
+"9436","WASHINGTON STATE PATROL TROOPERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",30,70,"#660000AF","#660000AF",15000
+"9439","WASTE CONNECTIONS","Waste Management","Energy & Natural Resources","Waste management",10.3806228373702,89.6193771626298,"#CC0000AF","#CC0000AF",7225
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",4.01606425702811,95.9839357429719,"#EB0000AF","#EB0000AF",12450
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",10500
+"9838","AEROSPACE FUTURE ALLIANCE OF WASHINGTON","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",1100
+"9904","ALLERGAN","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"9954894","MERCK SHARP & DOHM CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25.5411255411255,74.4588744588745,"#800000AF","#800000AF",11550
+"9985","AMERICAN WIND ENERGY ASSOCIATION","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",50,0,"#000000AF","#0000FFAF",1000

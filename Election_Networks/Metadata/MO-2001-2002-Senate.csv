@@ -1,0 +1,512 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10041","ANTHEM INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",1825
+"101","AMALGAMATED TRANSIT UNION UNIDENTIFIED","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",1050
+"10245740","MISSOURI FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",3025
+"1025","FORD MOTOR CO","Automotive","Transportation","Auto manufacturers",25,75,"#800000AF","#800000AF",4500
+"10408","BJC HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Health care institutions",83.0357142857143,16.9642857142857,"#0000A8AF","#0000A8AF",2800
+"1041","FRED WEBER INC","General Contractors","Construction","Public works, industrial & commercial construction",0,100,"#FF0000AF","#FF0000AF",1150
+"10435","BLUE CROSS BLUE SHEILD","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",14.8514851485149,85.1485148514851,"#B80000AF","#B80000AF",20200
+"1075727","METAL CONTAINER CORP","Miscellaneous Manufacturing & Distributing","General Business","Metal cans & containers",60.7142857142857,39.2857142857143,"#000033AF","#000033AF",1400
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",19.8581560283688,80.1418439716312,"#9E0000AF","#9E0000AF",7050
+"11265","COMMERCE BANCSHARES","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",60,40,"#000033AF","#000033AF",1375
+"11300","COMPREHENSIVE HEALTH SYSTEMS","Health Services","Health","Mental health services",50,50,"#000000AF","#000000AF",1150
+"115","AMERICAN CENTURY CO","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",28.2258064516129,71.7741935483871,"#700000AF","#700000AF",3100
+"1167871","METAL CULVERTS INC","Building Materials & Equipment","Construction","Plumbing & pipe products",46.5116279069767,53.4883720930233,"#140000AF","#140000AF",1075
+"11724","SSM HEALTH CARE","Hospitals & Nursing Homes","Health","Hospitals",32.3383084577114,67.6616915422886,"#5C0000AF","#5C0000AF",5025
+"1194","HARRAHS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",6325
+"12289604","HOME BUILDERS ASSOCIATION OF MISSOURI","Home Builders","Construction","Residential construction",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",5250
+"12382","GAS WORKERS LOCAL 5-6","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2250
+"1256","HOLCIM US","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"12582","GREATER KANSAS CITY BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2200
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1100
+"1277","HUMANA","Health Services","Health","HMOs",18.018018018018,81.981981981982,"#A30000AF","#A30000AF",5550
+"12984","HTH COMPANIES","Special Trade Contractors","Construction","Special trade contractors",0,100,"#FF0000AF","#FF0000AF",4525
+"132","AMERICAN FAMILY LIFE ASSURANCE CO / AFLAC","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",17.3913043478261,82.6086956521739,"#A80000AF","#A80000AF",13225
+"1355","ISLE OF CAPRI CASINOS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",30.0380228136882,69.9619771863118,"#660000AF","#660000AF",6575
+"14026605","MLPA LEGISLATIVE FUND","Uncoded","Uncoded","Uncoded",30.952380952381,69.0476190476191,"#660000AF","#660000AF",2100
+"14028804","MAPAC MO ASSOCIATION OF INSURANCE AGENTS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1075
+"14250","MISSOURI AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",45.3389830508475,54.6610169491525,"#1A0000AF","#1A0000AF",17700
+"14259","MISSOURI OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"14260","MISSOURI ORGANIZATION OF DEFENSE LAWYERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3750
+"14262","MISSOURI PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",3650
+"14265","MISSOURI PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",21.8181818181818,78.1818181818182,"#940000AF","#940000AF",1375
+"14270","MISSOURI RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",2100
+"14272","MISSOURI SOYBEAN ASSOCIATION","Crop Production & Basic Processing","Agriculture","Wheat, corn, soybeans & cash grain",14.1176470588235,85.8823529411765,"#B80000AF","#B80000AF",2125
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",21.875,78.125,"#940000AF","#940000AF",1600
+"14614","NORTH COUNTY LABOR LEGISLATIVE CLUB","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1000
+"1490","LAMAR CORPORATION","Business Services","General Business","Outdoor advertising services",0,100,"#FF0000AF","#FF0000AF",1400
+"14991","PENMAN & WINTON CONSULTING GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50.5494505494505,49.4505494505495,"#000000AF","#000000AF",2275
+"1505","LATHROP & GAGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",500
+"1522","LEGGETT & PLATT","Miscellaneous Manufacturing & Distributing","General Business","Furniture & wood products",0,100,"#FF0000AF","#FF0000AF",10250
+"15662","RURAL TELECOMMUNICATIONS CMTE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",15.6479217603912,84.3520782396088,"#B30000AF","#B30000AF",10225
+"15954836","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 1 MISSOURI","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1750
+"15971","SITE IMPROVEMENT ASSOCIATION","General Contractors","Construction","Builders associations",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",3300
+"16129","ST LOUIS ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",90.1960784313726,9.80392156862745,"#0000CCAF","#0000CCAF",2550
+"1623103","CORRECTIONAL MEDICAL SERVICES","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",50,50,"#000000AF","#000000AF",400
+"16704","U GAS INC","Oil & Gas","Energy & Natural Resources","Gasoline service stations",37.037037037037,62.962962962963,"#420000AF","#420000AF",4050
+"16712085","PLUMBING CONTRACTORS","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",75,25,"#00007FAF","#00007FAF",400
+"16868301","COMMERCE BANCSHARES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",950
+"16955","WALTON CONSTRUCTION","General Contractors","Construction","Construction, unclassified",65.7142857142857,34.2857142857143,"#00004DAF","#00004DAF",875
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",32.5490196078431,67.4509803921569,"#5C0000AF","#5C0000AF",6375
+"17072","WESTERN ANESTHESIOLOGY ASSOCIATES","Health Professionals","Health","Other physician specialists",23.5897435897436,76.4102564102564,"#8A0000AF","#8A0000AF",4875
+"17227","WORLD WIDE TECHNOLOGY","Computer Equipment & Services","Communications & Electronics","Computer manufacture & services",72.6829268292683,27.3170731707317,"#000070AF","#000070AF",2050
+"17304","GREATER KANSAS CITY CHAMBER OF COMMERCE","Business Associations","General Business","Chambers of commerce",20,80,"#990000AF","#9E0000AF",2875
+"17308","MISSOURI CHAMBER OF COMMERCE & INDUSTRY","Business Associations","General Business","Chambers of commerce",1.04166666666667,98.9583333333333,"#FA0000AF","#FA0000AF",4800
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",37.7777777777778,62.2222222222222,"#420000AF","#420000AF",4500
+"17615222","HORNER & SHIFRIN INC","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",200
+"1773","MISSOURI MORTGAGE BANKERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",23.5294117647059,76.4705882352941,"#8A0000AF","#8A0000AF",4250
+"1794461","SUNRISE ASSISTED LIVING MANAGEMENT","Hospitals & Nursing Homes","Health","Nursing homes",80.3921568627451,19.6078431372549,"#000099AF","#000099AF",1275
+"1835","NATIONAL ELECTRICAL CONTRACTORS ASSOCIATION / NECA","Special Trade Contractors","Construction","Electrical contractors",68.1818181818182,31.8181818181818,"#00005CAF","#00005CAF",2200
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",74.1935483870968,25.8064516129032,"#00007AAF","#00007AAF",775
+"18611","ASSOCIATED GENERAL CONTRACTORS KANSAS CITY CHAPTER","General Contractors","Construction","Builders associations",36.9158878504673,63.0841121495327,"#470000AF","#470000AF",10700
+"18848","PLANNED PARENTHOOD OF THE ST LOUIS REGION & SOUTHWEST MISSOURI","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",1850
+"18881","MISSOURI HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",16.7600896860987,83.2399103139013,"#AD0000AF","#AD0000AF",44600
+"1889","NHS MANAGEMENT LLC","Hospitals & Nursing Homes","Health","Nursing homes",25,75,"#800000AF","#800000AF",4000
+"19145","AFSCME MISSOURI KANSAS STATE COUNCIL 72","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1150
+"19300","COMMUNICATIONS WORKERS DISTRICT 6","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",4300
+"194","AMERICAN GENERAL CORPORATION","Pharmaceuticals & Health Products","Health","Biotech products & research",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"19401","IRONWORKERS LOCAL 392","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2850
+"19466","FIRE FIGHTERS LOCAL 42","Public Sector Unions","Labor","Police & fire fighters unions and associations",90,10,"#0000CCAF","#0000CCAF",5750
+"19491","MISSOURI STATE COUNCIL OF FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",75.6554307116105,24.3445692883895,"#00007FAF","#00007FAF",6675
+"19543","HEAT & FROST INSULATORS LOCAL 1","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1725
+"19581","BOILERMAKERS LOCAL 27","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1725
+"19600","ELECTRICAL WORKERS LOCAL 1","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",10425
+"19611","ELECTRICAL WORKERS LOCAL 124","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",5750
+"19638090","REINSURANCE ASSOCIATION OF AMERICA","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"19658","ELECTRICAL WORKERS LOCAL 257","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",400
+"19677","ELECTRICAL WORKERS LOCAL 53","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4850
+"19677724","WHOLESALE LUMBER & MATERIALS CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"19723","MISSOURI STATE CONFERENCE OF ELECTRICAL WORKERS","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4600
+"19751","TEAMSTERS JOINT COUNCIL 13","Transportation Unions","Labor","Teamsters unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1725
+"19770","TEAMSTERS LOCAL 245","Transportation Unions","Labor","Teamsters unions",77.7777777777778,22.2222222222222,"#00008AAF","#00008AAF",5175
+"19780","BUILDING MATERIALS EXCAVATING HEAVY HAULERS WAREHOUSEMEN HELPERS LOCAL 541","Transportation Unions","Labor","Teamsters unions",80.3571428571429,19.6428571428571,"#000099AF","#000099AF",4200
+"19784","TEAMSTERS LOCAL 600","Transportation Unions","Labor","Teamsters unions",85.2564102564102,14.7435897435897,"#0000B3AF","#0000B3AF",3900
+"19793","TEAMSTERS LOCAL 688","Transportation Unions","Labor","Teamsters unions",78.9954337899543,21.0045662100457,"#00008FAF","#00008FAF",5475
+"19862","GLAZIERS ARCHITECTURAL METAL & GLASSWORKERS LOCAL 513","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",200
+"19871","OPERATING ENGINEERS LOCAL 101","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",7425
+"19884","OPERATING ENGINEERS LOCAL 148","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2100
+"19892","OPERATING ENGINEERS LOCAL 2","General Trade Unions","Labor","Construction unions",83.6065573770492,16.3934426229508,"#0000A8AF","#0000A8AF",1525
+"19976","CONSTRUCTION & GENERAL LABORERS LOCAL 1290","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2275
+"19981","EASTERN MISSOURI LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",85.0649350649351,14.9350649350649,"#0000B3AF","#0000B3AF",3850
+"19987","HEAVY CONSTRUCTION LABORERS LOCAL 663","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3125
+"20010","LABORERS LOCAL 110","General Trade Unions","Labor","Construction unions",65.7142857142857,34.2857142857143,"#00004DAF","#00004DAF",875
+"20020","LABORERS LOCAL 142","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"20030","LABORERS LOCAL 42","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2025
+"20031","CONSTRUCTION & GENERAL LABORERS LOCAL 264","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3425
+"20044","LABORERS LOCAL 319","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"20061","LABORERS LOCAL 579","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2275
+"20066","LABORERS LOCAL 676","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2850
+"2007373","HOUSEHOLD","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",37.3770491803279,62.6229508196721,"#420000AF","#420000AF",7625
+"20118","WESTERN MISSOURI & KANSAS LABORERS DISTRICT COUNCIL","General Trade Unions","Labor","Construction unions",88.8349514563107,11.1650485436893,"#0000C2AF","#0000C2AF",5150
+"20151","MISSOURI AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",8400
+"20243","MISSOURI NATIONAL EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",12075
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",16.3636363636364,83.6363636363636,"#AD0000AF","#AD0000AF",5500
+"20389","SERVICE EMPLOYEES MISSOURI KANSAS STATE COUNCIL 29","Public Sector Unions","Labor","State & local government employee unions",84.5730027548209,15.4269972451791,"#0000ADAF","#0000ADAF",9075
+"204034","SHELTER INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1800
+"20424","SERVICE EMPLOYEES LOCAL 2000","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1425
+"20478","SHEET METAL WORKERS LOCAL 2","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1425
+"20487","SHEET METAL WORKERS LOCAL 36","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",9200
+"20617","PLUMBERS & GASFITTERS LOCAL 8","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5950
+"207","ANHEUSER BUSCH","Beer, Wine & Liquor","General Business","Beer",42.2569027611044,57.7430972388956,"#290000AF","#290000AF",20825
+"20718","MISSOURI STATE AUTO WORKERS COUNCIL","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",1725
+"20739","CARPENTERS DISTRICT COUNCIL OF GREATER ST LOUIS & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4475
+"20741","CARPENTERS & JOINERS DISTRICT COUNCIL OF GREATER KANSAS CITY & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5750
+"21110","SBC COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",43.5897435897436,56.4102564102564,"#240000AF","#240000AF",13221
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",2525
+"21189","CONSULTING ENGINEERS COUNCIL OF MISSOURI","Construction Services","Construction","Engineering, architecture & construction management services",13.953488372093,86.046511627907,"#BD0000AF","#BD0000AF",5375
+"21269174","HOISTING ENGINEERS LOCAL 513","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",8800
+"21270503","PASTA HOUSE CO","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1725
+"21329","MISSOURI FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",2.69577625775934,97.3042237422407,"#F50000AF","#F50000AF",5564.26
+"21506","HUSCH & EPPENBERGER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",82.1705426356589,17.8294573643411,"#0000A3AF","#0000A3AF",3225
+"21665","TEAMSTERS UNIDENTIFIED","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1150
+"21778362","QUIK TRIP CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"219","AQUILA","Computer Equipment & Services","Communications & Electronics","Data processing & computer services",0,100,"#FF0000AF","#FF0000AF",1150
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",32.520325203252,67.479674796748,"#5C0000AF","#5C0000AF",3075
+"2324","SCHNUCKS MARKETS","Food Processing & Sales","Agriculture","Food stores",44.5945945945946,55.4054054054054,"#1F0000AF","#1F0000AF",1850
+"23340024","QUIKTRIP CORPORATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",17.2932330827068,82.7067669172932,"#A80000AF","#A80000AF",3325
+"23388726","SEAWORLD PARKS & ENTERTAINMENT","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1725
+"2340903","PLUMBERS & PIPEFITTERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1125
+"2390","SILVER DOLLAR CITY","Recreation & Live Entertainment","General Business","Amusement parks",0,100,"#FF0000AF","#FF0000AF",2925
+"2410","SMURFIT-STONE CONTAINER CORP","Forestry & Forest Products","Agriculture","Paper & pulp mills and paper manufacturing",0,100,"#FF0000AF","#FF0000AF",1150
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",20.2443280977312,79.7556719022688,"#990000AF","#990000AF",14325
+"247","ASHLAND INC","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",61.9565217391304,38.0434782608696,"#000038AF","#000038AF",2300
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",21.9047619047619,78.0952380952381,"#940000AF","#940000AF",7875
+"2572","TENET HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",28.125,71.875,"#700000AF","#700000AF",2400
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",39.0804597701149,60.9195402298851,"#380000AF","#380000AF",8700
+"26137825","ASSOCIATED GENERAL CONTRACTORS OF ST LOUIS","General Contractors","Construction","Builders associations",52,48,"#00000AAF","#00000AAF",10000
+"26138277","JOHNSTON & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"2670","TYSON FOODS","Food Processing & Sales","Agriculture","Meat processing & products",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",1300
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",8.95522388059701,91.044776119403,"#D60000AF","#D60000AF",3350
+"26826647","QUICKTRIP CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"26836727","MHA","Uncoded","Uncoded","Uncoded",30.3030303030303,69.6969696969697,"#660000AF","#660000AF",825
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",7040
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",14.9253731343284,85.0746268656716,"#B80000AF","#B80000AF",3350
+"2710","UPS","Air Transport","Transportation","Express delivery services",47.3684210526316,52.6315789473684,"#0F0000AF","#0F0000AF",950
+"2713","US BANCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",1100
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",4.74226804123711,95.2577319587629,"#EB0000AF","#EB0000AF",12125
+"27703760","QC FINANCIAL SERVICES INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",900
+"27705822","MISSOURI SCHOOL BOARDS ASSOCIATION","Uncoded","Uncoded","Uncoded",60,40,"#000033AF","#000033AF",1250
+"27710798","HUB INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"27712637","SEQUEL LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",625
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",22.4137931034483,77.5862068965517,"#8F0000AF","#8F0000AF",5800
+"27723926","DK GOVERNMENTAL SOLUTIONS LLC","Uncoded","Uncoded","Uncoded",32.3529411764706,67.6470588235294,"#5C0000AF","#5C0000AF",1700
+"2773519","FARMERS STATE BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",700
+"2800861","MACHINISTS & AEROSPACE WORKERS LOCAL LODGE 837","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",350
+"2801398","PLUMBERS & PIPEFITTERS LOCAL 562","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",12525
+"29207143","CASH AMERICA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",50
+"29264744","MISSOURI TIME SALES SERVICES INC","Uncoded","Uncoded","Uncoded",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",550
+"29264887","MBA STATE","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",7475
+"29264894","MISSOURI STATE UAW","Uncoded","Uncoded","Uncoded",93.5393258426966,6.46067415730337,"#0000DBAF","#0000DBAF",8900
+"29265722","MISSOURI CPA","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1150
+"29266285","MISSOURI TIME SALES SERVICE INC","Uncoded","Uncoded","Uncoded",22.4137931034483,77.5862068965517,"#8F0000AF","#8F0000AF",5800
+"29268686","MORESPAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2350
+"2929901","STEELWORKERS LOCAL 169","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",45.6140350877193,54.3859649122807,"#1A0000AF","#1A0000AF",5700
+"3080488","FAMOUS BARR CO","Retail Sales","General Business","Department, variety & convenience stores",30.9859154929577,69.0140845070423,"#660000AF","#660000AF",5325
+"3161230","IRONWORKERS DISTRICT COUNCIL OF ST LOUIS & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",650
+"3195","AVENTIS PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",16.8367346938775,83.1632653061224,"#AD0000AF","#AD0000AF",4900
+"3201217","FOREVER ENTERPRISES INC","Printing & Publishing","Communications & Electronics","Printing, publishing & allied industries",100,0,"#0000FFAF","#0000FFAF",825
+"3206165","NATIONAL PREARRANGED SERVICES INC","Uncoded","Uncoded","Uncoded",45.1612903225806,54.8387096774194,"#1A0000AF","#1A0000AF",3100
+"3207496","COMMUNITY CARE CENTER","Hospitals & Nursing Homes","Health","Health care institutions",0,100,"#FF0000AF","#FF0000AF",2250
+"32524452","MACHINIST DISTRICT 9","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",550
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",27.8787878787879,72.1212121212121,"#750000AF","#750000AF",4125
+"3324611","LABORERS LOCAL 660","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"3341237","GOODRICH QUALITY THEATERS","Movie Theaters","Communications & Electronics","Movie theaters",0,100,"#FF0000AF","#FF0000AF",1150
+"3377007","LABORERS UNIDENTIFIED","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",900
+"3403","CINGULAR WIRELESS","Telecom Services & Equipment","Communications & Electronics","Paging & cellular phones and services",0,100,"#FF0000AF","#FF0000AF",2200
+"3407","CNS CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",1075
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",0,100,"#FF0000AF","#FF0000AF",3000
+"3444682","STOLAR PARTNERSHIP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1500
+"3612","EMERSON ELECTRIC","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",17.2932330827068,82.7067669172932,"#A80000AF","#A80000AF",6650
+"362","BEVERLY ENTERPRISES","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1150
+"3684105","ROOFERS & WATERPROOFERS LOCAL 20 KANSAS CITY & LOCAL 2 ST LOUIS","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1300
+"3691277","CMTE TO ELECT RITA H DAYS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",600
+"3691304","VILLA FOR REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",900
+"3691318","JEREMIAH W (JAY) NIXON CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2875
+"3691367","GREENE COUNTY DEMOCRATIC CENTRAL CMTE OF MISSOURI","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",8850
+"3691851","FRANCIS G SLAY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",825
+"3691934","PLASTERERS & CEMENT MASONS LOCAL 518","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2600
+"3691936","SPRINKLER FITTERS LOCAL 314","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",700
+"3692002","ST LOUIS CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",450
+"3692070","RELIANT CARE MANAGEMENT","Hospitals & Nursing Homes","Health","Nursing homes",52.2727272727273,47.7272727272727,"#00000AAF","#00000AAF",1100
+"3692360","ELECT NODLER CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2875
+"3692636","THOMPSON COMMUNICATIONS","Business Services","General Business","Advertising & public relations services",0,100,"#FF0000AF","#FF0000AF",400.87
+"3692854","SUNSHINE REALTY CORP","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",0,100,"#FF0000AF","#FF0000AF",800
+"3692861","WHOLESALE SUPPLY CO","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",0,100,"#FF0000AF","#FF0000AF",650
+"3693706","PEOPLE FOR JOHN GRIESHEIMER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1525
+"3694522","WOOTEN, ROSALIE OREILLY","Retired","Government Agencies/Education/Other","Retired",0,100,"#FF0000AF","#FF0000AF",350
+"3694527","THREE JOHNS CO","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1150
+"3694668","SPRINKLER FITTERS LOCAL 268","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1025
+"3694804","WARRENTON OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",1000
+"3695729","ROSENBLUM SCHWARTZ ROGERS & GLASS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",450
+"3696629","MISSOURI COURT REPORTERS ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Courts & justice system",40.625,59.375,"#330000AF","#330000AF",1600
+"3697067","MISSOURI AMALGAMATED TRANSIT UNION","Transportation Unions","Labor","Transportation unions",62.8571428571429,37.1428571428571,"#00003DAF","#00003DAF",875
+"3697962","J SCOTT MARRS GOVERNMENTAL SERVICES GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",350
+"3698522","CUSTOM METALCRAFT","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",825
+"3698798","ROGER MOSER RENTALS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",300
+"3699554","MISSOURI ASSOCIATION OF REHABILITATION FACILITIES","Hospitals & Nursing Homes","Health","Nursing homes",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",1100
+"3699572","LPC INC","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",2750
+"3699601","MISSOURI ASSOCIATION OF HOMES FOR THE AGING","Hospitals & Nursing Homes","Health","Nursing homes",54.3307086614173,45.6692913385827,"#000014AF","#000014AF",3175
+"3699614","MCA","Miscellaneous Finance","Finance, Insurance & Real Estate","Credit reporting services & collection agencies",0,100,"#FF0000AF","#FF0000AF",900
+"3700088","AMERICAN INSTITUTE OF ARCHITECTS MISSOURI","Construction Services","Construction","Architectural services",87.5,12.5,"#0000BDAF","#0000BDAF",4000
+"3700130","WEST COUNTY REPUBLICAN ORGANIZATION","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1325
+"3700264","MISSOURI MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",13.0434782608696,86.9565217391304,"#BD0000AF","#BD0000AF",1150
+"3701134","FRIENDS OF DELBERT SCOTT","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1725
+"3701177","15TH REPUBLICAN SENATORIAL DISTRICT CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",17550
+"3701495","N B WEST CONTRACTING","General Contractors","Construction","Public works, industrial & commercial construction",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",300
+"3701645","JD STREETT & CO","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",1000
+"3702189","MISSOURI INDEPENDENT ACCOUNTANTS","Accountants","Finance, Insurance & Real Estate","Accountants",48.7179487179487,51.2820512820513,"#0A0000AF","#0A0000AF",2925
+"3702396","MISSOURI ASPHALT PAVEMENT ASSOCIATION","General Contractors","Construction","Public works, industrial & commercial construction",37.5,62.5,"#420000AF","#420000AF",4800
+"3702417","MISSOURI TIME SALES SERVICES","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1050
+"3703174","MISSOURI LAND & TITLE","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",23.3697396231008,76.6302603768992,"#8A0000AF","#8A0000AF",9036.9
+"3704051","MISSOURI NURSES ASSOCIATION","Health Professionals","Health","Nurses",50,50,"#000000AF","#000000AF",500
+"3704198","CARPENTERS & JOINERS LOCAL 978","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"3704273","EMPIRE BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",650
+"3704370","SANDY ROTHSCHILD & ASSOCIATES","Miscellaneous Finance","Finance, Insurance & Real Estate","Other financial services",100,0,"#0000FFAF","#0000FFAF",1575
+"3704681","JEFFERSON BANK OF MISSOURI","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",42.5925925925926,57.4074074074074,"#290000AF","#290000AF",1350
+"3704837","KANSAS CITY FEDERATION OF TEACHERS LOCAL 691","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",838
+"3705590","DOWNTOWN COUNCIL","Business Associations","General Business","Pro-business organizations",40,60,"#330000AF","#330000AF",2875
+"3705634","CITIZENS FOR RIDGEWAY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1725
+"3706439","MISSOURI BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",1650
+"3707667","FRIENDS OF SCOTT BURNETT","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",450
+"3708491","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 2","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",700
+"3708720","PLUMBERS & PIPEFITTERS LOCAL 178","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"3708898","ELECTRICAL WORKERS LOCAL 1439","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1075
+"3710137","MISSOURI CATTLEMANS ASSOCIATION","Livestock","Agriculture","Livestock",20,80,"#990000AF","#9E0000AF",1000
+"3710233","ELECTRICAL WORKERS LOCAL 545","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",2600
+"3711566","EQUAL RIGHTS AMENDMENT PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"3712488","NARAL PRO-CHOICE MISSOURI","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",1150
+"3719859","BRADFORD PARK BUILDING LLC","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",1150
+"3722296","BUILDING & CONSTRUCTION TRADES COUNCIL OF SPRINGFIELD MISSOURI & VICINITY","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1150
+"3726076","LETTER CARRIERS BRANCH 343","Public Sector Unions","Labor","US Postal Service unions & associations",100,0,"#0000FFAF","#0000FFAF",600
+"3726402","SHREWSBURY CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",250
+"3727851","DK GOVERNMENTAL SOLUTIONS","Business Services","General Business","Management consultants & services",47.0588235294118,52.9411764705882,"#0F0000AF","#0F0000AF",1700
+"3735739","LABORERS LOCAL 662","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",400
+"3736702","ASSOCIATED GENERAL CONTRACTORS OF MISSOURI","General Contractors","Construction","Builders associations",58.9830508474576,41.0169491525424,"#000029AF","#000029AF",7375
+"3738782","CENTRAL MISSOURI BLUE COLLAR WORKERS","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1150
+"3738836","MEL CARNAHAN DEMOCRATIC PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",700
+"3743748","HUNTE CORP","Retail Sales","General Business","Miscellaneous retail stores",0,100,"#FF0000AF","#FF0000AF",1150
+"3745429","DEMOCRATIC ALLIANCE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",1150
+"3754373","UNIVERSITY SQUARE CO","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",100,0,"#0000FFAF","#0000FFAF",1725
+"3754376","STONE & ALTER REAL ESTATE","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",100,0,"#0000FFAF","#0000FFAF",1725
+"3757424","ADVANCED COLORPRINT","Printing & Publishing","Communications & Electronics","Commercial printing & typesetting",100,0,"#0000FFAF","#0000FFAF",600
+"3757975","MISSOURI STATE LABOR UTILITY WORKERS CONFERENCE","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4025
+"3758708","STEELWORKERS LOCAL 662","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",200
+"37613004","EDISON SCHOOLS INC","Uncoded","Uncoded","Uncoded",27.4509803921569,72.5490196078431,"#750000AF","#750000AF",3825
+"3763720","MEDICAL TRANSPORTATION MANAGEMENT","Health Services","Health","Health care services",60.3603603603604,39.6396396396396,"#000033AF","#000033AF",2220
+"3765492","FREEDOM OF ROAD RIDERS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",300
+"3765756","MONTANA SMART TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",1125
+"3768477","MU","Education","Government Agencies/Education/Other","Schools & colleges",21.8487394957983,78.1512605042017,"#940000AF","#940000AF",2975
+"3770953","ANDY ARNOLD & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",48.936170212766,51.063829787234,"#0A0000AF","#0A0000AF",1175
+"3773529","KANSAS CITY LIFE INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",1900
+"3773671","OZARK ANESTHESIA ASSOCIATES","Health Professionals","Health","Other physician specialists",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1725
+"3777775","CITIZENS TO ELECT MIKE DAUS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",200
+"3778326","MISSOURI DAIRY ASSOCIATION","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",0,100,"#FF0000AF","#FF0000AF",500
+"3781717","CLEARVIEW ENTERPRISES OF THE MIDWEST","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",2300
+"3782687","AIM","Uncoded","Uncoded","Uncoded",10,90,"#CC0000AF","#D10000AF",2500
+"3783594","OMALLEY BEVERAGE INC","Uncoded","Uncoded","Uncoded",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",450
+"3786028","MISSOURI FEDERATION OF ANIMAL OWNERS","Animal Rights","Ideology/Single Issue","Animal rights",6.52173913043478,93.4782608695652,"#E00000AF","#E00000AF",2300
+"3787493","CAPITAL HEALTH MANAGEMENT","Health Services","Health","Health care services",33,67,"#570000AF","#5C0000AF",2500
+"3790839","SPRINGFIELD MISSOURI CENTRAL LABOR COUNCIL","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1000
+"3799116","MISSOURI NATIONAL ORG FOR WOMEN","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",1200
+"3802872","SOUTHEAST MISSOURI BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",300
+"3803","GOLDEN RULE FINANCIAL CORP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"3810456","ARCH ENERGY","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",1500
+"3812710","MISSOURI DENTAL HYGIENISTS ASSOCIATION","Health Professionals","Health","Dentists",50,50,"#000000AF","#000000AF",1600
+"3822476","ASSOCIATION OF WATER DISTRICTS","Water Utilities","Energy & Natural Resources","Water utilities",51.063829787234,48.936170212766,"#000005AF","#000005AF",1175
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",1650
+"3825519","DEVELOPMENT STRATEGIES INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",400
+"3826398","CMTE FOR COUNTY PROGRESS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2300
+"3826582","UMB FINANCIAL CORPORATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",450
+"3831856","MWSA","Beer, Wine & Liquor","General Business","Wine & distilled spirits manufacturing",77.2727272727273,22.7272727272727,"#00008AAF","#00008AAF",1100
+"3832432","MGA PAC","Food Processing & Sales","Agriculture","Food stores",0,100,"#FF0000AF","#FF0000AF",800
+"3833519","MLPGA INC","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",10.8108108108108,89.1891891891892,"#CC0000AF","#CC0000AF",925
+"3834499","LABORERS LOCAL 424","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1350
+"3834851","CMTE TO ELECT JOAN BARRY","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",300
+"3839758","CITIZENS FOR JENEE LOWE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2075
+"3841","HOUSEHOLD INTERNATIONAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",25.1572327044025,74.8427672955975,"#800000AF","#800000AF",7950
+"3842495","DELONGS INC","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",650
+"3845880","MAHER OIL CO","Oil & Gas","Energy & Natural Resources","Oil & gas",20,80,"#990000AF","#9E0000AF",1250
+"385","BOEING CO","Air Transport","Transportation","Aircraft manufacturers",59.0909090909091,40.9090909090909,"#00002EAF","#00002EAF",2200
+"3850815","MISSOURI EAGLE FORUM","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",2775
+"3852043","WISDOM IND SER INC","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1725
+"3852441","COLUMBIA PARK APARTMENTS LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2875
+"3852896","FIELD CONSTRUCTION INC","General Contractors","Construction","Construction, unclassified",0,100,"#FF0000AF","#FF0000AF",1150
+"3874530","CMTE TO ELECT TOM GEORGE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3800
+"3882401","POINTER FARMS","Crop Production & Basic Processing","Agriculture","Farmers, in general",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",350
+"3904","KANSAS CITY SOUTHERN RAILWAY","Railroads","Energy & Natural Resources","Railroads",12.568306010929,87.431693989071,"#C20000AF","#C20000AF",4575
+"3931882","MATTHEW (MATT) BARTLE CAMPAIGN CMTE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5512.85
+"3938538","MISSOURI MERCHANTS & MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",350
+"3938568","KENNEY LEADERSHIP FUND","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",1725
+"39509999","AEROSPACE LODGE 837 IAMAW","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"3951701","MISSOURI STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",5100
+"3952928","MISSOURI STATE HIGHWAY & TRANSPORTATION EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",48.4848484848485,51.5151515151515,"#0A0000AF","#0A0000AF",1650
+"3960485","ONE MCKNIGHT PLACE MANAGEMENT CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1075
+"3961213","J M FAHEY CONSTRUCTION","General Contractors","Construction","Construction, unclassified",18.8679245283019,81.1320754716981,"#A30000AF","#A30000AF",1325
+"3964085","HELLER & HELLER PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1150
+"3964444","SENATE MAJORITY FUND OF MISSOURI","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",5750
+"39655180","HOME BUILDERS ASSOCIATION OF KC","Uncoded","Uncoded","Uncoded",58.2278481012658,41.7721518987342,"#000029AF","#000029AF",1975
+"39656586","ASBESTOS WORKERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",600
+"3965844","SIERRA CLUB MISSOURI CHAPTER","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",875
+"3969511","NORTHWEST PAC","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",500
+"3971455","WOMENS DEMOCRATIC CLUB","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",525
+"39729994","RIGHTCHOICE MANAGED CARE INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1100
+"3976234","MISSOURI COMMUNICATIONS WORKERS","General Trade Unions","Labor","Communications & hi-tech unions",100,0,"#0000FFAF","#0000FFAF",2000
+"39812292","RESIDENTIAL CARE FACILITY","Uncoded","Uncoded","Uncoded",23.1404958677686,76.8595041322314,"#8A0000AF","#8A0000AF",3025
+"39814092","MISSOURI STATE TROOPERS ASSOCIATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"39814095","MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES","Uncoded","Uncoded","Uncoded",39.0946502057613,60.9053497942387,"#380000AF","#380000AF",6075
+"39816329","MISSOURI ASSOCIATION OF INSURANCE AGENTS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"39816592","BURCH & ASSOCIATES","Uncoded","Uncoded","Uncoded",55.1020408163265,44.8979591836735,"#00001AAF","#00001AAF",2450
+"39817041","IRON WORKERS LOCAL 10","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",3150
+"3982015","MISSOURI STATE CHIROPRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",41.3793103448276,58.6206896551724,"#2E0000AF","#2E0000AF",725
+"3984732","MISSOURI FOREST PRODUCTS","Uncoded","Uncoded","Uncoded",20.6008583690987,79.3991416309013,"#990000AF","#990000AF",5825
+"3985441","MISSOURI CRIMINAL DEFENSE LAWYERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"4008065","MISSOURI EYE","Uncoded","Uncoded","Uncoded",12.3505976095618,87.6494023904382,"#C20000AF","#C20000AF",6275
+"4019529","GREATER KANSAS CITY CHAMBER OF COMMERCE","Uncoded","Uncoded","Uncoded",22.5490196078431,77.4509803921569,"#8F0000AF","#8F0000AF",2550
+"4022162","CHARTOCK LIVING TRUST","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"4022316","RESIDENTIAL CARE FACILITIES ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"4023034","YECKEL LEADERSHIP FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2300
+"4035696","FREEDOM OF ROAD RIDERS INC","Miscellaneous Services","General Business","Services",47.8260869565217,52.1739130434783,"#0F0000AF","#0F0000AF",1150
+"4035749","BUILDING A BETTER CENTRAL MISSOURI FUND","Home Builders","Construction","Residential construction",50,50,"#000000AF","#000000AF",500
+"4040689","MARSH TRAVEL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"4052155","GIBBONS LEADERSHIP FUND","Leadership PACs","Candidate Contributions","PACs operated by Republican state politicians",0,100,"#FF0000AF","#FF0000AF",13800
+"4052426","MISSOURI VOCATIONAL ASSOCIATION","Education","Government Agencies/Education/Other","Technical, business & vocational schools and services",64.957264957265,35.042735042735,"#000047AF","#000047AF",2925
+"4052913","MISSOURI SOFT DRINK ASSOCIATION","Food & Beverage","General Business","Beverages (non-alcoholic)",25.3796368908244,74.6203631091756,"#800000AF","#800000AF",5393.97
+"4053703","KLINDT FOR LEADERSHIP","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1625
+"4055434","NORTHWEST PAC CMTE","Education","Government Agencies/Education/Other","Schools & colleges",50,50,"#000000AF","#000000AF",1000
+"40613749","SOUTHWESTERN BELL EMPLOYEES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",650
+"40614079","UNITED UNION OF ROOFERS WATERPROOFERS & ALLIED WORKERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"40614263","BROWN & ASSOCIATES","Uncoded","Uncoded","Uncoded",91.304347826087,8.69565217391304,"#0000D1AF","#0000D1AF",2875
+"40615236","AMEC","Uncoded","Uncoded","Uncoded",42.8893905191874,57.1106094808126,"#290000AF","#290000AF",11075
+"40615655","MAPAC","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"4061610","METROPOLITAN KANSAS CITY REALTORS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Real estate",50,50,"#000000AF","#000000AF",1150
+"40617324","SPRINKLER FITTERS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",500
+"40617336","MOTOR CARRIER PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",15,85,"#B30000AF","#B30000AF",10000
+"40617337","FRIENDS OF SMSU","Uncoded","Uncoded","Uncoded",48.780487804878,51.219512195122,"#0A0000AF","#0A0000AF",3075
+"40617359","PROGRESS IN VIDEO ELECTRONICS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1600
+"40617404","WPC EMPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1825
+"40617466","SOUTHWESTERN BELL MISSOURI EMPLOYEES","Uncoded","Uncoded","Uncoded",23.953488372093,76.046511627907,"#8A0000AF","#8A0000AF",6450
+"40617468","MISSOURI FUNERAL DIRECTORS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",750
+"40617484","FRIENDS OF ED QUICK","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",9175
+"40617491","MISSOURI OSTEOPATHIC","Uncoded","Uncoded","Uncoded",47.8260869565217,52.1739130434783,"#0F0000AF","#0F0000AF",2300
+"40617515","MGE EMPLOYEE","Uncoded","Uncoded","Uncoded",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",2875
+"40617516","FLOTRON ORGANIZATION LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2075
+"40617520","MISSOURI FINANCIAL SERVICES","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"40617526","MISSOURI VOTES CONSERVATION","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"4061764","2ND REPUBLICAN SENATORIAL DISTRICT CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",8350
+"4063071","CITIZENS FOR DOLAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",5575
+"4065481","MISSOURI FREIGHT RAIL","Railroads","Energy & Natural Resources","Railroad transportation",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",7700
+"4068562","CLAIRE C MCCASKILL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2875
+"4069378","MISSOURI BROADCASTERS ASSOCIATION","TV & Movie Production/Distribution","Communications & Electronics","Commercial television & radio stations",0,100,"#FF0000AF","#FF0000AF",1550
+"4073","MISSOURI STATE MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",30.0929839391378,69.9070160608622,"#660000AF","#660000AF",29575
+"4074617","CHUCK GROSS FOR PRO TEM","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2300
+"4076599","ORACLE DEVELOPMENT SERVICES","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",400
+"4085104","MOTOR CARRIERS PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"4086191","MISSOURI CONCRETE ASSOCIATION","Uncoded","Uncoded","Uncoded",14.6341463414634,85.3658536585366,"#B80000AF","#B80000AF",2050
+"4089035","HENNING & BOUGH PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",625
+"4096824","MISSOURI ASSOCIATION OF HEALTH PLANS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",3250
+"4100578","MSCA","Health Professionals","Health","Chiropractors",37.1859296482412,62.8140703517588,"#420000AF","#420000AF",9950
+"4110","MISSOURI COUNCIL OF SCHOOL ADMINISTRATORS","Education","Government Agencies/Education/Other","Public school teachers, administrators & officials",48.3592400690846,51.6407599309154,"#0A0000AF","#0A0000AF",14475
+"4116650","CREDIT UNION","Uncoded","Uncoded","Uncoded",40.3100775193798,59.6899224806201,"#330000AF","#330000AF",3225
+"4118746","QUARRY WORKERS LOCAL 829","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",200
+"4119","NATIONAL ASSOCIATION OF INDEPENDENT INSURERS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",1800
+"4121739","GAW FOR MISSOURI","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1800
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",5750
+"4122294","MLPGA","Oil & Gas","Energy & Natural Resources","LPG/Liquid propane dealers & producers",0,100,"#FF0000AF","#FF0000AF",675
+"4125341","MISSOURIANS FOR KINDER","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1725
+"4137952","RISJORD & JAMES PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",1150
+"4141544","KENNER & KAVANAUGH PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1050
+"4142353","CITIZENS FOR STEELMAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",625
+"4146206","CMTE FOR COMMON SENSE VALUES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",29.0441176470588,70.9558823529412,"#6B0000AF","#6B0000AF",6800
+"4165859","KANSAS CITY LIFE EMPLOYEES","Uncoded","Uncoded","Uncoded",21.505376344086,78.494623655914,"#940000AF","#940000AF",2325
+"4181050","FRIENDS OF JAMES MATHEWSON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",5675
+"4181098","BILL WARIS & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",550
+"4181727","FRIENDS OF CHARLES PORTWOOD CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2200
+"4181752","ST JOSEPH RIVERBOAT PARTNERS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",86.013986013986,13.986013986014,"#0000B8AF","#0000B8AF",1787.5
+"4183241","MARK TWAIN CASINO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",50.2487562189055,49.7512437810945,"#000000AF","#000000AF",2512.5
+"4184318","WHEELER SENATORIAL CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",775
+"4184697","FRASER FOR STATE REPRESENTATIVE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",950
+"4184970","59TH DEMOCRATIC LEGISLATIVE DISTRICT CMTE OF MISSOURI","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",5650
+"4189164","BROADWAY MUSIC & VENDING","Retail Sales","General Business","Vending machine sales & services",62.1621621621622,37.8378378378378,"#00003DAF","#00003DAF",1850
+"4190873","GREGG J BERDY MD PC","Health Professionals","Health","Optometrists & ophthalmologists",0,100,"#FF0000AF","#FF0000AF",300
+"4191316","CMTE FOR COUNTY PROGRESS JACKSON COUNTY","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1150
+"4191447","FITZ PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1350
+"4192947","HEALTH MIDWEST","Hospitals & Nursing Homes","Health","Hospitals",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1050
+"4218033","PREMIUM STANDARD FARMS INC BETTER GOVERNMENT FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2300
+"4219128","WHITE ALLINDER GRAHAM BUCKLEY & COMPTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1725
+"4220892","EDMU REALTY CO","Real Estate","Finance, Insurance & Real Estate","Real estate agents & managers",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",1500
+"4232537","TAXPAYERS IN SUPPORT OF PUBLIC EDUCATION","Public Sector Unions","Labor","Teachers unions",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1725
+"4236171","ELDER CARE MANAGEMENT SERVICES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1150
+"4240501","CITIZENS FOR LUETKENHAUS","Candidate Committees","Candidate Contributions","Candidate committees",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",550
+"4241013","DISTRICT 5 MSCA 0184","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",1000
+"4246085","HEALTH FACILITIES MANAGEMENT CORP","Hospitals & Nursing Homes","Health","Nursing homes",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",1050
+"4249594","SENATOR HAROLD CASKEY LEADERSHIP CMTE","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",1725
+"4252180","CMTE TO ELECT BRUCE W HOLT","Candidate Committees","Candidate Contributions","Candidate committees",50,50,"#000000AF","#000000AF",200
+"4293089","MPTA","Uncoded","Uncoded","Uncoded",29.0322580645161,70.9677419354839,"#6B0000AF","#6B0000AF",1550
+"4294378","KLINDT FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6900
+"4299765","ELEVATOR CONSTRUCTORS LOCAL 3","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2100
+"4303876","TUCKER CHIROPRACTIC","Health Professionals","Health","Chiropractors",50,50,"#000000AF","#000000AF",200
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",33.2046332046332,66.7953667953668,"#570000AF","#570000AF",6475
+"4350743","MMH","Uncoded","Uncoded","Uncoded",48.4496124031008,51.5503875968992,"#0A0000AF","#0A0000AF",6450
+"43586587","COALITION FOR BUILDING A BETTER TOMORROW","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1925
+"4375232","MISSOURI AMERICAN WATER","Water Utilities","Energy & Natural Resources","Water utilities",19.4174757281553,80.5825242718447,"#9E0000AF","#9E0000AF",2575
+"4375892","STEWART MORRISON REDI MIX","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",100,0,"#0000FFAF","#0000FFAF",400
+"4386100","LABORERS LOCAL 555","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1450
+"4431788","PRO LIFE CITIZENS","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",1725
+"4544234","ASSOCIATED BUILDERS & CONTRACTORS OF KANSAS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",9280
+"4577","SMOKELESS TOBACCO COUNCIL","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"4637925","LL 660","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1475
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",10.6382978723404,89.3617021276596,"#CC0000AF","#CC0000AF",2350
+"4863516","ST LOUIS FEDERATION OF TEACHERS LOCAL 420","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",2250
+"4865","MISSOURI REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",107663.63
+"4867","MISSOURI DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",35000
+"495725","DAIMLERCHRYSLER","Automotive","Transportation","Auto manufacturers",32.9896907216495,67.0103092783505,"#5C0000AF","#5C0000AF",2425
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",25.6410256410256,74.3589743589744,"#800000AF","#800000AF",2925
+"5164653","LGB & ASSOCIATES INC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",900
+"5298","MISSOURI CREDIT UNION ASSOCIATION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",21.551724137931,78.448275862069,"#940000AF","#940000AF",8700
+"531","CENTRAL BANCOMPANY","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",71.7948717948718,28.2051282051282,"#00006BAF","#00006BAF",1950
+"5539","136TH DEMOCRATIC LEGISLATIVE DISTRICT CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",7800
+"5541","138TH DEMOCRATIC LEGISLATIVE DISTRICT CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",11300
+"5548","16TH REPUBLICAN LEGISLATIVE DISTRICT CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",27488
+"5557","19TH DEMOCRATIC SENATORIAL DISTRICT CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",22000
+"5571","24TH DEMOCRATIC SENATORIAL DISTRICT CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",11600
+"5579","30TH DEMOCRATIC SENATORIAL DISTRICT CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",18150
+"5604","6TH REPUBLICAN CONGRESSIONAL DISTRICT CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",16750
+"5605","7-ELEVEN","Oil & Gas","Energy & Natural Resources","Gasoline service stations",3.9344262295082,96.0655737704918,"#F00000AF","#F00000AF",7625
+"5607","7TH REPUBLICAN CONGRESSIONAL DISTRICT CMTE OF MISSOURI","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",42856.84
+"5614","8TH REPUBLICAN CONGRESSIONAL DISTRICT CMTE OF MISSOURI","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",13425
+"5618","9TH REPUBLICAN CONGRESSIONAL DISTRICT CMTE","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",20475
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",5.71428571428571,94.2857142857143,"#E60000AF","#E60000AF",1750
+"5745","AMEREN CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",18.0346727714059,81.9653272285941,"#A30000AF","#A30000AF",17385.4
+"5768","AMERISTAR CASINOS","Gambling & Casinos","General Business","Casinos, racetracks & gambling",47.8152309612984,52.1847690387016,"#0F0000AF","#0F0000AF",20025
+"5856","POULTRY FEDERATION OF ARKANSAS MISSOURI & OKLAHOMA","Poultry & Eggs","Agriculture","Poultry & eggs",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"5882","ASSOCIATION OF MISSOURI ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",28.0016473584538,71.9983526415462,"#700000AF","#700000AF",5803.23
+"5958","BARTIMUS FRICKLETON ROBERTSON & OBETZ","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",825
+"6079","BROWN & CROUPPEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1725
+"6211","CASEYS GENERAL STORES","Oil & Gas","Energy & Natural Resources","Gasoline service stations",1.63934426229508,98.3606557377049,"#FA0000AF","#FA0000AF",1525
+"6428","CONSUMER LENDING ALLIANCE","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",42.3076923076923,57.6923076923077,"#290000AF","#290000AF",3900
+"6449","CORNERSTONE HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",1725
+"6507","DIRT CHEAP INC","Oil & Gas","Energy & Natural Resources","Gasoline service stations",39.4736842105263,60.5263157894737,"#380000AF","#380000AF",3800
+"6613","DRURY DEVELOPMENT CORP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",525
+"6648","ELECTRICAL CONTRACTORS ASSOCIATION PAC","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",1075
+"6687","EMPIRE DISTRICT","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",19.1387559808612,80.8612440191388,"#9E0000AF","#9E0000AF",5225
+"6773","FIRST GUARD HEALTH PLAN","Health Services","Health","HMOs",75,25,"#00007FAF","#00007FAF",1200
+"6826","FOX & VUYLSTEKE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",550
+"6899","GENERAL AMERICAN LIFE ASSOCIATES","Insurance","Finance, Insurance & Real Estate","Life insurance",15.0087260034904,84.9912739965096,"#B30000AF","#B30000AF",14325
+"6969","GREATER KANSAS CITY WOMENS POLITICAL CAUCUS","Women's Issues","Ideology/Single Issue","Women's issues",100,0,"#0000FFAF","#0000FFAF",2300
+"6999","HALLMARK GLOBAL SERVICES","Printing & Publishing","Communications & Electronics","Greeting card publishing",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",6325
+"7060","HEALTHLINK","Health Services","Health","HMOs",76.6666666666667,23.3333333333333,"#000085AF","#000085AF",750
+"7065","HEAVY CONSTRUCTORS ASSOCIATION OF THE GREATER KANSAS CITY AREA","General Contractors","Construction","Builders associations",77.0967741935484,22.9032258064516,"#00008AAF","#00008AAF",7750
+"7110","HOME BUILDERS ASSOCIATION OF GREATER KANSAS CITY","Home Builders","Construction","Residential construction",41.6666666666667,58.3333333333333,"#2E0000AF","#2E0000AF",600
+"7309","JOHN BARDGET & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",27.3079718924158,72.6920281075842,"#750000AF","#750000AF",4127
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",16,84,"#AD0000AF","#AD0000AF",6250
+"7354","KANSAS CITY POWER & LIGHT","Electric Utilities","Energy & Natural Resources","Electric power utilities",25,75,"#800000AF","#800000AF",16100
+"7482","LANGDON EMISON KUHLMAN & EVANS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2875
+"7492","LAW OFFICES OF ROBERT PALMER","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.3333333333333,76.6666666666667,"#8A0000AF","#8A0000AF",750
+"7493","LAW OFFICES OF TIM DOLLAR","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1625
+"7719","MCCARTHY GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",10.6481481481481,89.3518518518518,"#CC0000AF","#CC0000AF",5400
+"7873","MISSOURI ASSOCATION OF INSURANCE AGENTS","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",2.06185567010309,97.9381443298969,"#F50000AF","#F50000AF",2425
+"7874","MISSOURI ASSOCIATION OF MUNICIPAL UTILITIES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",72.6027397260274,27.3972602739726,"#000070AF","#000070AF",1825
+"7875","MISSOURI ASSOCIATION OF NURSE ANESTHESIOLOGISTS","Health Professionals","Health","Nurses",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",1500
+"7876","MISSOURI ASSOCIATION OF TRIAL ATTORNEYS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.3931518518989,28.6068481481011,"#00006BAF","#00006BAF",39324.5
+"7877","MISSOURI BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",13.2700057570524,86.7299942429476,"#BD0000AF","#BD0000AF",86850
+"7878","MISSOURI BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",71.0526315789474,28.9473684210526,"#00006BAF","#00006BAF",5700
+"7879","MISSOURI CABLE TELECOMMUNICATIONS ASSOCIATION","Cable TV","Communications & Electronics","Satellite TV operators",29.1291291291291,70.8708708708709,"#6B0000AF","#6B0000AF",16650
+"7881","MISSOURI CORRECTIONS OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",24.0641711229947,75.9358288770053,"#850000AF","#850000AF",9350
+"7883","MISSOURI DENTAL ASSOCIATION","Health Professionals","Health","Dentists",32.1138211382114,67.8861788617886,"#5C0000AF","#5C0000AF",6150
+"7885","MISSOURI GAMING CO","Gambling & Casinos","General Business","Casinos, racetracks & gambling",38.7832699619772,61.2167300380228,"#3D0000AF","#3D0000AF",6575
+"7887","MISSOURI INDEPENDENT BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",24.4712990936556,75.5287009063444,"#850000AF","#850000AF",16550
+"7888","MISSOURI INSURANCE COALITION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",9325
+"7889","MISSOURI MOTOR CARRIERS ASSOCIATION","Trucking","Transportation","Trucking",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"7890","MISSOURI PETROLEUM MARKETERS & CONVENIENCE STORE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",31.2925170068027,68.7074829931973,"#610000AF","#610000AF",18375
+"7891","MISSOURI PHARMACY ASSOCIATION","Retail Sales","General Business","Drug stores",29.7368421052632,70.2631578947368,"#6B0000AF","#6B0000AF",9500
+"7893","MISSOURI PORK PRODUCERS ASSOCIATION","Livestock","Agriculture","Livestock",0,100,"#FF0000AF","#FF0000AF",3500
+"7894","MISSOURI SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",30.4347826086957,69.5652173913043,"#660000AF","#660000AF",13225
+"7895","MISSOURI SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",13.7313432835821,86.2686567164179,"#BD0000AF","#BD0000AF",8375
+"7898","MISSOURI STATE TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",31.3725490196078,68.6274509803922,"#610000AF","#610000AF",12750
+"7899","MISSOOURI STATE TROOPERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",700
+"7900","MISSOURIANS FOR CHOICE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",6900
+"790023","ENVIROMENTAL SYSTEMS PRODUCTS","Environmental Services & Equipment","Energy & Natural Resources","Environmental services, equipment & consulting",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",900
+"793690","FOOD & COMMERCIAL WORKERS LOCAL 655","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",875
+"8006","NATIONAL PREARRANGED SERVICES","Miscellaneous Services","General Business","Funeral services",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",4025
+"8160","NEW PRIME INC","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",3450
+"8567","PREMIUM STANDARD FARMS","Crop Production & Basic Processing","Agriculture","Farmers, in general",11.1650485436893,88.8349514563107,"#C70000AF","#C70000AF",5150
+"8618","QC FINANCIAL SERVICES","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",1500
+"8623","QUIKTRIP CORP","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",2150
+"8653","REDFEARN LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1150
+"870","NATIONAL EAGLE FORUM","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",500
+"8826","SCHLICHTER BOGARD & DENTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2925
+"8827","SCHLUETER MANDEL & MANDEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",37.5,62.5,"#420000AF","#420000AF",800
+"887","EDISON SCHOOLS","Education","Government Agencies/Education/Other","Education",29.1139240506329,70.8860759493671,"#6B0000AF","#6B0000AF",1975
+"8872","SHAFFER LOMBARDO SHURIN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1000
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",4525
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",30,70,"#660000AF","#660000AF",5500
+"9012","HOME BUILDERS ASSOCIATION OF ST LOUIS & EASTERN MISSOURI","Home Builders","Construction","Residential construction",30.7352941176471,69.2647058823529,"#660000AF","#660000AF",17000
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",1650
+"9052","STONE LEYTON & GERSHMAN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",96.6386554621849,3.36134453781513,"#0000EBAF","#0000EBAF",2975
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",12.2448979591837,87.7551020408163,"#C20000AF","#C20000AF",4900
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",28.3950617283951,71.6049382716049,"#700000AF","#700000AF",2025
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",12.1085594989562,87.8914405010438,"#C20000AF","#C20000AF",11975
+"9594","MISSOURI CONSUMER LENDERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",60,40,"#000033AF","#000033AF",1250
+"9948","AMERICAN BOILER & MECHANICAL","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",4550

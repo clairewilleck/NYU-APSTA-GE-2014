@@ -1,0 +1,48 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10008349","MINOT AREA REPUBLICAN COUNCIL","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1300
+"10008443","GRAND FORKS BOARD OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",0,100,"#FF0000AF","#FF0000AF",945
+"10008471","NORTH DAKOTA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",29.4117647058824,70.5882352941177,"#6B0000AF","#6B0000AF",850
+"10009117","NORTH DAKOTA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",25,75,"#800000AF","#800000AF",1200
+"10009122","NORTH DAKOTA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",75,25,"#00007FAF","#00007FAF",1000
+"10011967","STEELWORKERS LOCAL 566","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",2750
+"10016364","ND CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",4200
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",3450
+"11514","DAK PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",29000
+"1396","JOHN DEERE & CO","Agricultural Services & Products","Agriculture","Farm machinery & equipment",0,100,"#FF0000AF","#FF0000AF",3000
+"14594","NODAK PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",6250
+"14618","NORTH DAKOTA DEMOCRATIC-NPL PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",14300
+"14620","NORTH DAKOTA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",61747.42
+"16657654","INDEPENDENT COMMUNITY BANKS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",600
+"1687","MONTANA DAKOTA UTILITIES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",1750
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",18.75,81.25,"#A30000AF","#A30000AF",1600
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",9900
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",1000
+"18614","ASSOCIATED GENERAL CONTRACTORS OF NORTH DAKOTA","General Contractors","Construction","Builders associations",37.5,62.5,"#420000AF","#420000AF",800
+"18997","NORTH DAKOTA FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",10.8443485298085,89.1556514701915,"#CC0000AF","#CC0000AF",3707
+"19237","NORTH DAKOTA PUBLIC EMPLOYEES ASSOCIATION","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",1150
+"19414","IRONWORKERS LOCAL 512","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",900
+"19588","BOILERMAKERS LOCAL 647","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",21100
+"19697","ELECTRICAL WORKERS LOCAL 714","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1100
+"19999","LABORERS DISTRICT COUNCIL OF MINNESOTA & NORTH DAKOTA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",750
+"20255","NORTH DAKOTA EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",3250
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",51.7241379310345,48.2758620689655,"#000005AF","#000005AF",1450
+"20972","NORTH DAKOTA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",40,60,"#330000AF","#330000AF",750
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",1100
+"2633","UNITED TRANSPORTATION UNION / UTU","Transportation Unions","Labor","Railroad unions",63.4146341463415,36.5853658536585,"#000042AF","#000042AF",2050
+"29412503","ND RURAL ELECTRIC","Uncoded","Uncoded","Uncoded",69.2307692307692,30.7692307692308,"#000061AF","#000061AF",5200
+"29415777","NDLTCA","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2000
+"40617618","NDPEA","Uncoded","Uncoded","Uncoded",78.2608695652174,21.7391304347826,"#00008FAF","#00008FAF",2300
+"40617620","ND SENATE DEM NPL CAUCUS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6250
+"4877","NORTH DAKOTA SENATE REPUBLICAN CAUCUS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",9000
+"5961","BASIN ELECTRIC POWER COOPERATIVE","Electric Utilities","Energy & Natural Resources","Electric power utilities",100,0,"#0000FFAF","#0000FFAF",2500
+"6951","GRAND FORKS REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",4310
+"7564","NORTH DAKOTA LONG TERM CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",60,40,"#000033AF","#000033AF",2000
+"7837","MINOT AREA REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",800
+"8214","NORTH DAKOTA ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",15.4639175257732,84.5360824742268,"#B30000AF","#B30000AF",4850
+"8215","NORTH DAKOTA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",21.9330855018587,78.0669144981413,"#940000AF","#940000AF",5380
+"8216","NORTH DAKOTA ASSOCIATION OF TELECOMMUNICATIONS COOPERATIVES","Telecom Services & Equipment","Communications & Electronics","Telecommunications",33.0769230769231,66.9230769230769,"#570000AF","#570000AF",13000
+"8218","NORTH DAKOTA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",64.7058823529412,35.2941176470588,"#000047AF","#000047AF",1700
+"8220","NORTH DAKOTA LIGNITE COUNCIL","Mining","Energy & Natural Resources","Coal mining",29.6296296296296,70.3703703703704,"#6B0000AF","#6B0000AF",13500
+"8224","NORTH DAKOTA RETAIL & PETROLEUM MARKETERS ASSOCIATIONS","Retail Sales","General Business","Retail trade",0,100,"#FF0000AF","#FF0000AF",500
+"8225","NORTH DAKOTA ASSOCIATION OF RURAL ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",38.0952380952381,61.9047619047619,"#3D0000AF","#3D0000AF",4200
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750

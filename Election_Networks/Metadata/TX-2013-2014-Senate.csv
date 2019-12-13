@@ -1,0 +1,512 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10048","APARTMENT ASSOCIATION OF GREATER DALLAS","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",13.7931034482759,86.2068965517241,"#BD0000AF","#BD0000AF",14500
+"10149","ASTELLAS PHARMA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2500
+"10231755","PAC FOR ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",2250
+"10232696","HOUSTON APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",0,100,"#FF0000AF","#FF0000AF",5500
+"10233402","Q INVESTMENTS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",22.3214285714286,77.6785714285714,"#8F0000AF","#8F0000AF",22400
+"10233644","HOOVER SLOVACEK LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1500
+"10235319","TEXAS FEDERATED REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",8400
+"10244396","TEXAS RETAILERS ASSOCIATION","Retail Sales","General Business","Retail trade",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",6000
+"10244405","TEXAS MUNICIPAL POLICE ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",12.1212121212121,87.8787878787879,"#C20000AF","#C20000AF",8250
+"10244420","JUNIOR & COMMUNITY COLLEGE PAC","Education","Government Agencies/Education/Other","Technical, business & vocational schools and services",29.6296296296296,70.3703703703704,"#6B0000AF","#6B0000AF",13500
+"10244449","UNIVERSITY OF HOUSTON","Education","Government Agencies/Education/Other","Schools & colleges",9.55631399317406,90.4436860068259,"#D10000AF","#D10000AF",36625
+"10244543","SABINE PILOT SERVICE","Air Transport","Transportation","Airlines",0,100,"#FF0000AF","#FF0000AF",6600
+"10244557","VOCATIONAL AGRICULTURE TEACHERS ASSOCIATION OF TEXAS","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1050
+"10244568","TEXAS ALLIANCE FOR LIFE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",24557.93
+"10244592","HUNTSMAN LLC","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",1500
+"10244704","DALLAS CHAPTER TEXAS SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",8500
+"10244754","HOUSTON CHAPTER TEXAS SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",6000
+"10244810","TEXAS ACADEMY OF PHYSICIAN ASSISTANTS","Health Professionals","Health","Other non-physician health practitioners",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"10244906","VETERANS & CIVILIANS BRAIN INJURY ADVOCATES","Health & Welfare Policy","Ideology/Single Issue","Health & welfare policy",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",9750
+"10244910","NATIONAL CUTTING HORSE ASSOCIATION","Livestock","Agriculture","Horse breeders",19.7368421052632,80.2631578947368,"#9E0000AF","#9E0000AF",38000
+"10244941","TEXAS ORTHOPAEDIC ASSOCIATION","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",6000
+"1025","FORD MOTOR CO","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",2000
+"1039","NEXTERA ENERGY","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",7.40740740740741,92.5925925925926,"#DB0000AF","#DB0000AF",13500
+"1057","FULBRIGHT & JAWORSKI","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"10656239","MISCHER INVESTMENTS","Miscellaneous Finance","Finance, Insurance & Real Estate","Investors",16.1290322580645,83.8709677419355,"#AD0000AF","#AD0000AF",15500
+"10681553","PINNACLE ANESTHESIA CONSULTANTS","Health Professionals","Health","Other physician specialists",38.4615384615385,61.5384615384615,"#3D0000AF","#3D0000AF",6500
+"10691644","BAYLOR COLLEGE OF MEDICINE","Education","Government Agencies/Education/Other","Medical schools",20.7547169811321,79.2452830188679,"#990000AF","#990000AF",26500
+"1070","GARDERE WYNNE SEWELL LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",35.2941176470588,64.7058823529412,"#4D0000AF","#4D0000AF",17000
+"10717227","ENERGY FUTURE HOLDINGS","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",17.8846831400496,82.1153168599504,"#A80000AF","#A80000AF",16774.13
+"10763218","HS LAW","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",15.7894736842105,84.2105263157895,"#B30000AF","#B30000AF",9500
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"10858177","TEXAS A&M UNIVERSITY","Education","Government Agencies/Education/Other","Schools & colleges",29.7029702970297,70.2970297029703,"#6B0000AF","#6B0000AF",50500
+"1087","GENERAL MOTORS","Automotive","Transportation","Auto manufacturers",0,100,"#FF0000AF","#FF0000AF",24000
+"1093638","TEXAS LAND DEVELOPERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",3200
+"1096","GEO GROUP","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",17500
+"11038574","TEXAS CHAPTER OF THE AMERICAN COLLEGE OF EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",7500
+"11038778","GOOD GOVERNMENT FUND","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",55000
+"11040221","ASSOCIATION OF CHEMICAL INDUSTRY OF TEXAS","Chemical & Related Manufacturing","General Business","Chemicals",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"11040288","TEXAS BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",20,80,"#990000AF","#9E0000AF",22500
+"11040292","TEXAS CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",0,100,"#FF0000AF","#FF0000AF",5000
+"11040298","TEXAS FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",12.5,87.5,"#C20000AF","#C20000AF",8000
+"11040300","TEXAS LAND TITLE ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Title insurance & title abstract offices",20.9876543209877,79.0123456790123,"#990000AF","#990000AF",40500
+"11040309","TEXAS SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",5.88235294117647,94.1176470588235,"#E60000AF","#E60000AF",42500
+"11040314","TEXAS TELEPHONE ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",12.5,87.5,"#C20000AF","#C20000AF",12000
+"11041045","CONCHO RESOURCES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",7000
+"11051431","TEXAS CLASSROOM TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",31.8277259365507,68.1722740634493,"#610000AF","#610000AF",22003.08
+"11051693","HOUSTON POLICE RETIRED OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",37.5,62.5,"#420000AF","#420000AF",12000
+"11051784","TEXAS ACADEMY OF FAMILY PHYSICIANS","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",11500
+"11051793","TEXAS OPHTHALMOLOGICAL ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",0,100,"#FF0000AF","#FF0000AF",29000
+"11051794","TEXAS PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",17.0212765957447,82.9787234042553,"#A80000AF","#A80000AF",11750
+"11051833","BELL HELICOPTER TEXTRON INC","Air Transport","Transportation","Aircraft manufacturers",0,100,"#FF0000AF","#FF0000AF",8350
+"11051867","COALITION FOR BETTER TRANSPORTATION","Miscellaneous Transport","Transportation","Transportation",0,100,"#FF0000AF","#FF0000AF",15000
+"11052035","PEDIATRIC DENTISTS ASSOCIATION","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",4750
+"11052093","TEXAS ALLIANCE OF RECREATIONAL ORGANIZATIONS","Recreation & Live Entertainment","General Business","Recreation & entertainment",20,80,"#990000AF","#9E0000AF",2500
+"11052102","TEXAS PACKAGE STORE ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor stores",23.972602739726,76.027397260274,"#8A0000AF","#8A0000AF",14600
+"11052108","TEXAS CREDIT UNION LEAGUE","Credit Unions","Finance, Insurance & Real Estate","Credit unions",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",66000
+"11052119","TEXAS ASSOCIATION OF MORTGAGE BROKERS","Real Estate","Finance, Insurance & Real Estate","Mortgage bankers & brokers",42.6229508196721,57.3770491803279,"#290000AF","#290000AF",30500
+"11052126","TEXAS PUBLIC EMPLOYEES ASSOCIATION","Civil Servants/Public Officials","Government Agencies/Education/Other","Civil servant/public employee",12.356739056563,87.643260943437,"#C20000AF","#C20000AF",8092.75
+"11052132","TEXAS TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",80,20,"#000099AF","#000099AF",75000
+"11052266","DALLAS POLICE OFFICERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",70,30,"#000066AF","#000066AF",10000
+"11052345","SOUTHWESTERN RESEARCH & MEDICAL PAC","Education","Government Agencies/Education/Other","Medical schools",23.2558139534884,76.7441860465116,"#8A0000AF","#8A0000AF",21500
+"11052413","TEXAS PODIATRIC MEDICAL ASSOCIATION","Health Professionals","Health","Other physician specialists",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",22500
+"11052449","ASSOCIATION OF TEXAS PROFESSIONAL EDUCATORS","Public Sector Unions","Labor","Teachers unions",36.1702127659575,63.8297872340426,"#470000AF","#470000AF",23500
+"11052466","BOATING TRADES ASSOCIATION OF METROPOLITAN HOUSTON","Sea Transport","Transportation","Sea transport",30,70,"#660000AF","#660000AF",5000
+"11052838","TEXAS ASSOCIATION FOR HOME CARE & HOSPICE","Health Services","Health","Home care services",15.1515151515152,84.8484848484848,"#B30000AF","#B30000AF",66000
+"11053194","STAN SCHLUETER CONSULTING","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",10000
+"11053263","HOUSTON PILOTS ASSOCIATION","Sea Transport","Transportation","Sea freight & passenger services",34.7826086956522,65.2173913043478,"#520000AF","#520000AF",11500
+"11053279","TEXAS PHARMACY ASSOCIATION","Health Professionals","Health","Pharmacists",0,100,"#FF0000AF","#FF0000AF",23000
+"11054111","PERDUE BRANDON FIELDER COLLINS & MOTT","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",41.0958904109589,58.9041095890411,"#2E0000AF","#2E0000AF",18250
+"11055289","TEXAS GOOD ROADS TRANSPORTATION ASSOCIATION","Miscellaneous Transport","Transportation","Transportation",0,100,"#FF0000AF","#FF0000AF",1500
+"11056016","ALLIANCE OF DALLAS EDUCATORS UNITED TEACHERS LOCAL 2260","Public Sector Unions","Labor","Teachers unions",20,80,"#990000AF","#9E0000AF",2500
+"11133","COMBINED LAW ENFORCEMENT ASSOCIATION OF TEXAS","Public Sector Unions","Labor","Police & fire fighters unions and associations",32,68,"#5C0000AF","#610000AF",12500
+"11144130","TEXAS ASSOCIATION OF ADDICTION PROFESSIONALS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",4000
+"11160061","DALLAS EAGLE FORUM","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",3550
+"11162680","TEXAS RN / APN","General Trade Unions","Labor","Health worker unions",0,100,"#FF0000AF","#FF0000AF",4000
+"11170278","BURNS BAIL BONDS","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",0,100,"#FF0000AF","#FF0000AF",750
+"11173346","SLACK & DAVIS LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",20000
+"11197","COATS ROSE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"11222352","HOUSTON FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1750
+"11224276","TEXAS STATEWIDE TELEPHONE COOPERATIVE","Telephone Utilities","Communications & Electronics","Telephone utilities",25,75,"#800000AF","#800000AF",8000
+"11233280","MIKE MONCRIEF CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",450
+"11237032","FRASER FOR TEXAS SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",25000
+"11240764","LUMINANT","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",14.8936170212766,85.1063829787234,"#B80000AF","#B80000AF",23500
+"11243885","CHERRY TREE REPUBLICANS","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1250
+"11244097","TEXAS BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN","Transportation Unions","Labor","Railroad unions",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",3500
+"11244762","TEXAS CHEMICAL COUNCIL","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",2000
+"11246942","REAL ESTATE COUNCIL OF AUSTIN","Real Estate","Finance, Insurance & Real Estate","Real estate",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"11248502","INDEPENDENT ELECTRICAL CONTRACTORS OF TEXAS","Special Trade Contractors","Construction","Electrical contractors",0,100,"#FF0000AF","#FF0000AF",8500
+"11248518","TEXAS TRUCKING ASSOCIATION","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",13000
+"11249399","AMERICAN NATIONAL INSURANCE CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",37.5,62.5,"#420000AF","#420000AF",8000
+"11259180","HOME","General Contractors","Construction","Builders associations",97.9591836734694,2.04081632653061,"#0000F0AF","#0000F0AF",12250
+"11263615","CONSULTING ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",2303.97
+"11264686","TEXAS DEMOCRATIC WOMEN","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",5500
+"11266096","TEXAS ASSOCIATION OF DAIRYMEN","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",7.40740740740741,92.5925925925926,"#DB0000AF","#DB0000AF",6750
+"11287849","ASSOCIATION OF FIRE & CASUALTY COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",2000
+"11287911","MOSTYN LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",375000
+"11290437","KIP AVERITT CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",7.69230769230769,92.3076923076923,"#DB0000AF","#DB0000AF",13000
+"11296627","LLOYD GOSSELINK BLEVINS ROCHELLE & TOWNSEND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2500
+"11308836","KICKAPOO TRADITIONAL TRIBE OF TEXAS","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",0,100,"#FF0000AF","#FF0000AF",70000
+"11311654","FRIENDS OF SENATOR JANE NELSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",25000
+"11324381","GOLDEN SPREAD PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"11348696","TAPA","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",4500
+"11374726","FRIENDS OF THE UNIVERSITY","Education","Government Agencies/Education/Other","Schools & colleges",43.75,56.25,"#240000AF","#240000AF",40000
+"11374884","LLOYD GOSSELINK ROCHELLE & TOWNSEND","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.3333333333333,76.6666666666667,"#8A0000AF","#8A0000AF",15000
+"11379490","TRUITT FOR DISTRICT 98","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1150
+"11379973","FRIENDS OF UNIVERSITY OF NORTH TEXAS","Education","Government Agencies/Education/Other","Schools & colleges",38.2352941176471,61.7647058823529,"#3D0000AF","#3D0000AF",8500
+"11384819","EBERSTEIN & WITHERITE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",10000
+"11391461","AMERICAN COLLECTORS ASSOCIATION OF TEXAS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"11414419","TAAP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"11419851","ONCOR","Electric Utilities","Energy & Natural Resources","Electric power utilities",15.0793650793651,84.9206349206349,"#B30000AF","#B30000AF",63000
+"11438909","AMERICAN PHARMACY COALITION INC GPAC","Retail Sales","General Business","Drug stores",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"11439123","SOUTH TEXAS DENTAL ASSOCIATES","Health Professionals","Health","Dentists",0,100,"#FF0000AF","#FF0000AF",6250
+"11440737","TSHP-PAC","Health Professionals","Health","Pharmacists",0,100,"#FF0000AF","#FF0000AF",2000
+"11443700","AMERICAN PHARMACY INC GPAC","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",7000
+"11467743","FREESE & NICHOLS","Construction Services","Construction","Engineering, architecture & construction management services",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"1147","GREENBERG TRAURIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",9.61538461538462,90.3846153846154,"#D10000AF","#D10000AF",26000
+"11486798","ZACHRY CORP","General Contractors","Construction","Construction & public works",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",18000
+"11493384","SUPERIOR HEALTHPLAN","Health Services","Health","HMOs",19.3548387096774,80.6451612903226,"#9E0000AF","#9E0000AF",15500
+"11499566","TAPTP","Accountants","Finance, Insurance & Real Estate","Accountants",16.9491525423729,83.0508474576271,"#AD0000AF","#AD0000AF",5900
+"11504792","SULLIVAN PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3250
+"11506827","AMERICAN PHARMACY INC","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",6000
+"11511","DAIICHI SANKYO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1500
+"11517375","TEXAS NURSE PRACTITIONERS","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",2500
+"11538525","NORTH CYPRESS MEDICAL CENTER OPERATING CO","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",15000
+"11540276","FRIENDS OF UTD","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",1750
+"11541490","TEXAS OUR TEXAS","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",29.0697674418605,70.9302325581395,"#6B0000AF","#6B0000AF",8600
+"11542018","TEXAS PARENT PAC","Public Education Policy","Ideology/Single Issue","Public School Advocates",37.7433034905216,62.2566965094784,"#420000AF","#420000AF",19864.08
+"11544624","TEXAS CHAPTER OF THE AMERICAN COLLEGE OF CARDIOLOGY","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",1500
+"11575400","M GROUP STRATEGIES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"11587159","PSCO PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1100
+"11590602","HEART PLACE","Health Professionals","Health","Other physician specialists",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",3500
+"11603976","CY-FAIR REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",900
+"11619553","AMEGY BANK OF TEXAS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",50,50,"#000000AF","#000000AF",1000
+"11624297","ERBEN & YARBROUGH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",8.67663901711033,91.3233609828897,"#D60000AF","#D60000AF",11525.2
+"11641606","COMBINED LAW ENFORCEMENT ASSNS OF TEXAS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"11647361","ASSOCIATED PLUMBING-HEATING-COOLING CONTRACTORS","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",0,100,"#FF0000AF","#FF0000AF",2750
+"11647821","TEXAS SURPLUS LINES ASSOCIATION","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",18000
+"11654936","BLACKRIDGE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",24.7559940135811,75.244005986419,"#850000AF","#850000AF",119163.06
+"11663789","CRAIG GOLDMAN CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"11673091","POSEY LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",1000
+"11674366","HPCP INVESTMENTS","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",0,100,"#FF0000AF","#FF0000AF",3500
+"11675041","TEXAS STATE FARM INSURANCE AGENTS","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",26529.29
+"11675043","VICKI TRUITT CAMPAIGN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1000
+"11678574","TEXANS FOR TOMMY WILLIAMS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"11678781","COBB FENDLEY & ASSOCIATES","Construction Services","Construction","Engineering, architecture & construction management services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"11684186","MEDICAL DEFENSE PAC","Health Professionals","Health","Physicians",0,100,"#FF0000AF","#FF0000AF",12000
+"11686431","METROPLEX REPUBLICAN WOMEN","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1000
+"11690782","TEXAS CONSUMER LENDERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",60000
+"11701510","SOUTHWEST TOW OPERATORS","Automotive","Transportation","Truck & automotive parts and accessories",50,50,"#000000AF","#000000AF",1000
+"11713573","CREDIT UNION COALITION OF TEXAS","Credit Unions","Finance, Insurance & Real Estate","Credit unions",50,50,"#000000AF","#000000AF",4000
+"11737358","TEXAS ASSOCIATION OF CRANE OWNERS","Uncoded","Uncoded","Uncoded",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",3000
+"1174","FRIEDKIN BUSINESS SERVICES / GULF STATE TOYOTA","Automotive","Transportation","Auto dealers, new & used",20.1834862385321,79.8165137614679,"#990000AF","#990000AF",54500
+"11747815","ACTION DALLAS PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"11778250","FOCUSED ADVOCACY","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",19.8019801980198,80.1980198019802,"#9E0000AF","#9E0000AF",25250
+"11818404","CONSERVATIVE REPUBLICANS OF TEXAS","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",9104.36
+"11823939","WEBSTER SURGICAL SPECIALTY HOSPITAL","Health Professionals","Health","Other physician specialists",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",19000
+"11855591","CARRIAGE HOUSE PARTNERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",8.14393923969812,91.8560607603019,"#D60000AF","#D60000AF",12279.07
+"11859644","GERMANIA FARM MUTUAL","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",4000
+"11916189","GARDERE WYNNE SEWELL LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",12.5,87.5,"#C20000AF","#C20000AF",12000
+"11925822","POSEY LAW FIRM PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",3450
+"11931","EMPOWER TEXANS","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",295530.5
+"11935","TXU ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",50,50,"#000000AF","#000000AF",13000
+"11939","ENERGY TRANSFER PARTNERS","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",20,80,"#990000AF","#9E0000AF",10000
+"11951","ENTERPRISE PRODUCTS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",0,100,"#FF0000AF","#FF0000AF",5000
+"11953976","EDP RENEWABLES NORTH AMERICA","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",0,100,"#FF0000AF","#FF0000AF",1750
+"12071212","INDEPENDENT BANKERS ASSOCIATION OF TEXAS","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",8.78014222826965,91.2198577717303,"#D60000AF","#D60000AF",39862.68
+"12075546","MJB OPERATING LP","Lodging & Tourism","General Business","Hotels & motels",0,100,"#FF0000AF","#FF0000AF",14500
+"1210","HENNINGSON DURHAM & RICHARDSON / HDR","Construction Services","Construction","Engineering, architecture & construction management services",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"1233","HEWLETT PACKARD","Electronics Manufacturing & Services","Communications & Electronics","Electronics manufacturing & services",43.75,56.25,"#240000AF","#240000AF",8000
+"12365","GALLAGHER LAW FIRM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",25000
+"12475","GLAZERS INC","Beer, Wine & Liquor","General Business","Liquor wholesalers",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",11000
+"1252","HNTB CORP","Construction Services","Construction","Engineering, architecture & construction management services",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",750
+"12580","GREATER HOUSTON BUILDERS ASSOCIATION","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",2250
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",1500
+"12769","HEALTH CARE SERVICE CORPORATION","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",16500
+"1277","HUMANA","Health Services","Health","HMOs",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",11000
+"12786","HEARTPLACE","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",31500
+"12847","HILLCO PARTNERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",13.1938787140067,86.8061212859933,"#BD0000AF","#BD0000AF",89056.45
+"12969","HOUSTON POLICE OFFICERS UNION","Public Sector Unions","Labor","Police & fire fighters unions and associations",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",36000
+"130","AMERICAN ELECTRIC POWER","Electric Utilities","Energy & Natural Resources","Electric power utilities",4,96,"#EB0000AF","#EB0000AF",25000
+"1363","JACKSON WALKER LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",27000
+"13691","LICENSED BEVERAGE DISTRIBUTORS","Beer, Wine & Liquor","General Business","Alcohol",31.4814814814815,68.5185185185185,"#610000AF","#610000AF",27000
+"13712271","CONGRESS AVENUE PARTNERS","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",4500
+"13712763","TEXAS FOOD & FUEL ASSOCIATION","Oil & Gas","Energy & Natural Resources","Gasoline service stations",0,100,"#FF0000AF","#FF0000AF",24500
+"13713300","TEXAS AMBULATORY SURGERY CENTER SOCIETY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",11000
+"13715293","TEXAS ORAL & MAXILLOFACIAL SURGEONS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"13723626","CROSS OAK GROUP LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",12.9032258064516,87.0967741935484,"#C20000AF","#C20000AF",15500
+"14003269","TEXAS PROPERTY TAX LIENHOLDERS ASSOCIATION","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",50,50,"#000000AF","#000000AF",2000
+"14043","MCGUIREWOODS LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",21.2121212121212,78.7878787878788,"#940000AF","#940000AF",16500
+"1457","KOCH INDUSTRIES","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",29000
+"1499","LANDRYS RESTAURANTS","Food & Beverage","General Business","Restaurants & drinking establishments",20,80,"#990000AF","#9E0000AF",5000
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",8500
+"15479","RESCARE INC","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",1750
+"15807917","TARGA RESOURCES CORPORATION TEXAS","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",10,90,"#CC0000AF","#D10000AF",5000
+"15900","SERVICE CORP INTERNATIONAL","Miscellaneous Services","General Business","Funeral services",0,100,"#FF0000AF","#FF0000AF",5500
+"15996534","TEXAS AFFILIATION OF AFFORDABLE HOUSING PROVIDERS PAC INC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"15997162","TEXAS ACADEMY OF NUTRITION & DIETETICS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"16105396","PEDIATRIC DENTIST","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"16105407","AG-AIR","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"16107","SPECTRA ENERGY","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",0,100,"#FF0000AF","#FF0000AF",3000
+"1625","MARATHON OIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",15,85,"#B30000AF","#B30000AF",10000
+"16352931","TEXAS BAIL","Miscellaneous Finance","Finance, Insurance & Real Estate","Bail Bond Services",71.1864406779661,28.8135593220339,"#00006BAF","#00006BAF",14750
+"16432","TEXAS AGRICULTURAL COOPERATIVE COUNCIL","Agricultural Services & Products","Agriculture","Farm organizations & cooperatives",14.0845070422535,85.9154929577465,"#B80000AF","#B80000AF",3550
+"16435","TEXAS ASSOCIATION OF DEFENSE COUNSEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",10000
+"16436","TEXAS ASSOCIATION OF HEALTH UNDERWRITERS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",12000
+"16437","TEXAS ASSOCIATION OF LIFE & HEALTH INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",18.4049079754601,81.5950920245399,"#A30000AF","#A30000AF",8150
+"16442","TEXAS CATTLE FEEDERS ASSOCIATION","Livestock","Agriculture","Livestock",0,100,"#FF0000AF","#FF0000AF",9500
+"16444","TEXAS CONSTRUCTION ASSOCIATION","General Contractors","Construction","Builders associations",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",75000
+"16447","TEXAS DEER ASSOCIATION","Hunting","Energy & Natural Resources","Hunting & wildlife",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",18000
+"16461","TEXAS LOBBY GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",2174.03
+"16470","TEXAS PIPELINE ASSOCIATION","Oil & Gas","Energy & Natural Resources","Oil & gas",25,75,"#800000AF","#800000AF",2000
+"16472","TEXAS POULTRY FEDERATION","Poultry & Eggs","Agriculture","Poultry & eggs",14.8148148148148,85.1851851851852,"#B80000AF","#B80000AF",6750
+"16476","TEXAS RIGHT TO LIFE","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-life",0,100,"#FF0000AF","#FF0000AF",3500
+"16480","TEXAS TECH ALUMNI & FRIENDS","Education","Government Agencies/Education/Other","Schools & colleges",48.3870967741936,51.6129032258064,"#0A0000AF","#0A0000AF",15500
+"16484","TEXAS VETERINARY MEDICAL ASSOCIATION","Agricultural Services & Products","Agriculture","Veterinarians",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",14000
+"16486","TEXAS WILDLIFE ASSOCIATION","Hunting","Energy & Natural Resources","Hunting & wildlife",0,100,"#FF0000AF","#FF0000AF",6000
+"16549","THOMPSON COE COUSINS & IRONS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2500
+"1656","MAXXAM INC","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",7.39707342187137,92.6029265781286,"#DB0000AF","#DB0000AF",67594.3
+"16642128","NAIFA-TEXAS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"16643801","OLD AMERICAN CAPITAL CORPORATION","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",10500
+"16646735","MCFARLIN & ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"16646813","ELON MUSK REVOCABLE TRUST","Automotive","Transportation","Auto manufacturers",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"16683096","CONGRESS VENTURES LLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2050
+"16686864","RURAL FRIENDS OF ELECTRIC COOPERATIVES","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",0,100,"#FF0000AF","#FF0000AF",16500
+"16727095","SCHWARTZ, PAGE & HARDING LLP","Uncoded","Uncoded","Uncoded",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",6500
+"1675","MCKESSON CORP","Health Services","Health","Health care services",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",8500
+"16785097","REAL ESTATE COUNCIL COMMUNITY LEADERSHIP COMMITTEE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"16950","WALTER FISHER & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",4500
+"17","ACADIAN AMBULANCE","Health Services","Health","Health care services",8.69565217391304,91.304347826087,"#D60000AF","#D60000AF",5750
+"17008","WASTE CONTROL SPECIALISTS","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",20500
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",11250
+"17037430","TEXAS STATE RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",7625
+"17043","WEEKLEY PROPERTIES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",0,100,"#FF0000AF","#FF0000AF",15000
+"17056","WELLPOINT INC","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",11.5384615384615,88.4615384615385,"#C70000AF","#C70000AF",13000
+"1725","MICROSOFT","Computer Equipment & Services","Communications & Electronics","Computer software",25,75,"#800000AF","#800000AF",2000
+"17272","ZACHARY CONSTRUCTION","General Contractors","Construction","Public works, industrial & commercial construction",40,60,"#330000AF","#330000AF",12500
+"1741122","SUSAN COMBS CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2000
+"17524798","CAPITOL ANESTHESIOLOGY ASSOCIATION","Uncoded","Uncoded","Uncoded",52.6315789473684,47.3684210526316,"#00000AAF","#00000AAF",9500
+"17525777","TARRANT STAR REPUBLICAN WOMEN","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",200
+"17564457","THOMPSON & HORTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",44.4444444444444,55.5555555555556,"#1F0000AF","#1F0000AF",4500
+"1758","MONSANTO","Agricultural Services & Products","Agriculture","Agricultural services & related industries",0,100,"#FF0000AF","#FF0000AF",5000
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",0,100,"#FF0000AF","#FF0000AF",8750
+"18807","TEXAS OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",14.2372881355932,85.7627118644068,"#B80000AF","#B80000AF",147500
+"18902","TEXAS HEALTH CARE ASSOCIATION","Hospitals & Nursing Homes","Health","Nursing homes",34.2857142857143,65.7142857142857,"#520000AF","#520000AF",17500
+"18929296","EDF RENEWABLE ENERGY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"18929519","ABBVIE INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",20.6896551724138,79.3103448275862,"#990000AF","#990000AF",14500
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",88.2352941176471,11.7647058823529,"#0000C2AF","#0000C2AF",8500
+"1915","NRG ENERGY","Electric Utilities","Energy & Natural Resources","Independent power generation & cogeneration",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",35000
+"1917","NUCOR CORP","Steel","Energy & Natural Resources","Steel manufacturing",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",7500
+"19252","TEXAS FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",87.8787878787879,12.1212121212121,"#0000BDAF","#0000BDAF",16500
+"1926","OCCIDENTIAL PETROLEUM","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",28000
+"193","AMERISOURCEBERGEN CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",20,80,"#990000AF","#9E0000AF",5000
+"19473","FORT WAYNE PROFESSIONAL FIRE FIGHTERS LOCAL 124","Public Sector Unions","Labor","Police & fire fighters unions and associations",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",12000
+"19477","HOUSTON PROFESSIONAL FIRE FIGHTERS LOCAL 341","Public Sector Unions","Labor","Police & fire fighters unions and associations",36.6666666666667,63.3333333333333,"#470000AF","#470000AF",60000
+"19529","SAN ANTONIO PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"19537","TEXAS STATE ASSOCIATION OF FIRE FIGHTERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",29.7872340425532,70.2127659574468,"#6B0000AF","#6B0000AF",11750
+"198","ANADARKO PETROLEUM","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",12000
+"19807","TEAMSTERS LOCAL 988","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",7500
+"2016450","FLORENCE SHAPIRO CAMPAIGN FUND","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",10500
+"20171","TEXAS AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",9750
+"20266","TEXAS STATE TEACHERS ASSOCIATION","Public Sector Unions","Labor","Teachers unions",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",36000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",3.77358490566038,96.2264150943396,"#F00000AF","#F00000AF",13250
+"204","ANDREWS & KURTH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",31.7073170731707,68.2926829268293,"#610000AF","#610000AF",20500
+"20611","PLUMBERS & PIPEFITTERS LOCAL 68","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",14000
+"2067","PIONEER NATURAL RESOURCES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",10961.7
+"20729","TEXAS AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",3500
+"2081","PNM RESOURCES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",2500
+"2097","PRAXAIR","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",3000
+"21","ACE CASH EXPRESS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",11000
+"21049","ASSOCIATED BUILDERS & CONTRACTORS OF TEXAS","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",17000
+"212","APACHE CORP","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",6500
+"2121","PROVOST & UMPHREY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50.9803921568627,49.0196078431373,"#000000AF","#000000AF",51000
+"2124","PRUDENTIAL FINANCIAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",20,80,"#990000AF","#9E0000AF",5000
+"214","APOLLO GROUP","Education","Government Agencies/Education/Other","Schools & colleges",50,50,"#000000AF","#000000AF",2000
+"2175","RAYTHEON","Defense Electronics","Defense","Defense electronic contractors",10.8108108108108,89.1891891891892,"#CC0000AF","#CC0000AF",9250
+"218","AQUA AMERICA","Water Utilities","Energy & Natural Resources","Water utilities",50,50,"#000000AF","#000000AF",4000
+"2205","RENT-A-CENTER","Retail Sales","General Business","Furniture & appliance stores",0,100,"#FF0000AF","#FF0000AF",3500
+"2207","REPUBLIC NATIONAL DISTRIBUTING CO","Beer, Wine & Liquor","General Business","Liquor wholesalers",22.0779220779221,77.9220779220779,"#8F0000AF","#8F0000AF",38500
+"22207078","SECURITY FINANCE CORPORATION OF SPARTANBURG & AFFILIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"22214699","TEXANS FOR EDUCATION REFORM","Public Education Policy","Ideology/Single Issue","School Choice Advocates",7.84313725490196,92.156862745098,"#DB0000AF","#DB0000AF",255000
+"2258075","ENCORE CAPITAL","Securities & Investment","Finance, Insurance & Real Estate","Venture capital",0,100,"#FF0000AF","#FF0000AF",4000
+"22775821","BRAZOS PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"22869935","HUITT-ZOLLARS INC TEXAS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1250
+"23096780","LONGBOW PARTNERS LLP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"23102021","RABA-KISTNER PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"23136785","TEXAS MCDONALD'S OPERATORS ASSOCIATION PAC INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"23148743","BRENTWOOD PUBLIC AFFAIRS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"23166096","CAPITOL 405 GROUP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"23204106","ER PHYSICIANS OF TEXAS, PA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3250
+"23214460","SCHWARTZ PAGE & HARDING LLP","Uncoded","Uncoded","Uncoded",80,20,"#000099AF","#000099AF",2500
+"23266491","US ANESTHESIA PARTNERS OF TEXAS","Health Professionals","Health","Other physician specialists",20.5882352941176,79.4117647058823,"#990000AF","#990000AF",17000
+"2351","SERVICE EMPLOYEES INTERNATIONAL UNION / SEIU","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",6500
+"2434","SOUTHWEST AIRLINES","Air Transport","Transportation","Airlines",20,80,"#990000AF","#9E0000AF",5000
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",40,60,"#330000AF","#330000AF",5000
+"2467","STATE FARM","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",2000
+"24723665","OLDCASTLE MATERIALS","Building Materials & Equipment","Construction","Building materials",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"24797781","SAFELITE","Uncoded","Uncoded","Uncoded",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",2250
+"25008627","TEXAS OSTEOPATHIC MEDICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",21.4285714285714,78.5714285714286,"#940000AF","#940000AF",3500
+"25237399","LONGBOW CONSULTING PARTNERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",11500
+"25253275","TEXAS AIR CONDITIONING CONTRACTORS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"25288943","SLEDGE FANCHER PLLC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",10000
+"2572","TENET HEALTHCARE","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",1500
+"2581","TEXAS & SOUTHWESTERN CATTLE RAISERS ASSOCIATION","Livestock","Agriculture","Livestock",6.74157303370786,93.2584269662921,"#E00000AF","#E00000AF",44500
+"2584163","PROPERTY CASUALTY INSURERS ASSOCIATION OF AMERICA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",2000
+"2586","TEXAS INSTRUMENTS","Computer Equipment & Services","Communications & Electronics","Computers, components & accessories",40,60,"#330000AF","#330000AF",5000
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",14.3569788125449,85.643021187455,"#B80000AF","#B80000AF",121891.94
+"2606106","TENASKA","Miscellaneous Energy","Energy & Natural Resources","Power plant construction & equipment",7.14285714285714,92.8571428571429,"#DB0000AF","#DB0000AF",14000
+"2612","TIME WARNER CABLE","Telecom Services & Equipment","Communications & Electronics","Telecommunications",16.0150593686649,83.9849406313351,"#AD0000AF","#AD0000AF",172650
+"2636","TRAVELERS COMPANIES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"2648","TRINITY INDUSTRIES","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",0,100,"#FF0000AF","#FF0000AF",3000
+"266","ATMOS ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",8.59375,91.40625,"#D60000AF","#D60000AF",64000
+"26733738","ONE GAS INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",25,75,"#800000AF","#800000AF",1000
+"2675","UNION PACIFIC RAILROAD","Railroads","Energy & Natural Resources","Railroads",15.2671755725191,84.7328244274809,"#B30000AF","#B30000AF",65500
+"2679","UNITED AIRLINES","Air Transport","Transportation","Airlines",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",7000
+"26824087","HOME THERAPY ADVOCATES FOR KIDS","Health Professionals","Health","Other non-physician health practitioners",37.5,62.5,"#420000AF","#420000AF",4000
+"2688","UNITED SURGICAL PARTNERS INTERNATIONAL","Health Professionals","Health","Other physician specialists",0,100,"#FF0000AF","#FF0000AF",2250
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",0,100,"#FF0000AF","#FF0000AF",3500
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",9750
+"26980538","RON LEWIS & ASSOCIATES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"26989890","TEXAS STRATEGY GROUP","Uncoded","Uncoded","Uncoded",12.5,87.5,"#C20000AF","#C20000AF",4000
+"26990030","TEXAS ASSOCIATION OF MUTUAL INS CO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"2710","UPS","Air Transport","Transportation","Express delivery services",23.8095238095238,76.1904761904762,"#8A0000AF","#8A0000AF",21000
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",10.018757977436,89.981242022564,"#CC0000AF","#CC0000AF",69868.94
+"27241147","TEXAS PSYCHOLOGICAL ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"2725","VALERO ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",0,100,"#FF0000AF","#FF0000AF",22000
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",16.8674698795181,83.1325301204819,"#AD0000AF","#AD0000AF",20750
+"274898","UNITEDHEALTH GROUP","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",6500
+"2753","VINSON & ELKINS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",3500
+"27689157","TEXAS TAXI","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"27711597","TEXAS COALITION OF DENTAL SERVICE ORGANIZATIONS","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",15000
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",18.8679245283019,81.1320754716981,"#A30000AF","#A30000AF",26500
+"279084","MEDNAX SERVICES","Health Professionals","Health","Physicians",11.9047619047619,88.0952380952381,"#C70000AF","#C70000AF",42000
+"2811268","TRANSPORT WORKERS UNION OF AMERICA / TWU","Transportation Unions","Labor","Transportation unions",100,0,"#0000FFAF","#0000FFAF",3500
+"28136704","CERNER CORPORATION","Health Services","Health","Health care services",0,100,"#FF0000AF","#FF0000AF",9000
+"2818","WELLS FARGO","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",20,80,"#990000AF","#9E0000AF",20000
+"28242538","TXWIN PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1300
+"28258952","TEXAS NURSERY & LANDSCAPE ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"28270256","TEXAS MOTOR TRANSPORTATION ASSOCIATION TRUCKPAC","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"28288306","SIERRA CLUB POLITICAL COMMITTEE OF TEXAS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1750
+"2868","WILLIAMS COMPANIES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",3000
+"2880","WINDSTREAM COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",3500
+"2886","WINSTEAD SECHREST & MINICK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",23.2876712328767,76.7123287671233,"#8A0000AF","#8A0000AF",36500
+"28943095","TEXAS AGRICULTURE COOPERATIVE COUNCIL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"28964259","TEXAS CIGAR MERCHANTS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"28964345","TEX HY","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",7500
+"28966656","FRIENDS OF TAMU ENGINEERING","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"28987295","TEXAS ASSOCIATION OF PROPERTY TAX PROFESSIONALS","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"28990258","CREDIT UNION COALITION OF TEXAS FRIENDS OF CREDIT UNIONS","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6000
+"28993739","NATIONAL CHILD CARE COALITION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"2908","XCEL ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",6000
+"29315578","SCOPE","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"29326283","IRONWORKERS DISTRICT COUNCIL OF TEXAS & THE MIDSOUTH STATES","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",3000
+"29334861","TEXAS BUSINESS & COMMERCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4500
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",7500
+"298","BANK OF AMERICA","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",20,80,"#990000AF","#9E0000AF",15000
+"3050","TEXAS AGGREGATES & CONCRETE ASSOCIATION","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",4.34782608695652,95.6521739130435,"#EB0000AF","#EB0000AF",23000
+"3108","TEXAS APARTMENT ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",11.6363636363636,88.3636363636364,"#C70000AF","#C70000AF",137500
+"311","BARON & BUDD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",10.7142857142857,89.2857142857143,"#CC0000AF","#CC0000AF",28000
+"3137","ASSOCIATED GENERAL CONTRACTORS OF TEXAS","General Contractors","Construction","Builders associations",10.7797340998922,89.2202659001078,"#CC0000AF","#CC0000AF",139150
+"3193","TEXAS AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",15.6521739130435,84.3478260869565,"#B30000AF","#B30000AF",57500
+"3200","BAKER & BOTTS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",15.0943396226415,84.9056603773585,"#B30000AF","#B30000AF",26500
+"3209","INDEPENDENT BANKERS ASSOCIATION OF TEXAS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",9500
+"3224","BEER ALLIANCE OF TEXAS","Beer, Wine & Liquor","General Business","Liquor wholesalers",27.2727272727273,72.7272727272727,"#750000AF","#750000AF",66000
+"3225","WHOLESALE BEER DISTRIBUTORS OF TEXAS","Beer, Wine & Liquor","General Business","Liquor wholesalers",19.5591261205982,80.4408738794018,"#9E0000AF","#9E0000AF",71577.84
+"323","BASF","Chemical & Related Manufacturing","General Business","Chemicals",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"3250","BP NORTH AMERICA","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",9500
+"3264","BRISTOL-MYERS SQUIBB","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",40,60,"#330000AF","#330000AF",2500
+"33","ADVANCE AMERICA CASH ADVANCE CENTERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",6000
+"3303","CAREER COLLEGES & SCHOOLS OF TEXAS","Education","Government Agencies/Education/Other","Technical, business & vocational schools and services",43.75,56.25,"#240000AF","#240000AF",4000
+"3316288","LOCOMOTIVE ENGINEERS & TRAINMEN UNIDENTIFIED","Transportation Unions","Labor","Railroad unions",100,0,"#0000FFAF","#0000FFAF",2500
+"3332535","PHILLIPS 66","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",9.67590932889039,90.3240906711096,"#D10000AF","#D10000AF",15509.24
+"3394","CHESAPEAKE ENERGY","Oil & Gas","Energy & Natural Resources","Oil & gas",5.74712643678161,94.2528735632184,"#E60000AF","#E60000AF",43500
+"3406","CONTINENTAL CASUALTY DBA CNA INSURANCE CORP","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"3412","COCA-COLA","Food & Beverage","General Business","Beverages (non-alcoholic)",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"3473","TEXAS DENTAL ASSOCIATION","Health Professionals","Health","Dentists",12.1495327102804,87.8504672897196,"#C20000AF","#C20000AF",53500
+"3615","EXELON","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",27.8688524590164,72.1311475409836,"#750000AF","#750000AF",61000
+"3626","TEXAS FARM BUREAU","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",14.5204281873379,85.4795718126621,"#B80000AF","#B80000AF",31090.13
+"3689180","CNA FINANCIAL CORPORATION","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",4000
+"36964376","CAREMARK RX INC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",8000
+"374926","ASSOCIATIONS INC","Real Estate","Finance, Insurance & Real Estate","Other real estate services, appraisals",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",15000
+"3793","GENENTECH INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2500
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",1500
+"3832","TEXAS ASSOCIATION OF HOME BUILDERS","Home Builders","Construction","Residential construction",11.2359550561798,88.7640449438202,"#C70000AF","#C70000AF",44500
+"3839","TEXAS HOSPITAL ASSOCIATION","Hospitals & Nursing Homes","Health","Hospitals",16.40625,83.59375,"#AD0000AF","#AD0000AF",64000
+"3840","HOSPITAL CORP OF AMERICA","Hospitals & Nursing Homes","Health","Hospitals",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",19500
+"385","BOEING CO","Air Transport","Transportation","Aircraft manufacturers",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",9000
+"3858","TEXAS INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",3000
+"3860","INDEPENDENT INSURANCE AGENTS OF TEXAS","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",14.3254198016521,85.6745801983479,"#B80000AF","#B80000AF",157063.46
+"3902","JP MORGAN CHASE","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",26.6666666666667,73.3333333333333,"#7A0000AF","#7A0000AF",7500
+"391","BORDER HEALTH","Hospitals & Nursing Homes","Health","Health care institutions",47.6190476190476,52.3809523809524,"#0F0000AF","#0F0000AF",105000
+"39714","NUSTAR ENERGY","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",5.12820512820513,94.8717948717949,"#E60000AF","#E60000AF",19500
+"39949001","COATS ROSE YALE RYMAN & LEE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25,75,"#800000AF","#800000AF",8000
+"39949169","TEXAS ALLIANCE OIL & GAS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4000
+"401","BRACEWELL & GIULIANI","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",46.1538461538462,53.8461538461538,"#140000AF","#140000AF",6500
+"4013","TEXAS LEAGUE OF CONSERVATION VOTERS","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",18000
+"40134482","TEXAS DEPARTMENT OF PUBLIC SAFETY OFFICERS ASSOCIATION","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",8000
+"40151927","HOTEL PAC OF THE TEXAS HOTEL & LODGING ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"40209061","JOHNSON & JOHNSON ATTORNEY AT LAW","Uncoded","Uncoded","Uncoded",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",2750
+"4050","TEXAS MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",10500
+"40613681","RADIOSHACK GOVERNMENT ACTION FUND","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",500
+"40616594","ONE CALL CONCEPTS","Uncoded","Uncoded","Uncoded",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",3250
+"40619272","HALFF ASSOCIATES STATE","Uncoded","Uncoded","Uncoded",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"40619282","TEXAS CANCER","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"40619298","DALLAS CHAPTER TSCPA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"40619301","GHA HEALTHCARE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",17500
+"40619305","LUMPAC","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",6000
+"40619323","TEXAS SOCIETY OF PROFESSIONAL SURVEYORS SURPAC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",5000
+"40619365","TEXAS WATERWAY OPERATORS ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"40619375","LAN-PAC","Uncoded","Uncoded","Uncoded",40,60,"#330000AF","#330000AF",2500
+"40619500","SABINE PILOT SERVICE","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",400
+"40619755","BICKERSTAFF HEATH DELGADO ACOSTA LLP","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000
+"40619756","SUDDENLINK TEXAS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"4075","TEXAS MEDICAL ASSOCIATION","Health Professionals","Health","Physicians",6.51723989175466,93.4827601082453,"#E00000AF","#E00000AF",398941.89
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",0,100,"#FF0000AF","#FF0000AF",3080.96
+"4245507","THEATRICAL STAGE EMPLOYEES LOCAL 484","General Trade Unions","Labor","Entertainment unions",57.8947368421053,42.1052631578947,"#000024AF","#000024AF",4750
+"435","BNSF RAILWAY","Railroads","Energy & Natural Resources","Railroads",21.0191082802548,78.9808917197452,"#940000AF","#940000AF",39250
+"43555576","TEXAS ACADEMY OF AUDIOLOGY","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"43555941","GHBA HOME","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"43556174","TEX-PIPE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"43557405","TEXAS ECONOMIC DEVELOPMENT COUNCIL","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",4000
+"43557530","RON LEWIS & ASSOCIATES POLITICAL FUND","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",4000
+"43558648","TCEP","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5500
+"43559507","HOTEL PAC OF THLA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5500
+"43559524","ARANSAS-CORPUS CHRISTI PILOTS","Uncoded","Uncoded","Uncoded",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"43559531","TEXAS RURAL WATER","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",3000
+"43559547","TNLA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2250
+"43559565","TARO","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"43559617","NAIFA TEXAS IFAPAC","Uncoded","Uncoded","Uncoded",22.7272727272727,77.2727272727273,"#8F0000AF","#8F0000AF",11000
+"43559715","TRUCK","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",4000
+"43559788","TEXANS FOR SECURE RETIREMENT","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",6000
+"43561382","TOMA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3000
+"43561727","LAKE CONROE AREA REPUBLICAN WOMEN","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",400
+"43561911","ARLINGTON REPUBLICAN CLUB PWR","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",4750
+"43623415","US ONCOLOGY NETWORK","Uncoded","Uncoded","Uncoded",16.6666666666667,83.3333333333333,"#AD0000AF","#AD0000AF",13500
+"44","AECOM","Construction Services","Construction","Engineering, architecture & construction management services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",3000
+"4456","TEXAS ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",13.693033417111,86.306966582889,"#BD0000AF","#BD0000AF",515590.65
+"4467","TEXAS RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",112500
+"464","CALPINE CORP","Electric Utilities","Energy & Natural Resources","Independent power generation & cogeneration",37.5,62.5,"#420000AF","#420000AF",4000
+"4675","TEXANS FOR LAWSUIT REFORM","Business Associations","General Business","Pro-business organizations",0.355667124802281,99.6443328751977,"#FF0000AF","#FF0000AF",2108713.31
+"4676","AMERICAN INSTITUTE OF ARCHITECTS TEXAS","Construction Services","Construction","Architectural services",19.53125,80.46875,"#9E0000AF","#9E0000AF",64000
+"4677","TEXAS CONSUMER FINANCE ASSOCIATION","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",51000
+"4681","TEXAS OIL & GAS ASSOCIATION","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",50000
+"4683","TEXAS SOCIETY OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",21000
+"481","CAPITAL ONE FINANCIAL CORP","Finance & Credit Companies","Finance, Insurance & Real Estate","Credit agencies & finance companies",0,100,"#FF0000AF","#FF0000AF",3500
+"4936","TEXAS REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",21272.3
+"4937","TEXAS DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",39980.6
+"5010764","KBR INC","Construction Services","Construction","Engineering, architecture & construction management services",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",4250
+"513","CASH AMERICA INTERNATIONAL","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",0,100,"#FF0000AF","#FF0000AF",20500
+"519","CATERPILLAR","Building Materials & Equipment","Construction","Construction equipment",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",5500
+"528","CENTENE CORP","Health Services","Health","HMOs",17.6470588235294,82.3529411764706,"#A80000AF","#A80000AF",8500
+"529","CENTERPOINT ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",17.5595854806833,82.4404145193167,"#A80000AF","#A80000AF",44880.9
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",9.30232558139535,90.6976744186046,"#D10000AF","#D10000AF",10750
+"5424","SECURITY SERVICE FEDERAL CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",0,100,"#FF0000AF","#FF0000AF",1500
+"548","CH2M HILL","Construction Services","Construction","Engineering, architecture & construction management services",13.3333333333333,86.6666666666667,"#BD0000AF","#BD0000AF",3750
+"566","CHEVRON CORP","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",12000
+"574","CHICKASAW NATION","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",32.2033898305085,67.7966101694915,"#5C0000AF","#5C0000AF",88500
+"576","CHOCTAW NATION OF OKLAHOMA","Tribal Governments","Government Agencies/Education/Other","Native American tribes & governing units",0,100,"#FF0000AF","#FF0000AF",30000
+"584","CIGNA CORP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",9500
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",11500
+"600740","SANOFI US","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",25,75,"#800000AF","#800000AF",4000
+"63632","LYONDELLBASELL","Chemical & Related Manufacturing","General Business","Chemicals",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",14000
+"6367951","TXI","Building Materials & Equipment","Construction","Stone, clay, glass & concrete products",0,100,"#FF0000AF","#FF0000AF",7000
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",37.3134328358209,62.6865671641791,"#420000AF","#420000AF",33500
+"645","COMERICA BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",10500
+"650","COMMUNICATIONS WORKERS OF AMERICA / CWA","General Trade Unions","Labor","Communications & hi-tech unions",92.3076923076923,7.69230769230769,"#0000D6AF","#0000D6AF",26000
+"656","COMPASS BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",19.8412698412698,80.1587301587302,"#9E0000AF","#9E0000AF",25200
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",11000
+"6898","GEICO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3000
+"6964","GRAYDON GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",19.047619047619,80.9523809523809,"#9E0000AF","#9E0000AF",31500
+"6972590","LOCKE LORD BISSEL & LIDDELL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",6.7588940286523,93.2411059713477,"#E00000AF","#E00000AF",29590.64
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",0,100,"#FF0000AF","#FF0000AF",21000
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",6500
+"7543","LINBARGER GOGGAN BLAIR & SAMPSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",30.6122448979592,69.3877551020408,"#660000AF","#660000AF",49000
+"773","DELOITTE","Accountants","Finance, Insurance & Real Estate","Accountants",8.33333333333333,91.6666666666667,"#D60000AF","#D60000AF",12000
+"788","DEVON ENERGY","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",0,100,"#FF0000AF","#FF0000AF",11000
+"7991","NATIONAL ASSOCIATION OF INSURANCE & FINANCIAL ADVISORS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",3500
+"8162063","DENBURY RESOURCES","Oil & Gas","Energy & Natural Resources","Oil & gas",0,100,"#FF0000AF","#FF0000AF",18500
+"8199291","LOUISIANA INDEPENDENT COMMUNITY PHARMACIES","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",7500
+"8216456","DELISI COMMUNICATIONS","Business Services","General Business","Political consultants & advisers",0,100,"#FF0000AF","#FF0000AF",9500
+"8313","ONEOK INC","Oil & Gas","Energy & Natural Resources","Natural gas transmission & distribution",20,80,"#990000AF","#9E0000AF",5000
+"8331868","SMART","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",7500
+"839","DOW CHEMICAL","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",17000
+"8569","K&L GATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",13.0434782608696,86.9565217391304,"#BD0000AF","#BD0000AF",23000
+"8641517","BASS BROTHERS ENTERPRISES","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",17500
+"8663","REPUBLIC SERVICES","Waste Management","Energy & Natural Resources","Waste management",0,100,"#FF0000AF","#FF0000AF",5000
+"8732075","HARDEN HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",11000
+"8771137","AUSTIN FIRE FIGHTERS LOCAL 975","Public Sector Unions","Labor","Police & fire fighters unions and associations",51.8518518518518,48.1481481481481,"#000005AF","#000005AF",6750
+"8784","RYAN & CO","Accountants","Finance, Insurance & Real Estate","Accountants",4.08163265306122,95.9183673469388,"#EB0000AF","#EB0000AF",122500
+"8952778","BRIDWELL, TUCKER S","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",0,100,"#FF0000AF","#FF0000AF",6000
+"8960432","TEXANS FOR VICTOR CARRILLO","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",6000
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",8000
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",20.7547169811321,79.2452830188679,"#990000AF","#990000AF",26500
+"913","ENTERGY CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",12.1212121212121,87.8787878787879,"#C20000AF","#C20000AF",33000
+"9134734","HANCE SCARBOROUGH","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",1000
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",47.0588235294118,52.9411764705882,"#0F0000AF","#0F0000AF",8500
+"9184","TEXANS FOR INSURANCE REFORM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",299008
+"9190","TEXAS CIVIL JUSTICE LEAGUE","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",6000
+"9335694","EL PASO ELECTRIC","Electric Utilities","Energy & Natural Resources","Electric power utilities",25,75,"#800000AF","#800000AF",10000
+"9407","WALLER LANSDEN DORTCH & DAVIS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2500
+"943","EXPRESS SCRIPTS","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",11000
+"9458","WELLCARE HEALTH PLANS","Health Services","Health","HMOs",16,84,"#AD0000AF","#AD0000AF",6250
+"946","EXXON MOBIL","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",25,75,"#800000AF","#800000AF",8000
+"947","EZCORP INC","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",62.5,37.5,"#00003DAF","#00003DAF",16000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",14000
+"958","FARMERS INSURANCE GROUP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",11.7647058823529,88.2352941176471,"#C70000AF","#C70000AF",42500
+"9596","TEXAS ASSOCIATION OF PAWNBROKERS","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",6000
+"9901","ALLEN BOONE HUMPHRIES ROBINSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",21.2345194228066,78.7654805771934,"#940000AF","#940000AF",61221.07
+"9950","AMERICAN COLLEGE OF OBSTETRICIANS & GYNECOLOGISTS","Health Professionals","Health","Other physician specialists",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",3000

@@ -1,0 +1,529 @@
+"EID","ContributorName","CatCodeIndustry","CatCodeGroup","CatCodeBusiness","PerDem","PerRep","DemCol","RepCol","Total"
+"10052","HOUSING INDUSTRY FOR RESPONSIBLE GOVERNMENT","General Contractors","Construction","Builders associations",87.8378378378378,12.1621621621622,"#0000BDAF","#0000BDAF",3700
+"1020","UNITED FOOD & COMMERCIAL WORKERS INTERNATIONAL UNION / UFCW","General Trade Unions","Labor","Retail trade unions",100,0,"#0000FFAF","#0000FFAF",4410
+"1034","FOUNDATION COAL","Mining","Energy & Natural Resources","Coal mining",0,100,"#FF0000AF","#FF0000AF",3500
+"10389","BIG TENT PAC","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",1750
+"10446","BLUE CROSS OF NORTHEASTERN PENNSYLVANIA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",21.8068535825545,78.1931464174455,"#940000AF","#940000AF",16050
+"10544","BRAVO GROUP","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",12.6147946311434,87.3852053688566,"#C20000AF","#C20000AF",5945.4
+"1078617","AMERICAN BIKERS ACTING TO EDUCATE/ABATE OF MASSACHUSETTS","Miscellaneous Transport","Transportation","Motorcycles, snowmobiles & other motorized vehicles",51.7412935323383,48.2587064676617,"#000005AF","#000005AF",20100
+"10815446","S&T BANK","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1750
+"10818692","PENNSYLVANIA","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"10824597","CHH","Uncoded","Uncoded","Uncoded",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",6800
+"1084","GENERAL ELECTRIC","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",6.25,93.75,"#E00000AF","#E00000AF",8000
+"10846","CAMPAIGN FOR PENNSYLVANIAS FUTURE","Conservative Policy Organization","Ideology/Single Issue","Republican-based groups (but not official party committees) and generic conservative ones",0,100,"#FF0000AF","#FF0000AF",35000
+"10867","CAPITAL BLUE CROSS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",69.4444444444444,30.5555555555556,"#000061AF","#000061AF",1800
+"1089","GENESEE & WYOMING","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",6077.32
+"1091","GENESIS HEALTHCARE","Hospitals & Nursing Homes","Health","Nursing homes",21.7391304347826,78.2608695652174,"#940000AF","#940000AF",4600
+"10936540","BLANK","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"1095","GENWORTH FINANCIAL","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",4000
+"10988","CENTRAL PENNSYLVANIANS FOR EFFECTIVE GOVERNMENT","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",91.6666666666667,8.33333333333333,"#0000D1AF","#0000D1AF",9000
+"11005036","PHILADELPHIA TRIAL LAWYERS ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",38.510101010101,61.489898989899,"#3D0000AF","#3D0000AF",158400
+"11036","CHH PARTNERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",87.5,12.5,"#0000BDAF","#0000BDAF",8000
+"11077","CITIZENS FOR A BETTER COMMONWEALTH","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",67.7698975571316,32.2301024428684,"#000057AF","#000057AF",126900
+"11079","CITIZENS FOR A GROWING ECONOMY","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",31.25,68.75,"#610000AF","#610000AF",11200
+"11100","CITIZENS WITH COMMON CENTS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",45.2830188679245,54.7169811320755,"#1A0000AF","#1A0000AF",26500
+"1116","GLAXOSMITHKLINE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",52.3809523809524,47.6190476190476,"#00000AAF","#00000AAF",12600
+"11273","COMMONWEALTH HERITAGE","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",35000
+"11450","CRISCI ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",44.408945686901,55.591054313099,"#1F0000AF","#1F0000AF",15650
+"1147","GREENBERG TRAURIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",50,50,"#000000AF","#000000AF",4000
+"1149","GREENLEE PARTNERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",12.5806597203602,87.4193402796398,"#C20000AF","#C20000AF",63589.67
+"11590","DEEM GUYS","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",73.7228959941198,26.2771040058802,"#000075AF","#000075AF",27210
+"11591","DEEP BLUE","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",2000
+"11631","DEMOCRACY FUND","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",63500
+"11699","DICKEY MCCAMEY & CHILCOTE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2500
+"11799","DUBLIN ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",96.4285714285714,3.57142857142857,"#0000EBAF","#0000EBAF",14000
+"11816","DUQUESNE LIGHT CO","Electric Utilities","Energy & Natural Resources","Electric power utilities",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",10200
+"11914","EMBARQ CORP","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",2330
+"11937","ENERGY RESOURCES GROUP","Miscellaneous Energy","Energy & Natural Resources","Alternative energy production & services",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"11989","ERIE INDEMNITY CO","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",6500
+"12053","ILLINOIS FAMILY INSTITUTE","Christian Conservative","Ideology/Single Issue","Christian Coalition, religious right",0,100,"#FF0000AF","#FF0000AF",2850
+"12078","FEINBERG SHOPP ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",22.4489795918367,77.5510204081633,"#8F0000AF","#8F0000AF",12250
+"1210","HENNINGSON DURHAM & RICHARDSON / HDR","Construction Services","Construction","Engineering, architecture & construction management services",83.0188679245283,16.9811320754717,"#0000A8AF","#0000A8AF",13250
+"1231","HERSHEY CO","Food Processing & Sales","Agriculture","Food & kindred products manufacturing",1.98517734250926,98.0148226574907,"#FA0000AF","#FA0000AF",15112
+"12559603","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 9","General Trade Unions","Labor","Construction unions",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",4750
+"12587","CHAMBER OF COMMERCE GREATER PITTSBURGH","Business Associations","General Business","Chambers of commerce",14.5631067961165,85.4368932038835,"#B80000AF","#B80000AF",5150
+"1269570","INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES / IUPAT","General Trade Unions","Labor","Construction unions",64.7709320695103,35.2290679304897,"#000047AF","#000047AF",31650
+"127","AMERICAN COUNCIL OF LIFE INSURERS","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2000
+"12700","HANKIN GROUP","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",90.4340776418088,9.56592235819118,"#0000CCAF","#0000CCAF",20907.55
+"12711","HARLEYSVILLE INSURANCE","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",36.3636363636364,63.6363636363636,"#470000AF","#470000AF",5500
+"12772","HEALTH PARTNERS OF PHILADELPHIA","Health Services","Health","HMOs",100,0,"#0000FFAF","#0000FFAF",2100
+"12834","HIGHMARK HEALTH","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",30.819942315616,69.180057684384,"#660000AF","#660000AF",60675
+"12848","HILLTOWN CROSSING","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",80.1587301587302,19.8412698412698,"#000099AF","#000099AF",25200
+"13109","IMPEL STRATEGIES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",50,50,"#000000AF","#000000AF",1000
+"13115","INDEPENDENCE BLUE CROSS","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",80.8936825885979,19.1063174114022,"#000099AF","#000099AF",6490
+"13121","INDEPENDENT STATE STORE UNION","General Trade Unions","Labor","Retail trade unions",95.0980392156863,4.90196078431373,"#0000E5AF","#0000E5AF",5100
+"13285","JEWISH COMMUNITY PAC OF PITTSBURGH","Minority & Disability Groups","Ideology/Single Issue","Minority & ethnic groups",83.3333333333333,16.6666666666667,"#0000A8AF","#0000A8AF",33000
+"13305","JOHN WORTHINGTON SOCIETY FOR LEADING LEGISLATION ON TRANSPORTATION","Automotive","Transportation","Automotive & trucking",100,0,"#0000FFAF","#0000FFAF",63000
+"13526","L & M ASSOCIATES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",93.1034482758621,6.89655172413793,"#0000DBAF","#0000DBAF",7250
+"13529","L R KIMBALL","Construction Services","Construction","Engineering, architecture & construction management services",13.4069400630915,86.5930599369085,"#BD0000AF","#BD0000AF",15850
+"13883","MAKE A DIFFERENCE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",39000
+"13891","MALT BEVERAGE DISTRIBUTORS ASSOCIATION OF PENNSYLVANIA","Beer, Wine & Liquor","General Business","Liquor wholesalers",48.7179487179487,51.2820512820513,"#0A0000AF","#0A0000AF",3900
+"14","ABBOTT LABORATORIES","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",50,50,"#000000AF","#000000AF",2000
+"14198","MILLIRON ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",30.3922781833931,69.6077218166069,"#660000AF","#660000AF",1939.44
+"14414","NATIONAL FUEL GAS","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",0,100,"#FF0000AF","#FF0000AF",20250
+"145","AMERICAN INSURANCE ASSOCIATION","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",47.1014492753623,52.8985507246377,"#0F0000AF","#0F0000AF",6900
+"14846","OUTDOOR ADVERTISING ASSOCIATION OF PENNSYLVANIA","Business Services","General Business","Outdoor advertising services",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",3300
+"14992","PENN NATIONAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",10500
+"14998","PENNSYLVANIA ASSOCIATION OF DEER FARMERS","Hunting","Energy & Natural Resources","Hunting & wildlife",63.6363636363636,36.3636363636364,"#000042AF","#000042AF",11550
+"14999","PENNSYLVANIA BEER WHOLESALERS ASSOCIATION","Beer, Wine & Liquor","General Business","Liquor wholesalers",79.5128727449586,20.4871272550414,"#000094AF","#000094AF",30018.85
+"15001","PENNSYLVANIA CABLE & TELECOMMUNICATIONS ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",13.8121546961326,86.1878453038674,"#BD0000AF","#BD0000AF",9050
+"15002","PENNSYLVANIA CEMETERY FUNERAL ASSOCIATION","Miscellaneous Services","General Business","Funeral services",19.1176470588235,80.8823529411765,"#9E0000AF","#9E0000AF",1700
+"15003","PENNSYLVANIA COMMUNITY PROVIDERS","Health Services","Health","Mental health services",50.561797752809,49.438202247191,"#000000AF","#000000AF",4450
+"15008","PENNSYLVANIA FOREST PRODUCTS ASSOCIATION","Forestry & Forest Products","Agriculture","Timber companies, sawmills, & others engaged in cutting down trees",3.06748466257669,96.9325153374233,"#F00000AF","#F00000AF",8150
+"15009","PENNSYLVANIA FUNERAL DIRECTORS ASSOCIATION","Miscellaneous Services","General Business","Funeral services",25,75,"#800000AF","#800000AF",2000
+"15012","PENNSYLVANIA LICENSED BEVERAGE ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",8.92857142857143,91.0714285714286,"#D60000AF","#D60000AF",5600
+"15013","PENNSYLVANIA OPTOMETRIC ASSOCIATION","Health Professionals","Health","Optometrists & ophthalmologists",23.5457063711911,76.4542936288089,"#8A0000AF","#8A0000AF",36100
+"15015","PENNSYLVANIA PSYCHOLOGICAL ASSOCIATION","Health Professionals","Health","Psychiatrists & psychologists",50.3472222222222,49.6527777777778,"#000000AF","#000000AF",14400
+"15016","PENNSYLVANIA RESTAURANT ASSOCIATION","Food & Beverage","General Business","Restaurants & drinking establishments",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",4900
+"15018","PENNSYLVANIA STATE CORRECTIONS OFFICES ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",18.3035714285714,81.6964285714286,"#A30000AF","#A30000AF",22400
+"15019","PENNSYLVANIA STATE TROOPERS ASSOCIATION","Public Sector Unions","Labor","Police & fire fighters unions and associations",44.297520661157,55.702479338843,"#1F0000AF","#1F0000AF",60500
+"15021","PENNSYLVANIA WOMENS CAMPAIGN FUND","Women's Issues","Ideology/Single Issue","Women's issues",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",5500
+"15126","PITTSBURGH FUTURE PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",17.2536436971229,82.7463563028771,"#A80000AF","#A80000AF",16518.25
+"15284","PUBLIC SERVICE PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic state politicians",100,0,"#0000FFAF","#0000FFAF",118000
+"15290","PUGLIESE ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",6.24843789052737,93.7515621094726,"#E00000AF","#E00000AF",24006
+"1537","LEWIS ECKERT ROBB & CO","Business Services","General Business","Management consultants & services",1.92678227360308,98.0732177263969,"#FA0000AF","#FA0000AF",25950
+"1540","LIBERTY MUTUAL INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3500
+"15597920","AGENT","Uncoded","Uncoded","Uncoded",17.5438596491228,82.4561403508772,"#A80000AF","#A80000AF",2850
+"15819048","PITTSBURGH PLUMBERS LOCAL 27","General Trade Unions","Labor","Construction unions",83.5411471321696,16.4588528678304,"#0000A8AF","#0000A8AF",20050
+"15820222","GREENLEE PARTNERS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1000
+"15919","SHEETZ","Oil & Gas","Energy & Natural Resources","Gasoline service stations",5.42168674698795,94.578313253012,"#E60000AF","#E60000AF",8300
+"15975419","LABORERS DISTRICT COUNCIL OF EASTERN PENNSYLVANIA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"15980323","SHAC","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",4500
+"16023","SNYDER ARMCLAR GAS","Oil & Gas","Energy & Natural Resources","Independent oil & gas producers",0,100,"#FF0000AF","#FF0000AF",3300
+"16192","STEVENS & LEE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",0,100,"#FF0000AF","#FF0000AF",11150
+"1623536","ACE GROUP HOLDINGS","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",3500
+"1650","MASSACHUSETTS MUTUAL LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2500
+"16619332","PA RJR NABISCO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",0,100,"#FF0000AF","#FF0000AF",2500
+"16619333","PENNSYLVANIA RJR NABISCO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",48.3870967741936,51.6129032258064,"#0A0000AF","#0A0000AF",6200
+"16679","TUCKER ARENSBERG PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25.089605734767,74.910394265233,"#800000AF","#800000AF",13950
+"16711","UGI UTILITIES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",29.7766749379653,70.2233250620347,"#6B0000AF","#6B0000AF",20150
+"16721","UNISON HEALTH PLAN","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",69.5238095238095,30.4761904761905,"#000061AF","#000061AF",26250
+"16798","VALUE DRUG","Retail Sales","General Business","Drug stores",17.9392824287029,82.0607175712971,"#A80000AF","#A80000AF",10870
+"1684","MCNEES WALLACE & NURICK","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",12300
+"1692","MEDCO HEALTH SOLUTIONS","Retail Sales","General Business","Drug stores",50,50,"#000000AF","#000000AF",8000
+"1700","BANK OF NEW YORK MELLON","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",24.0234375,75.9765625,"#850000AF","#850000AF",25600
+"1702","MERCK & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",14.1025641025641,85.8974358974359,"#B80000AF","#B80000AF",19500
+"170434","ACTBLUE","Liberal Policy Organization","Ideology/Single Issue","Democratic-based groups (but not official party committees) and generic liberal/progressive ones",100,0,"#0000FFAF","#0000FFAF",32024.23
+"1713","METROPOLITAN LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2500
+"1718","MICHAEL BAKER CORP","Construction Services","Construction","Engineering, architecture & construction management services",41.1764705882353,58.8235294117647,"#2E0000AF","#2E0000AF",8500
+"1748671","BLUE CROSS BLUE SHIELD OF PENNSYLVANIA","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",50.4752851711027,49.5247148288973,"#000000AF","#000000AF",52600
+"1748812","BOOTH & TUCKER LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",3750
+"1797","MYLAN INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",5.26315789473684,94.7368421052632,"#E60000AF","#E60000AF",4750
+"1830","NATIONAL CITY CORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",31.4516129032258,68.5483870967742,"#610000AF","#610000AF",6200
+"1854","NATIONAL RIFLE ASSOCIATION","Gun Control","Ideology/Single Issue","Anti-gun control",16.4835164835165,83.5164835164835,"#AD0000AF","#AD0000AF",9100
+"18597","ASSOCIATED BUILDERS & CONTRACTORS KEYSTONE CHAPTER","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",77875.71
+"1864","NATIONWIDE MUTUAL INSURANCE CO","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",13.9318885448916,86.0681114551084,"#BD0000AF","#BD0000AF",16150
+"18669","PENNSYLVANIA TELEPHONE ASSOCIATION","Telecom Services & Equipment","Communications & Electronics","Telecommunications",11.1111111111111,88.8888888888889,"#C70000AF","#C70000AF",2250
+"18801","PENNSYLVANIA COALITION OF NURSE PRACTITIONERS","Health Professionals","Health","Nurses",28.2828282828283,71.7171717171717,"#700000AF","#700000AF",2475
+"18802","PENNSYLVANIA PHARMACISTS ASSOCIATION","Health Professionals","Health","Pharmacists",20.3252032520325,79.6747967479675,"#990000AF","#990000AF",6150
+"1885","NEW YORK LIFE INSURANCE","Insurance","Finance, Insurance & Real Estate","Life insurance",0,100,"#FF0000AF","#FF0000AF",2000
+"18874","HOSPITAL & HEALTH SYSTEM ASSOCIATION OF PENNSYLVANIA","Hospitals & Nursing Homes","Health","Hospitals",18.6493791719098,81.3506208280902,"#A30000AF","#A30000AF",73890.02
+"18898","PENNSYLVANIA HEALTH CARE ASSOCIATION / CENTER FOR ASSISTED LIVING MANAGEMENT","Hospitals & Nursing Homes","Health","Nursing homes",13.5802469135802,86.4197530864197,"#BD0000AF","#BD0000AF",20250
+"1892","NISOURCE INC","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",10.5571847507331,89.4428152492669,"#CC0000AF","#CC0000AF",17050
+"18928","PENNSYLVANIA DENTAL HYGENISTS ASSOCIATION","Health Professionals","Health","Dentists",34.4086021505376,65.5913978494624,"#520000AF","#520000AF",2325
+"18948","PENNSYLVANIA CHAPTER NATIONAL ASSOCIATION OF SOCIAL WORKERS","Welfare/Social Work","Government Agencies/Education/Other","Welfare & social work",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",3150
+"1898","MISSISSIPPI RAILROAD ASSOCIATION NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroads",0,100,"#FF0000AF","#FF0000AF",2500
+"19114","AFSCME COUNCIL 13","Public Sector Unions","Labor","State & local government employee unions",89.8771790808241,10.1228209191759,"#0000C7AF","#0000C7AF",252400
+"19117","AMERICAN FEDERATION OF STATE COUNTY & MUNICIPAL EMPLOYEES / AFSCME","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",21000
+"19125","AFSCME DISTRICT COUNCIL 47","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",4500
+"19242","PENNSYLVANIA FEDERATION OF TEACHERS","Public Sector Unions","Labor","Teachers unions",79.0257104194858,20.9742895805142,"#000094AF","#000094AF",73900
+"19244","PITTSBURGH FEDERATION OF TEACHERS LOCAL 400","Public Sector Unions","Labor","Teachers unions",100,0,"#0000FFAF","#0000FFAF",1950
+"193","AMERISOURCEBERGEN CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical wholesale",50,50,"#000000AF","#000000AF",1000
+"19312","COMMUNICATIONS WORKERS LOCAL 13000","General Trade Unions","Labor","Communications & hi-tech unions",92.9824561403509,7.01754385964912,"#0000D6AF","#0000D6AF",14250
+"19343","PENNSYLVANIA STATE LODGE FRATERNAL ORDER OF POLICE","Public Sector Unions","Labor","Police & fire fighters unions and associations",35.5871886120996,64.4128113879004,"#4D0000AF","#4D0000AF",7025
+"19405","IRONWORKERS LOCAL 405","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",19900
+"19445115","AK STEEL CORPORATION","Steel","Energy & Natural Resources","Steel manufacturing",0,100,"#FF0000AF","#FF0000AF",1500
+"19515","PITTSBURGH FIRE FIGHTERS LOCAL 1","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1500
+"19579","BOILERMAKERS LOCAL 13","General Trade Unions","Labor","Construction unions",86.096256684492,13.903743315508,"#0000B8AF","#0000B8AF",9350
+"19580","BOILERMAKERS LOCAL 154","General Trade Unions","Labor","Construction unions",52.5,47.5,"#00000AAF","#00000AAF",4000
+"19615","ELECTRICAL WORKERS LOCAL 126","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",6000
+"19644","ELECTRICAL WORKERS LOCAL 29","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1600
+"19675","ELECTRICAL WORKERS LOCAL 5","General Trade Unions","Labor","Electrical workers/IBEW",53.7960954446855,46.2039045553145,"#00000FAF","#00000FAF",46100
+"19696","ELECTRICAL WORKERS LOCAL 712","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",1150
+"19700","ELECTRICAL WORKERS LOCAL 743","General Trade Unions","Labor","Electrical workers/IBEW",97.9591836734694,2.04081632653061,"#0000F0AF","#0000F0AF",24500
+"19712","ELECTRICAL WORKERS LOCAL 98","General Trade Unions","Labor","Electrical workers/IBEW",100,0,"#0000FFAF","#0000FFAF",342250
+"19750","TEAMSTERS LOCAL 830","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",8900
+"19753","TEAMSTERS JOINT COUNCIL 53","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",3100
+"19791","TEAMSTERS LOCAL 628","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",5000
+"198","ANADARKO PETROLEUM","Oil & Gas","Energy & Natural Resources","Oil & gas",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"19833","LONGSHOREMENS LOCAL 1291","Transportation Unions","Labor","Merchant marine & longshoremen unions",100,0,"#0000FFAF","#0000FFAF",11500
+"1990","PARSONS BRINCKERHOFF QUADE & DOUGLAS","Construction Services","Construction","Engineering, architecture & construction management services",73.0337078651685,26.9662921348315,"#000075AF","#000075AF",22250
+"19914","OPERATING ENGINEERS LOCAL 542","General Trade Unions","Labor","Construction unions",86.0627177700349,13.9372822299652,"#0000B8AF","#0000B8AF",28700
+"19919","OPERATING ENGINEERS LOCAL 66","General Trade Unions","Labor","Construction unions",26.8436578171091,73.1563421828909,"#7A0000AF","#7A0000AF",33900
+"19948","PAINTERS & ALLIED TRADES DISTRICT COUNCIL 21","General Trade Unions","Labor","Construction unions",93.9393939393939,6.06060606060606,"#0000DBAF","#0000DBAF",33000
+"19982","LABORERS DISTRICT COUNCIL OF THE METROPOLITAN AREA OF PHILADELPHIA & VICINITY","General Trade Unions","Labor","Construction unions",91.4893617021277,8.51063829787234,"#0000D1AF","#0000D1AF",188000
+"20119","WESTERN PENNSYLVANIA LABORERS","General Trade Unions","Labor","Construction unions",86.3689776733255,13.6310223266745,"#0000B8AF","#0000B8AF",85100
+"20164","PENNSYLVANIA AFL-CIO","General Trade Unions","Labor","Labor unions",73.4502923976608,26.5497076023392,"#000075AF","#000075AF",42750
+"20165","PHILADELPHIA COUNCIL AFL-CIO","General Trade Unions","Labor","Labor unions",100,0,"#0000FFAF","#0000FFAF",1850
+"2017","PEPPER HAMILTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",15.3846153846154,84.6153846153846,"#B30000AF","#B30000AF",6500
+"20261","PENNSYLVANIA STATE EDUCATION ASSOCIATION","Public Sector Unions","Labor","Teachers unions",59.5808436319793,40.4191563680207,"#00002EAF","#00002EAF",281995
+"20286","CEMENT MASONS LOCAL 592","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",25000
+"2034","PFIZER","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",6.5359477124183,93.4640522875817,"#E00000AF","#E00000AF",7650
+"20397","PENNSYLVANIA SOCIAL SERVICES LOCAL 668","Public Sector Unions","Labor","State & local government employee unions",81.9444444444444,18.0555555555556,"#00009EAF","#00009EAF",28800
+"20430","SERVICE EMPLOYEES LOCAL 32BJ","Public Sector Unions","Labor","State & local government employee unions",100,0,"#0000FFAF","#0000FFAF",3500
+"20467","SHEET METAL WORKERS LOCAL 19","General Trade Unions","Labor","Construction unions",88.3408071748879,11.6591928251121,"#0000C2AF","#0000C2AF",22300
+"20503","TRANSPORT WORKERS LOCAL 234","Transportation Unions","Labor","Other transportation unions",100,0,"#0000FFAF","#0000FFAF",2250
+"20586","PLUMBERS & PIPEFITTERS LOCAL 354","General Trade Unions","Labor","Construction unions",88.8888888888889,11.1111111111111,"#0000C2AF","#0000C2AF",4500
+"20606012","GANNETT FLEMING INC FEDERAL","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2735
+"20670","SPRINKLER FITTERS LOCAL 692","General Trade Unions","Labor","Construction unions",87.8787878787879,12.1212121212121,"#0000BDAF","#0000BDAF",23100
+"20673","PLUMBERS & STEAMFITTERS LOCAL 524","General Trade Unions","Labor","Construction unions",64.5161290322581,35.4838709677419,"#000047AF","#000047AF",775
+"20727","PENNSYLVANIA AUTO WORKERS","Transportation Unions","Labor","Automotive unions",100,0,"#0000FFAF","#0000FFAF",13750
+"2073","PLANNED PARENTHOOD OF PENNSYLVANIA","Health Services","Health","Health care services",100,0,"#0000FFAF","#0000FFAF",1494.96
+"20783","GREATER PENNSYLVANIA REGIONAL COUNCIL OF CARPENTERS","General Trade Unions","Labor","Construction unions",47.4290099769762,52.5709900230238,"#0F0000AF","#0F0000AF",26060
+"2080","PNC FINANCIAL SERVICES","Banks & Lending Institutions","Finance, Insurance & Real Estate","Banks & lending institutions",56.9620253164557,43.0379746835443,"#00001FAF","#00001FAF",9875
+"20810","METROPOLITAN REGIONAL COUNCIL CARPENTERS OF PHILADELPHIA & VICINITY","General Trade Unions","Labor","Construction unions",75.9058053370914,24.0941946629086,"#00007FAF","#00007FAF",439940
+"20880","FOOD & COMMERCIAL WORKERS LOCAL 1776","General Trade Unions","Labor","Food service & related unions",100,0,"#0000FFAF","#0000FFAF",34500
+"20977","ROOFERS & WATERPROOFERS LOCAL 30 & 30B","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",5700
+"21140","BROTHERHOOD OF LOCOMOTIVE ENGINEERS & TRAINMEN / BLET","Transportation Unions","Labor","Railroad unions",67.5675675675676,32.4324324324324,"#000057AF","#000057AF",3700
+"21159","SHEET METAL & AIR CONDITIONING ASSOCIATION","Special Trade Contractors","Construction","Plumbing, heating & air conditioning",23.1404958677686,76.8595041322314,"#8A0000AF","#8A0000AF",6050
+"2124","PRUDENTIAL FINANCIAL","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",23.0769230769231,76.9230769230769,"#8A0000AF","#8A0000AF",6500
+"214","APOLLO GROUP","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",2500
+"218","AQUA AMERICA","Water Utilities","Energy & Natural Resources","Water utilities",45.0236966824645,54.9763033175355,"#1A0000AF","#1A0000AF",10550
+"2198","RELIANT ENERGY","Electric Utilities","Energy & Natural Resources","Electric power utilities",14.1630901287554,85.8369098712446,"#B80000AF","#B80000AF",23300
+"2218","R J REYNOLDS TOBACCO CO","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"2315","SAUL EWING","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",58.2849774339136,41.7150225660864,"#000029AF","#000029AF",38775
+"2322","SCHERING-PLOUGH","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",2000
+"23410981","PLAN","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1800
+"23412234","PA DENTAL","Uncoded","Uncoded","Uncoded",57.5916230366492,42.4083769633508,"#000024AF","#000024AF",9550
+"23412474","HOUSING INDUSTRY FOR RESPONSIBLE GOVT","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3400
+"23412883","PENNSYLVANIA CHIROPRACTIC ASSOCIATION","Uncoded","Uncoded","Uncoded",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"2348444","KIRKPATRICK & LOCKHART LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",7000
+"23560930","PLUMBERS & PIPEFITTERS LOCAL 520","General Trade Unions","Labor","Construction unions",73.7179487179487,26.2820512820513,"#000075AF","#000075AF",15600
+"2362669","GANNETT FLEMING INC","Construction Services","Construction","Engineering, architecture & construction management services",0,100,"#FF0000AF","#FF0000AF",1500
+"2446","SPRINT","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",1500
+"24778858","MARY JO WHITE FOR PA SENATE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6000
+"25121116","SCHNADER HARRISON SEGAL & LEWIS LLP","Uncoded","Uncoded","Uncoded",59.2105263157895,40.7894736842105,"#00002EAF","#00002EAF",3800
+"2513","SUNOCO INC","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",3.36538461538462,96.6346153846154,"#F00000AF","#F00000AF",31200
+"25480296","PHYSICIANS ASSISTANT","Uncoded","Uncoded","Uncoded",63.4146341463415,36.5853658536585,"#000042AF","#000042AF",2050
+"25499255","WINE & SPIRITS BROKERS ASSOCIATES OF PA","Uncoded","Uncoded","Uncoded",25.6756756756757,74.3243243243243,"#800000AF","#800000AF",7400
+"2566","INTERNATIONAL BROTHERHOOD OF TEAMSTERS / IBT","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",1750
+"257","ASTRAZENECA","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",49.4505494505495,50.5494505494505,"#050000AF","#050000AF",9100
+"259","AT&T","Telecom Services & Equipment","Communications & Electronics","Telecommunications",26.8765133171913,73.1234866828087,"#7A0000AF","#7A0000AF",20650
+"2605","THORP REED & ARMSTRONG","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",5800
+"26151871","PENNONI ASSOCIATES","Uncoded","Uncoded","Uncoded",69.2307692307692,30.7692307692308,"#000061AF","#000061AF",1300
+"26151874","PA ASSOCIATION OF NURSE ANETHETISTS","Uncoded","Uncoded","Uncoded",71.4285714285714,28.5714285714286,"#00006BAF","#00006BAF",700
+"2642","TRIAD STRATEGIES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",70.5882352941177,29.4117647058824,"#000066AF","#000066AF",21250
+"2692","UNITED HEALTHCARE SERVICES","Insurance","Finance, Insurance & Real Estate","Accident & health insurance",70,30,"#000066AF","#000066AF",10000
+"2695","ALTRIA","Tobacco companies & tobacco product sales","General Business","Tobacco companies & tobacco product sales",60,40,"#000033AF","#000033AF",5000
+"2710","UPS","Air Transport","Transportation","Express delivery services",13.4615384615385,86.5384615384615,"#BD0000AF","#BD0000AF",13000
+"2719","US STEEL CORP","Steel","Energy & Natural Resources","Steel manufacturing",27.831094049904,72.168905950096,"#750000AF","#750000AF",26050
+"2722","USAA","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",0,100,"#FF0000AF","#FF0000AF",1500
+"2741","VERIZON COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",22.5023321477776,77.4976678522224,"#8F0000AF","#8F0000AF",22029.05
+"2772","WAL-MART","Retail Sales","General Business","Department, variety & convenience stores",6.75324675324675,93.2467532467532,"#E00000AF","#E00000AF",19250
+"2806","WE THE PEOPLE PAC","Leadership PACs","Candidate Contributions","PACs operated by Democratic members of Congress or prominent national Democrats",100,0,"#0000FFAF","#0000FFAF",1500
+"2871","WILLIG WILLIAMS & DAVIDSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",2750
+"2880","WINDSTREAM COMMUNICATIONS","Telecom Services & Equipment","Communications & Electronics","Telecommunications",25,75,"#800000AF","#800000AF",1600
+"2904","WYETH PHARMACEUTICALS","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",22.5806451612903,77.4193548387097,"#8F0000AF","#8F0000AF",15500
+"2938","AETNA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",7500
+"2996764","EDWARD G (ED) RENDELL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",20000
+"30131492","ILA LOCAL 1291","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"30149201","GSP CONSULTING CORPORATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"30154702","IRONWORKERS LOCAL 401","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",34300
+"3116","INTERNATIONAL ASSOCIATION OF HEAT & FROST INSULATORS & ALLIED WORKERS / HFIAW","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",1000
+"313","BARRACK RODOS & BACINE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6000
+"31595325","VALUE DRUG","Uncoded","Uncoded","Uncoded",28.8135593220339,71.1864406779661,"#700000AF","#700000AF",14750
+"31597256","HRG","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",6080
+"31649931","PENNSYLVANIA STATE FARM INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",43.4782608695652,56.5217391304348,"#240000AF","#240000AF",5750
+"31749642","PA APARTMENT ASSOCIATION","Uncoded","Uncoded","Uncoded",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",1750
+"31758262","TUCKER ARENSBERG","Uncoded","Uncoded","Uncoded",8.7719298245614,91.2280701754386,"#D60000AF","#D60000AF",2850
+"31854248","PA PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",66.6666666666667,33.3333333333333,"#000052AF","#000052AF",1500
+"31865155","PA MANUFACTURED HOUSING ASSOCIATION","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"3203","BALLARD SPAHR ANDREWS & INGERSOLL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",89.4736842105263,10.5263157894737,"#0000C7AF","#0000C7AF",9500
+"3213","PENNSYLVANIA ASSOCIATION OF COMMUNITY BANKERS","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",30.7692307692308,69.2307692307692,"#660000AF","#660000AF",41925
+"32476876","GANNETT FLEMING","Uncoded","Uncoded","Uncoded",95.4545454545455,4.54545454545455,"#0000E5AF","#0000E5AF",11000
+"3293449","FRIENDS OF BARBARA HAFER","Candidate Committees","Candidate Contributions","Candidate committees",76.9230769230769,23.0769230769231,"#000085AF","#000085AF",1300
+"331","BAYER AG","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",27.6595744680851,72.3404255319149,"#750000AF","#750000AF",2350
+"3388","PENNSYLVANIA CHAMBER OF BUSINESS & INDUSTRY","Business Associations","General Business","Chambers of commerce",3.5008752188047,96.4991247811953,"#F00000AF","#F00000AF",39990
+"3479","DOMINION","Miscellaneous Energy","Energy & Natural Resources","Energy production & distribution",20,80,"#990000AF","#9E0000AF",24500
+"355174","PENNSYLVANIA PROFESSIONAL FIRE FIGHTERS ASSOCIATION","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",2000
+"3615","EXELON","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",5.57029177718833,94.4297082228117,"#E60000AF","#E60000AF",18850
+"3617","ASSOCIATION OF PENNSYLVANIA STATE COLLEGE & UNIVERSITY FACULTIES","Public Sector Unions","Labor","Teachers unions",82.551076753175,17.448923246825,"#0000A3AF","#0000A3AF",54330
+"3728","FIRSTENERGY CORP","Electric Utilities","Energy & Natural Resources","Electric power utilities",11.9353916523728,88.0646083476272,"#C70000AF","#C70000AF",69960
+"37535667","ROHM & HAAS","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",1000
+"38041582","GLAXO SMITH KLINE","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",2000
+"38110033","ELEVATOR CONSTRUCTORS LOCAL 5","Uncoded","Uncoded","Uncoded",35.4838709677419,64.5161290322581,"#4D0000AF","#4D0000AF",1550
+"3813112","BURNS WHITE & HICKTON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",8000
+"3823","HOFFMAN LA ROCHE","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",0,100,"#FF0000AF","#FF0000AF",750
+"385","BOEING CO","Air Transport","Transportation","Aircraft manufacturers",10.8695652173913,89.1304347826087,"#CC0000AF","#CC0000AF",4600
+"3911","KLETT LIEBER ROONEY & SCHORLING","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",45,55,"#1A0000AF","#1F0000AF",11000
+"39159346","PCI","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2100
+"39366071","PCIPAC","Uncoded","Uncoded","Uncoded",31.25,68.75,"#610000AF","#610000AF",1600
+"3983749","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 1 PA / DE","General Trade Unions","Labor","Construction unions",98.1124952812382,1.8875047187618,"#0000F5AF","#0000F5AF",26490
+"40322406","PLASTERERS LOCAL 8","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",7930
+"40613088","TAC","Uncoded","Uncoded","Uncoded",97.1671388101983,2.8328611898017,"#0000F0AF","#0000F0AF",17650
+"40613644","PSC H20","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3500
+"40613752","GOLDEN RULE FINANCIAL CORPORATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2500
+"40613821","US TEAM","Uncoded","Uncoded","Uncoded",12.9032258064516,87.0967741935484,"#C20000AF","#C20000AF",7750
+"40613892","CAREMARK RX INC EMPLOYEES","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"40615214","PSC H2O","Uncoded","Uncoded","Uncoded",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",3500
+"40616278","EQUITABLE RESOURCES INC","Uncoded","Uncoded","Uncoded",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"40618527","DOLPAC","Uncoded","Uncoded","Uncoded",9.09090909090909,90.9090909090909,"#D10000AF","#D10000AF",2750
+"40618802","OTO","Uncoded","Uncoded","Uncoded",58.3333333333333,41.6666666666667,"#000029AF","#000029AF",1200
+"40618815","PA SOCIETY OF LAND SURVEYORS","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1900
+"40618829","PAWC","Uncoded","Uncoded","Uncoded",5.42299349240781,94.5770065075922,"#E60000AF","#E60000AF",4610
+"40618870","PAWC-PAC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",3685
+"40618906","TW PHILLIPS","Uncoded","Uncoded","Uncoded",27.027027027027,72.972972972973,"#750000AF","#750000AF",1850
+"40618967","FIRST NATIONAL BANK OF PA","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"40618977","LOCAL 1201 INTERNATIONAL","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"40618990","GEPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1800
+"40619761","EQUITABLE RESOURCES INC STATE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",5000
+"40619765","PCCFA","Uncoded","Uncoded","Uncoded",50,50,"#000000AF","#000000AF",250
+"4081","PENNSYLVANIA MEDICAL SOCIETY","Health Professionals","Health","Physicians",12.2840313734161,87.7159686265839,"#C20000AF","#C20000AF",71637.72
+"4122","NATIONAL FEDERATION OF INDEPENDENT BUSINESS / NFIB","Business Associations","General Business","Small business organizations",1.56521739130435,98.4347826086956,"#FA0000AF","#FA0000AF",28750
+"4148","NOVARTIS CORP","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",1750
+"4152","OBERMAYER REBMANN MAXWELL & HIPPEL","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",84.8484848484848,15.1515151515152,"#0000ADAF","#0000ADAF",82500
+"4239","PENNSYLVANIA BUILDERS ASSOCIATION","Home Builders","Construction","Residential construction",16.0740740740741,83.9259259259259,"#AD0000AF","#AD0000AF",67500
+"4240","PENNSYLVANIA FOOD MERCHANTS ASSOCIATION","Food Processing & Sales","Agriculture","Food stores",13.2992327365729,86.7007672634271,"#BD0000AF","#BD0000AF",19550
+"4241","PA FUTURE FUND","Business Associations","General Business","Pro-business organizations",1.73057346454021,98.2694265354598,"#FA0000AF","#FA0000AF",147350
+"4242","PENNSYLVANIA INSTITUTE OF CPAS","Accountants","Finance, Insurance & Real Estate","Accountants",27.7424280987529,72.2575719012471,"#750000AF","#750000AF",39290
+"4243","INSURANCE FEDERATION OF PENNSYLVANIA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",16.7989090007439,83.2010909992561,"#AD0000AF","#AD0000AF",161320
+"4244","PENNSYLVANIA ORTHOPAEDIC SOCIETY","Health Professionals","Health","Other physician specialists",33.1588132635253,66.8411867364747,"#570000AF","#570000AF",57300
+"4245","PENNSYLVANIA BUSINESS COUNCIL","Business Associations","General Business","Pro-business organizations",0,100,"#FF0000AF","#FF0000AF",15000
+"428","BUCHANAN INGERSOLL & ROONEY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",46.3744101185113,53.6255898814887,"#140000AF","#140000AF",39999.56
+"4327071","TEAMSTERS LOCAL 107","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",3150
+"4350","UNITED ASSOCIATION OF JOURNEYMEN & APPRENTICES OF THE PLUMBING & PIPE FITTING INDUSTRY OF THE UNITED STATES & CANADA / UA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",23000
+"43672089","VISION COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1550
+"43687763","PA BOWLING CENTERS","Uncoded","Uncoded","Uncoded",42.2222222222222,57.7777777777778,"#290000AF","#290000AF",2250
+"43687826","GPCC PENNPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",4250
+"43687926","PICPAC","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",4000
+"43687927","POLITICAL LABOR ACTION-NOW PLAN","Uncoded","Uncoded","Uncoded",11.0808153411672,88.9191846588328,"#C70000AF","#C70000AF",13536.91
+"43688234","PA PODIATRY","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1000
+"4411","PPL CORP","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",6.60707345511076,93.3929265448892,"#E00000AF","#E00000AF",64325
+"4453","PENNSYLVANIA ASSOCIATION OF REALTORS","Real Estate","Finance, Insurance & Real Estate","Real estate",32.2386864237085,67.7613135762915,"#5C0000AF","#5C0000AF",74910
+"4624","STRADLEY RONON STEVENS & YOUNG","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",75.8620689655172,24.1379310344828,"#00007FAF","#00007FAF",21750
+"4662322","PEOPLE FOR PLATTS CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",250
+"4662579","DOMINIC A PILEGGI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",70000
+"4663854","JAY COSTA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",48633.34
+"4665512","FRIENDS OF SENATOR DON WHITE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",51000
+"4667471","CITIZENS FOR HUGHES","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",12550
+"4667481","FRIENDS OF LISA BOSCOLA","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",46000
+"4667484","FRIENDS OF MIKE OPAKE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",49000
+"4668071","JOE SCARNATI CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",161730.22
+"4668178","FRIENDS OF JEFF PICCOLA","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1000
+"4668191","RAFFERTY FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",52000
+"4668208","BILL SHUSTER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",3000
+"4668855","MONTGOMERY COUNTY DEMOCRATIC CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",30000
+"4668925","FRIENDS OF JOE HOEFFEL","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1750
+"4668927","FRIENDS OF DAN ONORATO","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",11000
+"4669234","JOSHUA SHAPIRO CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",3000
+"4669617","CHUCK MCILHINNEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",12000
+"4669621","FRIENDS OF JAKE CORMAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",57000
+"4669626","FRIENDS OF JOHN PIPPY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",4500
+"4669829","ROBERT JUBELIRER CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",2750
+"4670280","PENNSYLVANIA ACADEMY OF AUDIOLOGY","Health Professionals","Health","Other physician specialists",20,80,"#990000AF","#9E0000AF",1250
+"4670306","BOWLING PROPRIETORS ASSOCIATION OF PENNSYLVANIA","Recreation & Live Entertainment","General Business","Amusement & recreation centers",58.0645161290323,41.9354838709677,"#000029AF","#000029AF",3100
+"4670438","RED RIVER CANYON CMTE","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",3500
+"4671041","FRIENDS OF COMMUNITY COLLEGES","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",1400
+"4671257","CITIZENS FOR PAT BROWNE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",88500
+"4671356","ANTHRACITE REGION INDEPENDENT POWER PRODUCERS ASSOCIATION","Electric Utilities","Energy & Natural Resources","Independent power generation & cogeneration",13.5593220338983,86.4406779661017,"#BD0000AF","#BD0000AF",5900
+"4672140","PENNSYLVANIA HOMECARE ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1850
+"4672149","BETTER CITIZENS CMTE","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",700
+"4672937","STANDANDBRED BREEDERS ASSOCIATION OF PENNSYLVANIA","Gambling & Casinos","General Business","Casinos, racetracks & gambling",74.3801652892562,25.6198347107438,"#00007AAF","#00007AAF",6050
+"4673031","PENNSYLVANIA SOCIETY OF PROFESSIONAL ENGINEERS","Construction Services","Construction","Engineering, architecture & construction management services",7.04225352112676,92.9577464788732,"#DB0000AF","#DB0000AF",3550
+"4673081","GROGAN GRAFFAM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6750
+"4673237","KENNETH LAVALLE FOR STATE SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",912.5
+"4673330","LOGAN FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",32934
+"4673372","PENNSYLVANIA HUMANE SOCIETY","Animal Rights","Ideology/Single Issue","Animal rights",100,0,"#0000FFAF","#0000FFAF",1350
+"4673413","GATEWAY HEALTH PLAN","Health Services","Health","HMOs",0,100,"#FF0000AF","#FF0000AF",1050
+"4673536","CHIROPRATIC FELLOWSHIP OF PENNSYLVANIA","Health Professionals","Health","Chiropractors",62.5,37.5,"#00003DAF","#00003DAF",800
+"4673639","APARTMENT ASSOCIATION OF PENNSYLVANIA","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",14.2857142857143,85.7142857142857,"#B80000AF","#B80000AF",1750
+"4673645","PENNSYLVANIA BIO PAC","Pharmaceuticals & Health Products","Health","Biotech products & research",64.2857142857143,35.7142857142857,"#000047AF","#000047AF",1400
+"4674296","TEAMSTERS LOCAL 384","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",7500
+"4674553","PROFESSIONAL INSURANCE AGENTS OF PENNSYLVANIA","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",15.1515151515152,84.8484848484848,"#B30000AF","#B30000AF",9900
+"4674595","SOCIETY HILL TOWERS COMMUNITY PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2500
+"4675034","KAKE PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",2000
+"4675040","CAMPAIGN PENNSYLVANIA","Candidate Committees","Candidate Contributions","Candidate committees",70.9677419354839,29.0322580645161,"#000066AF","#000066AF",7750
+"4675240","GEISINGER HEALTH SYSTEM","Hospitals & Nursing Homes","Health","Hospitals",0,100,"#FF0000AF","#FF0000AF",5570.14
+"4675445","RTK CMTE","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",100,0,"#0000FFAF","#0000FFAF",12550
+"4675738","POLICY PAC","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"4676600","TEAMSTERS LOCAL 77","Transportation Unions","Labor","Teamsters unions",100,0,"#0000FFAF","#0000FFAF",2000
+"4676633","CHRISTINE M TARTAGLIONE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1000
+"4677366","MIKE STACK CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",91500
+"4677385","WILLIAMS FOR SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",54200
+"4677542","HOLSTON & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",36.6013071895425,63.3986928104575,"#470000AF","#470000AF",7650
+"4677788","EAT N PARK HOSPITALITY GROUP","Food & Beverage","General Business","Restaurants & drinking establishments",12.8205128205128,87.1794871794872,"#C20000AF","#C20000AF",5850
+"4677857","SCHOOL BUS","Miscellaneous Transport","Transportation","Bus services",0,100,"#FF0000AF","#FF0000AF",1200
+"4678684","PENNSYLVANIA ASSOCIATION OF MUTUAL INSURANCE COMPANIES","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",0,100,"#FF0000AF","#FF0000AF",1800
+"4679001","SEPAC","Business Associations","General Business","Chambers of commerce",70,30,"#000066AF","#000066AF",500
+"4680024","PMSLIC","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",2000
+"4680493","PSYCHIATRIC PHYSICIANS OF PENNSYLVANIA","Health Professionals","Health","Psychiatrists & psychologists",0,100,"#FF0000AF","#FF0000AF",1750
+"4680571","MACELREE HARVEY ENTERPRISES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",85.7142857142857,14.2857142857143,"#0000B3AF","#0000B3AF",2100
+"4681114","LPAC ERIE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",0,100,"#FF0000AF","#FF0000AF",2300
+"4682429","S&T BANCORP","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",0,100,"#FF0000AF","#FF0000AF",2300
+"4682843","LARSON DESIGN GROUP","Construction Services","Construction","Engineering, architecture & construction management services",25,75,"#800000AF","#800000AF",1000
+"4683186","ROB WONDERLING FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1000
+"4684951","IFAPAC-PA","Insurance","Finance, Insurance & Real Estate","Insurance companies, general",22.5806451612903,77.4193548387097,"#8F0000AF","#8F0000AF",15500
+"4685165","FRIENDS FOR DAVE BUELL","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",140
+"4685270","UNIVERSITY OF PITTSBURGH","Education","Government Agencies/Education/Other","Schools & colleges",0,100,"#FF0000AF","#FF0000AF",1403
+"4686463","PENN AG INDUSTRIES ASSOCIATION","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1200
+"4686648","FRIENDS OF NEAL GOODMAN","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",500
+"4686668","FRIENDS OF BOB MELLOW","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",105980
+"4687538","ALLEGHENY COUNTY CORRECTIONS OFFICERS","Public Sector Unions","Labor","Police & fire fighters unions and associations",100,0,"#0000FFAF","#0000FFAF",1500
+"4704","TRANSPORTATION CONSTRUCTION INDUSTRIES","General Contractors","Construction","Public works, industrial & commercial construction",4.36681222707424,95.6331877729258,"#EB0000AF","#EB0000AF",22900
+"4716","PENNSYLVANIA ASSOCIATION FOR JUSTICE","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",61.3037447988904,38.6962552011096,"#000038AF","#000038AF",306425
+"4735738","ZARWIN BAUM","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",4000
+"4742359","BAKERY CONFECTIONERY & TOBACCO WORKERS LOCAL 6","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",700
+"4746173","PENNSYLVANIA RIGHT TO WORK","Anti-Labor Groups","Ideology/Single Issue","Labor, anti-union",0,100,"#FF0000AF","#FF0000AF",3900
+"4748050","RICHARD A KASUNIC CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",4000
+"4750382","FRIENDS OF LEANNA WASHINGTON","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1200
+"4751563","FOX ROTHSCHILD","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",82.6771653543307,17.3228346456693,"#0000A3AF","#0000A3AF",12700
+"4752","WACHOVIA BANK","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",69.6969696969697,30.3030303030303,"#000061AF","#000061AF",6600
+"4753483","PENNSYLVANIA STATE NURSES ASSOCIATION","Health Professionals","Health","Nurses",12.7659574468085,87.2340425531915,"#C20000AF","#C20000AF",2350
+"4755648","CMTE TO REELECT JOHN WOZNIAK","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",7000
+"4756","WASTE MANAGEMENT","Waste Management","Energy & Natural Resources","Waste management",14.2276422764228,85.7723577235772,"#B80000AF","#B80000AF",12300
+"4757636","RACE STREET","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",22.2222222222222,77.7777777777778,"#8F0000AF","#8F0000AF",9000
+"4760267","BAKER FOR SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1250
+"4763475","FRIENDS OF TODD EACHUS","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",2250
+"4764107","STOUT ELECTION CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",10250
+"4769589","PILEGGI VICTORY CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",50000
+"4769751","DOIG & DOIG","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",600
+"4771","WOLF BLOCK SCHORR & SOLIS-COHEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",69.7179044329303,30.2820955670697,"#000061AF","#000061AF",86850
+"4773297","HARRISBURG REGIONAL CHAMBER","Business Associations","General Business","Chambers of commerce",0,100,"#FF0000AF","#FF0000AF",2000
+"4775108","PASNAP PAC","General Trade Unions","Labor","Health worker unions",100,0,"#0000FFAF","#0000FFAF",1500
+"4775783","POWER PAC","Oil & Gas","Energy & Natural Resources","Oilfield service, equipment & exploration",0,100,"#FF0000AF","#FF0000AF",4500
+"4779902","MARKOSEK FOR STATE LEGISLATURE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",350
+"4782499","SIERRA CLUB PENNSYLVANIA CHAPTER","Pro-Environmental Policy","Ideology/Single Issue","Environmental policy",100,0,"#0000FFAF","#0000FFAF",1100
+"4784883","PATRIOTS FOR PERRY","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1100
+"4790505","WBA","Uncoded","Uncoded","Uncoded",75,25,"#00007FAF","#00007FAF",2000
+"4796629","PENNSYLVANIA STATE LEGISLATIVE BOARD UNITED TRANSPORTATION UNION","Transportation Unions","Labor","Railroad unions",93.3774834437086,6.62251655629139,"#0000DBAF","#0000DBAF",7550
+"4805613","PEOPLE FOR PEDICONE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",410
+"4811995","WANNER ASSOCIATES","Employer Listed/Category Unknown","Uncoded","Employer listed but category unknown",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",750
+"4820146","PATRICIA VANCE CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",11000
+"4820787","H-TECHT PAC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",70.959595959596,29.040404040404,"#000066AF","#000066AF",19800
+"4826133","STEMFITTERS LOCAL 449","General Trade Unions","Labor","Construction unions",62.6817447495961,37.3182552504039,"#00003DAF","#00003DAF",30950
+"4843559","PLUMBERS & PIPEFITTERS LOCAL 690","General Trade Unions","Labor","Construction unions",98.7012987012987,1.2987012987013,"#0000F5AF","#0000F5AF",38500
+"4851745","WESTRUM","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1250
+"4861086","FRIENDS OF TED ERICKSON","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",1000
+"4868995","ILLEGIBLE","Uncoded","Uncoded","Uncoded",25,75,"#800000AF","#800000AF",1200
+"4870704","KEEP PHILLY COMPETITIVE","Candidate Committees","Candidate Contributions","Candidate committees",45.4545454545455,54.5454545454545,"#1A0000AF","#1A0000AF",1100
+"4874563","JAMES KENNEY CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",40100
+"4875582","FRIENDS OF THE 56TH WARD","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1600
+"4875592","GREEN FOR PHILADELPHIA","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",7500
+"4880708","WAYNE FONTANA CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",9833
+"4881994","ROBERT MCCORD CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",1500
+"4883268","FUNERAL SERVICE","Miscellaneous Services","General Business","Funeral services",45.8333333333333,54.1666666666667,"#1A0000AF","#1A0000AF",2400
+"4884701","EARLL FOR SENATE CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",15250
+"4886508","ZACHPAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1000
+"489","CARDINAL HEALTH","Health Services","Health","Health care services",65.2173913043478,34.7826086956522,"#00004DAF","#00004DAF",1150
+"4893914","1634 ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",43.010752688172,56.989247311828,"#240000AF","#240000AF",2325
+"4900177","138 ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",1200
+"4902568","2112 ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",52.6315789473684,47.3684210526316,"#00000AAF","#00000AAF",950
+"4911358","MICHAEL BAKER CORPORATION","Construction Services","Construction","Engineering, architecture & construction management services",4.83091787439614,95.1690821256039,"#EB0000AF","#EB0000AF",10350
+"4912525","KENNYWOOD ENTERTAINMENT","Recreation & Live Entertainment","General Business","Amusement parks",0,100,"#FF0000AF","#FF0000AF",5500
+"4916681","EQUITABLE RESOURCES","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",35.7142857142857,64.2857142857143,"#4D0000AF","#4D0000AF",1400
+"4920","PENNSYLVANIA REPUBLICAN PARTY","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",2204252.19
+"4921","SENATE REPUBLICAN CAMPAIGN CMTE OF PENNSYLVANIA","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",1573016.49
+"4921196","JIM GERLACH FOR CONGRESS CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",800
+"4921843","PENNSYLVANIA RADIOLOGICAL SOCIETY","Health Professionals","Health","Other physician specialists",49.0196078431373,50.9803921568627,"#050000AF","#050000AF",2550
+"4922","DEMOCRATIC STATE SENATE CAMPAIGN CMTE OF PENNSYLVANIA","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",245158.2
+"4922425","ROCA, ANGELES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",140
+"4924","PENNSYLVANIA DEMOCRATIC PARTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",1681273.91
+"4926192","GROW PENNSYLVANIA PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",5500
+"4936419","YP PAC","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",19500
+"4936530","VISION PAC","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",100,0,"#0000FFAF","#0000FFAF",1750
+"4941355","IRONWORKERS LOCAL 404","General Trade Unions","Labor","Construction unions",52,48,"#00000AAF","#00000AAF",2500
+"4941449","DEMOCRATIC PARTY OF YORK COUNTY","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",9500
+"4941941","PEOPLE FOR MADIGAN","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",8000
+"4943638","PENNSYLVANIA DEMOCRATIC STATE SENATE CAMPAIGN CMTE","Party Committees","Party","Democratic Party committees",100,0,"#0000FFAF","#0000FFAF",431000
+"4947831","PENNSYLVANIA OCCUPATIONAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",0,100,"#FF0000AF","#FF0000AF",1500
+"4948881","PENNSYLVANIA INTERESTED CITIZENS","Uncoded","Uncoded","Uncoded",90,10,"#0000CCAF","#0000CCAF",10000
+"4949064","MULTI-CANDIDATE COMMITTEE","Uncoded","Uncoded","Uncoded",81.8181818181818,18.1818181818182,"#00009EAF","#00009EAF",5500
+"4954458","GRANE ASSOCIATES","Hospitals & Nursing Homes","Health","Health care institutions",55.5555555555556,44.4444444444444,"#00001AAF","#00001AAF",4500
+"4959482","NORTH SIDE","Uncoded","Uncoded","Uncoded",37.5,62.5,"#420000AF","#420000AF",800
+"4967613","LAVALLE FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",65000
+"5036927","FRIENDS OF ANDY LEWIS","Uncoded","Uncoded","Uncoded",6.66666666666667,93.3333333333333,"#E00000AF","#E00000AF",3750
+"5061092","DAVID BRIGHTBILL CAMPAIGN CMTE","Candidate Committees","Candidate Contributions","Candidate committees",0,100,"#FF0000AF","#FF0000AF",14550
+"5065045","SEAN LOGAN FOR STATE SENATE","Candidate Committees","Candidate Contributions","Candidate committees",100,0,"#0000FFAF","#0000FFAF",101000
+"5095482","FRIENDS OF BARCLAY & EICHELBERGER","Joint Candidate Committee","Candidate Contributions","Republican joint candidate committees",0,100,"#FF0000AF","#FF0000AF",1810
+"5122273","HOTEL EMPLOYEES & RESTAURANT EMPLOYEES LOCAL 57","General Trade Unions","Labor","Other unions",100,0,"#0000FFAF","#0000FFAF",200
+"5135554","CITIZENS & TAXPAYERS PAC","Uncoded","Uncoded","Uncoded",92.8571428571429,7.14285714285714,"#0000D6AF","#0000D6AF",7000
+"5145267","ALLTEL","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",900
+"5213255","PA RECREATIONAL VEHICLE","Trucking","Transportation","Trucking",0,100,"#FF0000AF","#FF0000AF",1500
+"5354094","KEYSTONE EMPLOYEES","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",28.5714285714286,71.4285714285714,"#700000AF","#700000AF",700
+"5368","PENNSYLVANIA CREDIT UNION ASSOCIATION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",28.4263959390863,71.5736040609137,"#700000AF","#700000AF",9850
+"5369079","CENTRE","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",2250
+"5370","PHILADELPHIA FEDERAL CREDIT UNION","Credit Unions","Finance, Insurance & Real Estate","Credit unions",78.9473684210526,21.0526315789474,"#00008FAF","#00008FAF",4750
+"541","CENTURYLINK","Telecom Services & Equipment","Communications & Electronics","Telecommunications",0,100,"#FF0000AF","#FF0000AF",1300
+"542","CEPHALON INC","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",42.8571428571429,57.1428571428571,"#290000AF","#290000AF",3500
+"5482056","CAPITAL ASSOCIATES","Securities & Investment","Finance, Insurance & Real Estate","Securities, commodities & investment",3.7593984962406,96.2406015037594,"#F00000AF","#F00000AF",6650
+"5502840","PUBLIC EVENTS EMPLOYEES LOCAL 188","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",1100
+"5514530","VOLLMER ASSOCIATES LLP","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6700
+"5665","AIR PRODUCTS & CHEMICALS","Miscellaneous Manufacturing & Distributing","General Business","Industrial & commercial equipment and materials",7.93650793650794,92.0634920634921,"#DB0000AF","#DB0000AF",6300
+"5726","ALLIANCE OF AUTOMOTIVE SERVICE PROVIDERS OF PENNSYLVANIA","Automotive","Transportation","Auto dealers, new & used",0,100,"#FF0000AF","#FF0000AF",1250
+"5728362","HARLEYSVILLE INSURANCE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",25500
+"5728598","PAD","Uncoded","Uncoded","Uncoded",21.0526315789474,78.9473684210526,"#940000AF","#940000AF",4750
+"5732141","NORFOLK SOUTHERN","Railroads","Energy & Natural Resources","Railroad transportation",0,100,"#FF0000AF","#FF0000AF",2000
+"575","CHIMICLES & TIKELLIS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",6000
+"5750379","FARMER","Farm Bureau","Agriculture","Farm Bureau/affiliated organizations & PACs",58.041958041958,41.958041958042,"#000029AF","#000029AF",7150
+"5799916","PLUMBERS & STEAMFITTERS LOCAL 47","General Trade Unions","Labor","Labor unions",92.5,7.5,"#0000D6AF","#0000D6AF",4000
+"584","CIGNA CORP","Insurance","Finance, Insurance & Real Estate","Insurance agencies, brokers & agents",0,100,"#FF0000AF","#FF0000AF",2000
+"585385","INTERNATIONAL ASSOCIATION OF BRIDGE STRUCTURAL ORNAMENTAL & REINFORCING IRON WORKERS","General Trade Unions","Labor","Construction unions",73.9130434782609,26.0869565217391,"#000075AF","#000075AF",5750
+"5871313","BETTER PENNSYLVANIA","Other/Single Issue Groups","Ideology/Single Issue","Other single-issue or ideological groups",0,100,"#FF0000AF","#FF0000AF",1720
+"5892815","WHITE ROSE","Uncoded","Uncoded","Uncoded",0,100,"#FF0000AF","#FF0000AF",1500
+"5899356","PA ASSOCIATION OF NURSE ANESTHETISTS","Uncoded","Uncoded","Uncoded",18.1818181818182,81.8181818181818,"#A30000AF","#A30000AF",8250
+"5906587","LOCAL 520","Uncoded","Uncoded","Uncoded",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"592","CITIGROUP","Miscellaneous Finance, Insurance & Real Estate","Finance, Insurance & Real Estate","Finance, insurance & real estate",100,0,"#0000FFAF","#0000FFAF",2800
+"5931295","IRONWORKERS LOCAL 420","General Trade Unions","Labor","Construction unions",73.3333333333333,26.6666666666667,"#000075AF","#000075AF",7500
+"5937410","RICHARD KASUNIC CAMPAIGN COMMITTEE","Uncoded","Uncoded","Uncoded",100,0,"#0000FFAF","#0000FFAF",6000
+"6","84 LUMBER","Building Materials & Equipment","Construction","Lumber and wood products & lumber yards",63.6942675159236,36.3057324840764,"#000042AF","#000042AF",7850
+"621","COHEN & GRIGSBY","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",26.2295081967213,73.7704918032787,"#7A0000AF","#7A0000AF",15250
+"6423836","STEAMFITTERS LOCAL 420","General Trade Unions","Labor","Construction unions",96.551724137931,3.44827586206897,"#0000EBAF","#0000EBAF",29000
+"6424","CONSTRUCTORS ASSOCIATION OF WESTERN PENNSYLVANIA","General Contractors","Construction","Builders associations",0,100,"#FF0000AF","#FF0000AF",4300
+"644","COMCAST","Telecom Services & Equipment","Communications & Electronics","Telecommunications",56.8648739597173,43.1351260402827,"#00001FAF","#00001FAF",125999.4
+"6448","CORNELL COMPANIES","Miscellaneous Business","General Business","Correctional facilities construction & management/for-profit",0,100,"#FF0000AF","#FF0000AF",2000
+"6589","DMJM & HARRIS","Miscellaneous Transport","Transportation","Transportation",56.7567567567568,43.2432432432432,"#00001FAF","#00001FAF",18500
+"6633","ECKERT SEAMANS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",41.2087912087912,58.7912087912088,"#2E0000AF","#2E0000AF",18200
+"668","CONOCOPHILLIPS","Oil & Gas","Energy & Natural Resources","Major (multinational) oil & gas producers",0,100,"#FF0000AF","#FF0000AF",3800
+"670","CONSOL ENERGY","Mining","Energy & Natural Resources","Coal mining",0,100,"#FF0000AF","#FF0000AF",15000
+"6748","FELDMAN SHEPHERD WOHLGELERNTER TANNER WEINSTOCK DODIG LLP","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",25.3164556962025,74.6835443037975,"#800000AF","#800000AF",3950
+"6762","FINANCIAL SERVICE CENTERS OF AMERICA","Payday/Title Loans","Finance, Insurance & Real Estate","Payday/Title Loans",7.6555023923445,92.3444976076555,"#DB0000AF","#DB0000AF",10450
+"6830127","BRICKLAYERS & ALLIED CRAFTWORKERS LOCAL 5 PENNSYLVANIA","General Trade Unions","Labor","Construction unions",100,0,"#0000FFAF","#0000FFAF",4000
+"7054","HCR MANORCARE","Hospitals & Nursing Homes","Health","Nursing homes",0,100,"#FF0000AF","#FF0000AF",5500
+"7135","HUNTINGTON BANCSHARES","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",100,0,"#0000FFAF","#0000FFAF",1300
+"714","COZEN OCONNOR PC","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",34.4827586206897,65.5172413793103,"#520000AF","#520000AF",11600
+"729","CROWN HOLDINGS","Miscellaneous Manufacturing & Distributing","General Business","Paper, glass & packaging materials",30.1675977653631,69.8324022346369,"#660000AF","#660000AF",3580
+"7313","JOHNSON & JOHNSON SERVICES","Pharmaceuticals & Health Products","Health","Health care products",10.7142857142857,89.2857142857143,"#CC0000AF","#CC0000AF",5600
+"741","CVS CAREMARK","Retail Sales","General Business","Drug stores",0,100,"#FF0000AF","#FF0000AF",1000
+"7440","KLEHR HARRISON HARVEY BRANZBURG & ELLERS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",100,0,"#0000FFAF","#0000FFAF",700
+"7600","LYONDELL CHEMICAL","Chemical & Related Manufacturing","General Business","Chemicals",0,100,"#FF0000AF","#FF0000AF",7100
+"7650","MALADY & WOOTEN","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",58.6566993389774,41.3433006610226,"#000029AF","#000029AF",25518.04
+"800","DILWORTH PAXSON","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",90.7504363001745,9.24956369982548,"#0000CCAF","#0000CCAF",28650
+"84","ALLEGHENY ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",1.43198090692124,98.5680190930788,"#FA0000AF","#FA0000AF",20950
+"8406","PECO ENERGY","Electric Utilities","Energy & Natural Resources","Gas & electric utilities",58.5557299843014,41.4442700156986,"#000029AF","#000029AF",31850
+"8409","PENNSYLVANIA ACADEMY OF OPHTHALMOLOGY","Health Professionals","Health","Optometrists & ophthalmologists",67.7316293929712,32.2683706070287,"#000057AF","#000057AF",15650
+"8411","PENNSYLVANIA SOCIETY OF ANESTHESIOLOGISTS","Health Professionals","Health","Other physician specialists",68.5814771395076,31.4185228604924,"#00005CAF","#00005CAF",42650
+"8413","PENNSYLVANIA ASSOCIATION OF MILK DEALERS","Dairy","Agriculture","Dairy farmers & wholesale and retail milk, cheese and ice cream dealers",76.1904761904762,23.8095238095238,"#000085AF","#000085AF",4200
+"8414","PENNSYLVANIA ASSOCIATION OF NURSE ANESTHETISTS","Health Professionals","Health","Nurses",35.8974358974359,64.1025641025641,"#4D0000AF","#4D0000AF",1950
+"8416","PENNSYLVANIA AUTOMOTIVE ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",26.7663043478261,73.2336956521739,"#7A0000AF","#7A0000AF",36800
+"8417","PENNSYLVANIA BANKERS ASSOCIATION","Commercial Banks","Finance, Insurance & Real Estate","Commercial banks & bank holding companies",31.1503130984046,68.8496869015954,"#610000AF","#610000AF",105937.94
+"8418","PENNSYLVANIA BAR ASSOCIATION","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",53.6466114355562,46.3533885644438,"#00000FAF","#00000FAF",73630
+"8419","PENNSYLVANIA STATE BUILDING & CONSTRUCTION TRADES COUNCIL","General Trade Unions","Labor","Construction unions",53.177811793627,46.822188206373,"#00000FAF","#00000FAF",29711.64
+"8420","PENNSYLVANIA CHIROPRACTIC ASSOCIATION","Health Professionals","Health","Chiropractors",83.5766423357664,16.4233576642336,"#0000A8AF","#0000A8AF",13700
+"8421","PENNSYLVANIA COAL ASSOCIATION","Mining","Energy & Natural Resources","Coal mining",5.51724137931035,94.4827586206897,"#E60000AF","#E60000AF",14500
+"8422","PENNSYLVANIA DENTAL ASSOCIATION","Health Professionals","Health","Dentists",30.0699300699301,69.9300699300699,"#660000AF","#660000AF",14300
+"8423","PENNSYLVANIA EMERGENCY PHYSICIANS","Health Professionals","Health","Other physician specialists",52,48,"#00000AAF","#00000AAF",3750
+"8427","PENNSYLVANIA INDEPENDENT AUTOMOTIVE DEALERS ASSOCIATION","Automotive","Transportation","Auto dealers, new & used",33.3333333333333,66.6666666666667,"#570000AF","#570000AF",1500
+"8428","PENNSYLVANIA MANUFACTURED HOUSING ASSOCIATION","Home Builders","Construction","Mobile home construction",82.7586206896552,17.2413793103448,"#0000A3AF","#0000A3AF",5800
+"8429","PENNSYLVANIA MANUFACTURERS ASSOCIATION","Miscellaneous Manufacturing & Distributing","General Business","Manufacturing",0,100,"#FF0000AF","#FF0000AF",11280
+"8430","PENNSYLVANIA MOTOR TRUCK ASSOCIATION","Trucking","Transportation","Trucking",59,41,"#00002EAF","#00002EAF",20000
+"8431","PENNSYLVANIA PETROLEUM ASSOCIATION","Oil & Gas","Energy & Natural Resources","Petroleum refining & marketing",7.64331210191083,92.3566878980892,"#DB0000AF","#DB0000AF",7850
+"8432","PENNSYLVANIA PHYSICAL THERAPY ASSOCIATION","Health Professionals","Health","Other non-physician health practitioners",36.4269141531323,63.5730858468677,"#470000AF","#470000AF",10775
+"8433","PENNSYLVANIA RESIDENTIAL OWNERS ASSOCIATION","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",30,70,"#660000AF","#660000AF",6000
+"8434","PENNSYLVANIA RETAILERS ASSOCIATION","Retail Sales","General Business","Retail trade",40.8839779005525,59.1160220994475,"#330000AF","#330000AF",9050
+"8435","PENNSYLVANIA RURAL ELECTRIC ASSOCIATION","Electric Utilities","Energy & Natural Resources","Rural electric cooperatives",12.4423963133641,87.5576036866359,"#C20000AF","#C20000AF",10850
+"8476","PILOTS ASSOCIATION FOR THE BAY & RIVER DELAWARE","Transportation Unions","Labor","Transportation unions",89.0909090909091,10.9090909090909,"#0000C7AF","#0000C7AF",27500
+"852","DUANE MORRIS","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",58.1463414634146,41.8536585365854,"#000029AF","#000029AF",51250
+"8569","K&L GATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Attorneys & law firms",10.2272727272727,89.7727272727273,"#CC0000AF","#CC0000AF",13200
+"8671","PENNSYLVANIA REPUBLICAN FUTURE FUND","Party Committees","Party","Republican Party committees",0,100,"#FF0000AF","#FF0000AF",24100
+"8788","SR WOJDAK & ASSOCIATES","Lawyers & Lobbyists","Lawyers & Lobbyists","Lobbyists & public relations",83.7967401725791,16.2032598274209,"#0000A8AF","#0000A8AF",52150
+"885","EDISON INTERNATIONAL","Electric Utilities","Energy & Natural Resources","Electric power utilities",0,100,"#FF0000AF","#FF0000AF",15800
+"887","EDISON SCHOOLS","Education","Government Agencies/Education/Other","Education",0,100,"#FF0000AF","#FF0000AF",4500
+"898","INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS / IBEW","General Trade Unions","Labor","Electrical workers/IBEW",94.6891973445987,5.31080265540133,"#0000E0AF","#0000E0AF",82850
+"900","ELI LILLY & CO","Pharmaceuticals & Health Products","Health","Pharmaceutical manufacturing",16.304347826087,83.695652173913,"#AD0000AF","#AD0000AF",9200
+"904","EMILYS LIST","Abortion Policy","Ideology/Single Issue","Abortion policy, pro-choice",100,0,"#0000FFAF","#0000FFAF",9528.34
+"9086","SWANSON STREET ASSOCIATES","Real Estate","Finance, Insurance & Real Estate","Real estate developers & subdividers",100,0,"#0000FFAF","#0000FFAF",37500
+"914","ENTERPRISE HOLDINGS","Automotive","Transportation","Car & truck rental agencies",0,100,"#FF0000AF","#FF0000AF",9000
+"9276","UNIVERSITY CITY HOUSING CO","Real Estate","Finance, Insurance & Real Estate","Building operators & managers",58.8235294117647,41.1764705882353,"#000029AF","#000029AF",17000
+"95","ALLSTATE INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",5.55555555555556,94.4444444444444,"#E60000AF","#E60000AF",9000
+"9613","OHIO FARMERS INSURANCE","Insurance","Finance, Insurance & Real Estate","Property & casualty insurance",0,100,"#FF0000AF","#FF0000AF",3750
+"9989","AMERICAS FOUNDATION","Leadership PACs","Candidate Contributions","PACs operated by Republican members of Congress or prominent national Republicans",0,100,"#FF0000AF","#FF0000AF",2000
